@@ -282,5 +282,178 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+
+
+# http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8
+
+# rtmp://58.200.131.2:1935/livetv/cctv5hd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+
+# rtmp://58.200.131.2:1935/livetv/cctv5phd
+
+#EXTINF:-1 group-title="SPORTS",超级体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+
+#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",SKY SPORT MAIN EVENTS (UK)
+http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title=“SPORTS”,Eleven Sport 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title=“SPORTS”,Eleven Sport 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png’ group-title="SPORTS" ,BT SPORT 1
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+# http://livepulse2.uk:8080/live/88888/99999/222630.ts
+
+# http://212.224.98.206:2200/EX/UK_BT_SPORTS_1_FHD-uk/index.m3u8?token=RED
+
+
+# http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT 2
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+# http://livepulse2.uk:8080/live/88888/99999/222631.ts
+
+# http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+
+
+
+# EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT ESPN
+# http://livepulse2.uk:8080/live/88888/99999/222633.ts
+
+
+
+#EXTINF:-1 group-title="SPORTS" ,Beinsport 2 France
+http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" ,Beinsport 3 France
+http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" ,Beinsport 1 France
+http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
+
+
+# EXTINF:-1 group-title="SPORTS" ,Beinsport 1 Xtra (English)
+# https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+
+# #EXTINF:-1 group-title="SPORTS" ,Beinsport 1 ENGLISH
+# http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+
+# #EXTINF:-1 group-title="SPORTS",Beinsport 2 ENGLISH
+# http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+# EXTINF:-1 logo="https://e3.365dm.com/tvlogos/channels/1333-Logo.png"group-title=“SPORTS”, Sky Sports Action
+# https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/ououennp.ss.m3u8
+
+
+# EXTINF:-1 tvg-logo=“https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo-small.png” group-title="SPORTS",SkySports Mix
+# https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/szckleid.ss.m3u8
+
+# http://livepulse2.uk:8080/live/88888/99999/222624.ts
+
+# EXTINF:-1 tvg-logo=“https://pbs.twimg.com/profile_images/1346183994661089281/Gn39xnWT.jpg” group-title="SPORTS",SkySports Premier League
+# https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/diiefbxx.ss.m3u8
+
+
+# http://livepulse2.uk:8080/live/88888/99999/222627.ts
+
+# EXTINF:-1 tvg-logo=“https://i.pinimg.com/originals/ac/41/d2/ac41d254402f5c5bef78c8e2669dbdfa.png” group-title="SPORTS",SkySports Football
+# https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/lvupvmnk.ss.m3u8
+
+
+# http://livepulse2.uk:8080/live/88888/99999/222614.ts
+
+# EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg” group-title="SPORTS",SkySports Main Event
+# http://livepulse2.uk:8080/live/88888/99999/222623.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7TdD4n.png" group-title="SPORTS”,TSN 1
+http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7TdD4n.png" group-title="SPORTS” ,TSN 5
+http://31.220.41.88:8081/live/tsn5.stream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+
+
+
+
+# EXTINF:-1 group-title="SPORTS",Bein Sport1
+# http://55.1-bour.xyz:80/live/918454578/index.m3u8
+
+# EXTINF:-1 group-title="SPORTS",Bein Sport2
+# http://55.1-bour.xyz:80/live/69854211/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title=SPORTS” ,FS1 HD
+http://4.26.188.2:8081/udp/239.193.10.101:23901
+
+# http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
+
+
+
+# 
+
+
+#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1",FS2 HD
+http://4.26.188.2:8081/udp/239.193.10.102:23902
+
+
+# http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png" group-title="SPORTS” ,Bein Sports HD (English)
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://bit.ly/2Tnl5GH",Ad Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Ad Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Ad Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Premier League SD
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+
+
 
 

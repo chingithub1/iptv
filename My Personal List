@@ -1,7 +1,7 @@
 
 #EXTM3U
 # https://goo.gl/tXAoKy
-
+# https://bit.ly/3EN9tTU
 
 #EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
 http://61.238.6.49:8000/bysid/1
@@ -269,7 +269,11 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
 
+#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/07/08/08/760154153.png" group-title="SPORTS",beIN Sports 1 PREMIUM FHD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1381
 
+#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",beIN Sports 2 PREMIUM FHD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
 
 
 # EXTINF:-1 group-title="SPORTS”,Bein premium 1
@@ -474,22 +478,25 @@ http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #   Movie Channels
 
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg" group-title=“Movies”, &Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+# EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg" group-title=“Movies”, &Flix HD
+# https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 
 # EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180816/iyh/kisspng-fx-movie-channel-logo-film-fox-movies-5b75c13334cf59.8544058815344438272163.jpg" group-title=“Movies”,Fox Action Movies(mly)
 # https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6Mjc6MjkgQU0maGFzaF92YWx1ZT1hYkFzNkNvZ3dGbi96MGdGRjQ1MHNnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI3JmlkPWNoXzY1MDQ1
 
+#EXTINF:-1 group-title="Movies",STAR CLASSICS
+http://201.168.205.12:8000/play/a0do/index.m3u8
+
 
 # http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
-#EXTINF:-1 group-title=“Movies” tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [English Sub]
-http://rv.imax.re:80/7076610784/1167304977/79755
+# EXTINF:-1 group-title=“Movies” tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [English Sub]
+# http://rv.imax.re:80/7076610784/1167304977/79755
 
 
-#EXTINF:-1 tv-logo=“https://static.wikia.nocookie.net/dreamlogos/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20190320081018” group-title=“Movies”,FoxMovies
-http://185.236.229.21:9981/play/a039
+# EXTINF:-1 tv-logo=“https://static.wikia.nocookie.net/dreamlogos/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20190320081018” group-title=“Movies”,FoxMovies
+# http://185.236.229.21:9981/play/a039
 
 #  http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
@@ -528,15 +535,15 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=”https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg” group-title="Movies",香港電影3
-http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+# EXTINF:-1 tvg-logo=”https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg” group-title="Movies",香港電影3
+# http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 
 
 # EXTINF:-1 group-title=“Movies”,Celestia Movie 天映频道
 # http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
-#EXTINF: group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+# EXTINF: group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
+# http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 
 
@@ -549,25 +556,25 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe
 
 #. http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1, group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
-https://mediasv.online/premium/hitsmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgMTA6NTM6MzEgQU0maGFzaF92YWx1ZT1tQThkUXB6d0I1M2JEejdvRndnNUlRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE3JmlkPWNoXzMwODgx
+# EXTINF:-1, group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
+# https://mediasv.online/premium/hitsmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgMTA6NTM6MzEgQU0maGFzaF92YWx1ZT1tQThkUXB6d0I1M2JEejdvRndnNUlRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE3JmlkPWNoXzMwODgx
 
 
 # http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png"  group-title="Movies",MBC Max HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
+# EXTINF:-1, tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png"  group-title="Movies",MBC Max HD
+# https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
 
-#EXTINF:-1,group-title="Movies" ,AXN Movies HD
-http://185.236.229.21:9981/play/a05l
+# EXTINF:-1,group-title="Movies" ,AXN Movies HD
+# http://185.236.229.21:9981/play/a05l
 
 
 # EXTINF:-1 tvg-logo="https://i.imgur.com/X0Jw6B1.png" group-title=“Movies”,Hollywood Classics
 # https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF: -1 ttvg-logo="https://i.ibb.co/84pF99W/boo-lean-paps.png" group-title="Movies”, BOO
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202496
+# EXTINF: -1 ttvg-logo="https://i.ibb.co/84pF99W/boo-lean-paps.png" group-title="Movies”, BOO
+# https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202496
 
 
 
@@ -575,12 +582,11 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202496
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202519
 
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/zfbpPqs/thrill-lean-paps.png" group-title="Movies”, THRILL
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202511
+# EXTINF: -1 tvg-logo="https://i.ibb.co/zfbpPqs/thrill-lean-paps.png" group-title="Movies”, THRILL
+# https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202511
 
 
 #EXTINF:-1 group-title="Movies",StarMovies
-
 http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
 
 
@@ -642,15 +648,15 @@ http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
 https://is.gd/ObFrpt
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg" group-title="Movies",& Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+# EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg" group-title="Movies",& Prive HD
+# https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/zaL3xeP.png" group-title="Movies",Great Movies
 http://5.101.140.110:8000/play/a02e/index.m3u8
 
 
-#EXTINF:-1  group-title="Movies",MBC 2 FHD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+# EXTINF:-1  group-title="Movies",MBC 2 FHD
+# https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
 #EXTINF:-1  group-title="Movies",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8

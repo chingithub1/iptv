@@ -241,8 +241,32 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 # rtmp://58.200.131.2:1935/livetv/cctv5phd
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title=“General” ,ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png’ group-title="SPORTS" ,BT SPORT 1
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
+# http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+# http://livepulse2.uk:8080/live/88888/99999/222630.ts
+
+# http://212.224.98.206:2200/EX/UK_BT_SPORTS_1_FHD-uk/index.m3u8?token=RED
+
+
+# http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT 2
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+
+# http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+# http://livepulse2.uk:8080/live/88888/99999/222631.ts
+
+# http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png" group-title="SPORTS” ,Bein Sports HD (English)

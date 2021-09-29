@@ -275,12 +275,13 @@ http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/07/08/08/760154153.png" group-title=“SPORTS”,beIN Sports 1 PREMIUM
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1381
+http://xcwsnl28.mrnova.online/live/60090_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
 
 
-#EXTINF:-1 ttvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title=“SPORTS”,beIN Sports 2 PREMIUM FHD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
+#EXTINF:-1 ttvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title=“SPORTS”,beIN Sports 2 PREMIUM 
+http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+
 
 
 #EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Premier League SD

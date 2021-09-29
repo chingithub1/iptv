@@ -448,16 +448,7 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://bit.ly/2Tnl5GH",Ad Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Ad Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Ad Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Premier League SD
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8

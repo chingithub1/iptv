@@ -269,7 +269,10 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
 
 #EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/07/08/08/760154153.png" group-title="SPORTS",beIN Sports 1 PREMIUM FHD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1381
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+
+
+# http://178.18.245.114:8080/XR_XtraTv136479/974631/1381
 
 
 

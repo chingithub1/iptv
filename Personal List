@@ -515,19 +515,17 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=“https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg” group-title="Movies" ,KK金馬影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=”https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg” group-title="Movies",香港電影3
 http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 
 
-# EXTINF:-1 group-title=“Movies”,Celestia Movie 天映频道
-# http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title=“Movies”,Celestia Movie 天映频道
+http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 
-#EXTINF: group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+# EXTINF: group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
+# http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 
 
@@ -538,27 +536,20 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1  group-title="Movies",Paramount Network
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#. http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+# http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1, group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
-https://mediasv.online/premium/hitsmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgMTA6NTM6MzEgQU0maGFzaF92YWx1ZT1tQThkUXB6d0I1M2JEejdvRndnNUlRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE3JmlkPWNoXzMwODgx
+# EXTINF:-1, group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
+# ://mediasv.online/premium/hitsmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgMTA6NTM6MzEgQU0maGFzaF92YWx1ZT1tQThkUXB6d0I1M2JEejdvRndnNUlRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE3JmlkPWNoXzMwODgx
 
 
 # http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png"  group-title="Movies",MBC Max HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
-
-#EXTINF:-1,group-title="Movies" ,AXN Movies HD
-http://185.236.229.21:9981/play/a05l
+# :-1, tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png"  group-title="Movies",MBC Max HD
+# ://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
 
 
 # EXTINF:-1 tvg-logo="https://i.imgur.com/X0Jw6B1.png" group-title=“Movies”,Hollywood Classics
 # https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF: -1 ttvg-logo="https://i.ibb.co/84pF99W/boo-lean-paps.png" group-title="Movies”, BOO
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202496
 
 
 
@@ -566,8 +557,6 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202496
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202519
 
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/zfbpPqs/thrill-lean-paps.png" group-title="Movies”, THRILL
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202511
 
 
 #EXTINF:-1 group-title="Movies",StarMovies
@@ -577,14 +566,14 @@ http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
-https://is.gd/ObFrpt
+# EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
+# ://is.gd/ObFrpt
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg" group-title="Movies",& Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+# EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg" group-title="Movies",& Prive HD
+# ://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/zaL3xeP.png" group-title="Movies",Great Movies
-http://5.101.140.110:8000/play/a02e/index.m3u8
+# EXTINF:-1, tvg-logo="https://i.imgur.com/zaL3xeP.png" group-title="Movies",Great Movies
+# ://5.101.140.110:8000/play/a02e/index.m3u8
 
 
 #EXTINF:-1  group-title="Movies",MBC 2 FHD
@@ -601,6 +590,8 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="Movies", New Korean-MOVIES
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Movies",iptvtools_101

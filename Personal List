@@ -547,8 +547,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe
 
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-# EXTINF:-1, group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
-# ://mediasv.online/premium/hitsmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgMTA6NTM6MzEgQU0maGFzaF92YWx1ZT1tQThkUXB6d0I1M2JEejdvRndnNUlRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE3JmlkPWNoXzMwODgx
+#EXTINF:-1 group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
+https://bit.ly/3tqJBrv
+
+#EXTINF:-1 group-title=“Movies”, FILM Comedy
+https://bit.ly/3rqdx4X
 
 
 # http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8

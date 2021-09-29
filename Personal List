@@ -1,6 +1,6 @@
 #EXTM3U
 # https://goo.gl/tXAoKy
-
+# https://bit.ly/3EN9tTU
 
 #EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
 http://61.238.6.49:8000/bysid/1
@@ -276,7 +276,7 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
 
 
-#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",beIN Sports 2 PREMIUM FHD
+#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",beIN Sports 2 PREMIUM
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
 
 # EXTINF:-1 group-title="SPORTS”,Bein premium 1
@@ -284,6 +284,14 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
 
 # EXTINF:-1 group-title="SPORTS",Bein premium2
 # http://55.1-bour.xyz:80/live/616194987/index.m3u8
+
+
+#EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 1 Premium
+http://xcwsnl28.mrnova.online/live/60090_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+
+
+#EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 2 Premium
+http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
 
 
@@ -518,8 +526,15 @@ http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 #EXTINF:-1 group-title=“Movies”,Celestia Movie 天映频道
 http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 
-# EXTINF: group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
+# EXTINF:-1 group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
 # http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 group-title=“Movies”,Action HD
+http://93.157.62.180/TringAction/index.m3u8
+
+
+#EXTINF:-1 group-title=“Movies”, Super HD
+http://93.157.62.180/TringSuper/index.m3u8
 
 
 

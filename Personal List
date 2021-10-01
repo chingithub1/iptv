@@ -171,7 +171,7 @@ http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="Hong Kong 香港",rthk32
-http://livetv.dnsfor.me/channel.2.m3u8
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/12/31/1420004775654_68.jpg" group-title="China", CCTV-9 纪录
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8

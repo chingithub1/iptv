@@ -1,0 +1,97 @@
+#EXTM3U
+#   https://goo.gl/4kfVqV
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#  http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1, tvg-logo="https://tse2.mm.bing.net/th?id=OIP.gGpMYMwpcq5s8rt9wytmpgAAAA&pid=Api&P=0&w=300&h=300" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 group-title="General", Smithsonian Channel
+http://srv.maxptv.net:8080/du08/du08/20309
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+https://stream2.grandma.fit/fs2.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+
+#  EXTINF:-1, tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
+#  http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:hlscat.com
+
+
+#EXTINF: -1, tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#  http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616?checkedby:hlscat.com
+
+#  EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="SPORTS", NBC Bay Area Sport
+#  http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644?checkedby:hlscat.com
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+
+#EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 1 Premium
+http://xcwsnl28.mrnova.online/live/60090_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title="SPORTS",ELEVEN SPORTS 1 
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#  http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21612.m3u8
+
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORT 2 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="SPORTS",ELEVEN SPORT 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
+
+# EXTINF:-1 group-title="SPORTS",超级体育
+# http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
+
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,(Malaysia)翡翠台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+
+
+#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8

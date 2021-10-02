@@ -3,14 +3,10 @@
 # https://bit.ly/3EN9tTU
 # https://tinyurl.com/s4j55a4u
 
-#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
-http://61.238.6.49:8000/bysid/1
-
-# https://cdn.hkdtmb.com/hls/81/index.m3u8
 
 
 
-# http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+
 
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,(Malaysia)翡翠台
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
@@ -20,6 +16,11 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
 
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
+http://61.238.6.49:8000/bysid/1
+
+# https://cdn.hkdtmb.com/hls/81/index.m3u8
+# http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 
 # EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠J1台
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/59222
@@ -40,14 +41,14 @@ http://livetv.dnsfor.me/channel.11.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="Hong Kong 香港",無綫明珠台(TVB Pearl)
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="Hong Kong 香港",無綫明珠台(TVB Pearl)
+# https://cdn.hkdtmb.com/hls/84/index.m3u8
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320679
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
-http://61.238.6.49:8000/bysid/99
+# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
+# http://61.238.6.49:8000/bysid/99
 
 # https://cdn.hkdtmb.com/hls/99/index.m3u8
 
@@ -55,6 +56,9 @@ http://61.238.6.49:8000/bysid/99
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 # https://cdn.hkdtmb.com/hls/31/index.m3u8
@@ -94,8 +98,8 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
 
 # http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="24/7 WORLD NEWS", ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+# EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="24/7 WORLD NEWS", ABC News
+# https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
@@ -125,8 +129,8 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="24/7 WORLD NEWS",CBSN (CBS News)
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+# EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="24/7 WORLD NEWS",CBSN (CBS News)
+# https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png" group-title="24/7 WORLD NEWS", Australia Sky News Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8

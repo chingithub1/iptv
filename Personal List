@@ -9,6 +9,8 @@
 
 
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,(Malaysia)翡翠台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
 
@@ -41,18 +43,24 @@ http://livetv.dnsfor.me/channel.11.m3u8
 
 
 
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="Hong Kong 香港",無綫明珠台(TVB Pearl)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="Hong Kong 香港",無綫明珠台(TVB Pearl)
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+
 # https://cdn.hkdtmb.com/hls/84/index.m3u8
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320679
 
 
-# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
 # http://61.238.6.49:8000/bysid/99
 
 # https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 # 
+#EXTINF:- 1 tvg-logo="https://i.postimg.cc/Hx755xJB/download-2021-09-07-T015829-165.jpg" tvg-title="Hong Kong 香港" , Viu TV6 
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
@@ -71,7 +79,7 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
@@ -473,7 +481,8 @@ http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg" group-title=“Movies”, &Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 
 
 # EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180816/iyh/kisspng-fx-movie-channel-logo-film-fox-movies-5b75c13334cf59.8544058815344438272163.jpg" group-title=“Movies”,Fox Action Movies(mly)
@@ -531,8 +540,18 @@ http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 #EXTINF:-1 group-title=“Movies”,Celestia Movie 天映频道
 http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 
-# EXTINF:-1 group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
+#EXTINF:-1 group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
+http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
+
 # http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC家庭电影
+http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+
+#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC动作电影
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+
 
 #EXTINF:-1 group-title=“Movies”,Action HD
 http://93.157.62.180/TringAction/index.m3u8
@@ -587,6 +606,8 @@ http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
 # ://is.gd/ObFrpt
 
 # EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg" group-title="Movies",& Prive HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
 # ://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 
 # EXTINF:-1, tvg-logo="https://i.imgur.com/zaL3xeP.png" group-title="Movies",Great Movies

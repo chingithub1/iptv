@@ -251,7 +251,7 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-https://stream2.grandma.fit/fs2.m3u8
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 
 # http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8

@@ -279,7 +279,9 @@ http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/07/08/08/760154153.png" group-title=“SPORTS”,beIN Sports 1 PREMIUM
-http://xcwsnl28.mrnova.online/live/60090_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+
+# http://xcwsnl28.mrnova.online/live/60090_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
 
 

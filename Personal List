@@ -128,7 +128,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="24/7 WORLD NEWS",Deutsche Welle 
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="24/7 WORLD NEWS",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
@@ -308,7 +308,7 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
 
 
 #EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 1 Premium
-http://xcwsnl28.mrnova.online/live/60090_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
 
 
 #EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 2 Premium
@@ -561,6 +561,9 @@ http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u
 http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
 
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png group-title="Movies", Flix chinese sub
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 group-title=“Movies”,Action HD
 http://93.157.62.180/TringAction/index.m3u8
 
@@ -582,8 +585,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe
 #EXTINF:-1 group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
 https://bit.ly/3tqJBrv
 
-#EXTINF:-1 group-title=“Movies”, FILM Comedy
-https://bit.ly/3rqdx4X
+# EXTINF:-1 group-title=“Movies”, FILM Comedy
+# https://bit.ly/3rqdx4X
 
 
 # http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8

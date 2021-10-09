@@ -64,10 +64,10 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+http://livetv.dnsfor.me/channel.1.m3u8
 
 
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+# https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 # https://cdn.hkdtmb.com/hls/31/index.m3u8
 
@@ -191,7 +191,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="Hong Kong 香港",rthk32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+http://livetv.dnsfor.me/channel.2.m3u8
 
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/12/31/1420004775654_68.jpg" group-title="China", CCTV-9 纪录
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8

@@ -63,7 +63,7 @@ http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 # http://61.238.6.49:8000/bysid/99
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="Hong Kong 香港",rthk31 
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+http://livetv.dnsfor.me/channel.1.m3u8
 
 # https://cdn.hkdtmb.com/hls/31/index.m3u8
 
@@ -166,8 +166,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="China",鳳凰衛視香港台 HD
-http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
+# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="China",鳳凰衛視香港台 HD
+# http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
 
 

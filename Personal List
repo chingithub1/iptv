@@ -349,24 +349,24 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 
-#EXTINF:-1 group-title=“SPORTS”, SuperSport 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”, SuperSport 1 HD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4198
 
-#EXTINF:-1 group-title=“SPORTS”,SuperSport 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport 2 HD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4199
 
-#EXTINF:-1 group-title=“SPORTS”,SuperSport 3 HD
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport 3 HD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4200
 
-#EXTINF:-1 group-title=“SPORTS”,SuperSport 4 HD
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport 4 HD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4201
 
 
-#EXTINF:-1 group-title=“SPORTS”,SuperSport 5 HD
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport 5 HD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/9373
 
 
-#EXTINF:-1 group-title=“SPORTS”,SuperSport Premier League HD
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport Premier League HD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28895
 
 

@@ -5,6 +5,66 @@
 
 #EXTM3U
 
+#EXTINF:-1 ,SuperSport 2 FHD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/22808
+
+#EXTINF:-1 ,SuperSport 2 HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4199
+
+#EXTINF:-1 ,SuperSport 3 FHD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/22809
+
+#EXTINF:-1 ,SuperSport 3 HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4200
+
+#EXTINF:-1 ,SuperSport 4 FHD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/22810
+
+#EXTINF:-1 ,SuperSport 4 HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4201
+
+#EXTINF:-1 ,SuperSport 5 FHD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/22811
+
+#EXTINF:-1 ,SuperSport 5 HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/9373
+
+#EXTINF:-1 ,SuperSport PSL HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28894
+
+#EXTINF:-1 ,SuperSport LaLiga HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28895
+
+#EXTINF:-1 ,SuperSport Premier League HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28896
+
+
+#EXTINF:-1 ,Tring Sport 1 FHD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/8078
+
+#EXTINF:-1 ,Tring Sport 2 FHD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/8079
+
+#EXTINF:-1 ,Tring Sport 3 HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/8080
+
+#EXTINF:-1 ,Tring Sport 4 HD
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/8081
+
+
+#EXTINF:-1 ,K-Sport 1
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/9150
+
+#EXTINF:-1 ,K-Sport 2
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/9151
+
+#EXTINF:-1 ,K-Sport 3
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/9152
+
+#EXTINF:-1 ,K-Sport 4
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/9153
+
+
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="No group" tvg-id="SportTVPlus.pt" tvg-name="SportTVPlus.pt", Sport TV + FHD PT
 http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/19589
 

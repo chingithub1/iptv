@@ -1,0 +1,100 @@
+
+# https://yamcode.com/sportiou-7
+# October 11, 2021
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="No group" tvg-id="SportTVPlus.pt" tvg-name="SportTVPlus.pt", Sport TV + FHD PT
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/19589
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="No group" tvg-id="SportTV1.pt" tvg-name="SportTV1.pt", Sport TV 1 FHD PT
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/17744
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="No group" tvg-id="SportTV1.pt" tvg-name="SportTV1.pt", Sport TV 1 UHD 4K PT
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/86631
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="No group" tvg-id="SportTV2.pt" tvg-name="SportTV2.pt", Sport TV 2 FHD PT
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/3222
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sporttv3hdpt.jpg" group-title="No group" tvg-id="SportTV3.pt" tvg-name="SportTV3.pt", Sport TV 3 FHD PT
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/3223
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sporttv4hdpt.jpg" group-title="No group" tvg-id="SportTV4.pt" tvg-name="SportTV4.pt", Sport TV 4 FHD PT
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/3224
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sporttv5hdpt.jpg" group-title="No group" tvg-id="SportTV5.pt" tvg-name="SportTV5.pt", Sport TV 5 FHD PT
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/16297
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="No group" tvg-id="" tvg-name="", Sport TV 6 FHD PT
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/86095
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg" group-title="No group" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk", Sky Sports Main Event FHD UK
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/14651
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="No group" tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk", Sky Sports NFL FHD UK
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/14653
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="No group" tvg-id="SkySportsPremiereLeague.uk" tvg-name="SkySportsPremiereLeague.uk", Sky Sports Premier League FHD UK
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/14655
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="No group" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk", Sky Sports Football FHD UK
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/16970
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="No group" tvg-id="BeinSports1.fr" tvg-name="BeinSports1.fr", beIN SPORTS 1 HD FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/14977
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg" group-title="No group" tvg-id="AMC.qa" tvg-name="AMC.qa", beIN SPORTS 2 4K QA
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/24696
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="No group" tvg-id="BeinSports2.fr" tvg-name="BeinSports2.fr", beIN SPORTS 2 FHD FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/14978
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="No group" tvg-id="beINSports3.qa" tvg-name="beINSports3.qa", beIN SPORTS 3 4K QA
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/24695
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="No group" tvg-id="BeinSports3.fr" tvg-name="BeinSports3.fr", beIN SPORTS 3 FHD FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/4477
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="No group" tvg-id="AMC.qa" tvg-name="AMC.qa", beIN SPORTS 4 4K QA
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/24694
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="No group" tvg-id="AMC.qa" tvg-name="AMC.qa", bein SPORTS 5 4K QA
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/24693
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="No group" tvg-id="AMC.qa" tvg-name="AMC.qa", beIN SPORTS 6 4K QA
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/24692
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="No group" tvg-id="AMC.qa" tvg-name="AMC.qa", beIN SPORTS 7 FHD QA
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/22163
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax10.jpg" group-title="No group" tvg-id="Bein10Max.fr" tvg-name="Bein10Max.fr", beIN SPORTS MAX 10 FHD FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/18224
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax4.jpg" group-title="No group" tvg-id="Bein4Max.fr" tvg-name="Bein4Max.fr", beIN SPORTS MAX 4 FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/18218
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax5.jpg" group-title="No group" tvg-id="Bein5Max.fr" tvg-name="Bein5Max.fr", beIN SPORTS MAX 5 FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/18219
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax6.jpg" group-title="No group" tvg-id="Bein6Max.fr" tvg-name="Bein6Max.fr", beIN SPORTS MAX 6 FHD FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/18220
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax7.jpg" group-title="No group" tvg-id="Bein7Max.fr" tvg-name="Bein7Max.fr", beIN SPORTS MAX 7 FHD FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/18221
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax8.jpg" group-title="No group" tvg-id="Bein8Max.fr" tvg-name="Bein8Max.fr", beIN SPORTS MAX 8 FHD FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/18222
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax9.jpg" group-title="No group" tvg-id="Bein9Max.fr" tvg-name="Bein9Max.fr", beIN SPORTS MAX 9 FHD FR
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/18223
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1premium.jpg" group-title="No group" tvg-id="" tvg-name="", beIN SPORTS Premium 1 FHD QA
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/75533
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2premium.jpg" group-title="No group" tvg-id="" tvg-name="", beIN SPORTS Premium 2 FHD QA
+http://cloudcdn.tk:80/FFQojZbBI325/LnlUWa23/75534
+

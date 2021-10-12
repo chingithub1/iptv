@@ -504,6 +504,48 @@ http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" group-title="SPORTS", True Sport HD1
+https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/aR6co494MMddSe7BDmsv20oT8NYGvhXN6RcCgW6S.png" group-title="SPORTS", True Sport HD2
+https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png" group-title="SPORTS",True Sport HD3
+https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png" group-title="SPORTS", True Sport HD4
+https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/gqKzi64ZKhMxsjUzXzSFUO0AXAFTPoMsekndisZ6.png" group-title="SPORTS", True Sport HD5
+https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png",group-title="SPORTS", True Premier 1
+https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png" group-title="SPORTS", True Premier 2
+https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.png" group-title="SPORTS", True Premier 3
+https://master.server-cdn-streaming.com/api/live-player/47/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png" group-title="SPORTS", True Premier 4
+https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png"g roup-title="SPORTS", True Premier 5
+https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
+
+
+
 # ============================================
 
 #   Movie Channels

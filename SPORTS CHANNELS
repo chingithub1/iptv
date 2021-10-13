@@ -8,6 +8,26 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Sport",Bein Premium 2 HD
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
+
+
+#EXTINF:-1group-title="Sport",Bein Sport1
+http://sos.moukrasa.xyz:80/live/918454578/index.m3u8
+
+#EXTINF:-1group-title="Sport",Bein Sport2
+http://23.88.39.74:80/live/69854211/index.m3u8
+
+#EXTINF:-1group-title="Sport",Bein Sport4
+http://72.amanrouf.xyz:80/live/9787488847/index.m3u8
+
+
+#EXTINF:-1group-title="Sport",Bein Sport5
+http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8?xemtvco
+
+
+
 #EXTINF:-1 ,SuperSport 2 FHD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/22808
 

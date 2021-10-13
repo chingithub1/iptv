@@ -41,6 +41,20 @@ http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28895
 #EXTINF:-1 ,SuperSport Premier League HD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28896
 
+#EXTINF:-1group-title="Sport",Ten1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+
+#EXTINF:-1group-title="Sport",Ten2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+
+
+#EXTINF:-1group-title="Sport",Ten3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+
+#EXTINF:-1group-title="Sport",Ten6
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" group-title="SPORTS", True Sport HD1

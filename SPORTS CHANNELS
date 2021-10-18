@@ -27,6 +27,41 @@ http://72.amanrouf.xyz:80/live/9787488847/index.m3u8
 http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8?xemtvco
 
 
+#EXTINF:-1,S*y Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+#EXTINF:-1,S*y Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1,S*y Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+
+#EXTINF:-1,S*y Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+
+#EXTINF:-1,S*y Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+
+
+#EXTINF:-1  group-title="Sport",AstroSuperSport
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
+
+#EXTINF:-1  group-title="Sport",AstroSuperSport2
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54207.m3u8
+
+#EXTINF:-1  group-title="Sport",AstroSuperSport3
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54208.m3u8
+
+#EXTINF:-1  group-title="Sport",AstroSuperSport4
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54209.m3u8
+
+
+#EXTINF:-1group-title="SportHD",BeinSport1Premium
+http://mat4k.com:8080/live/3143631718254908/2598854265/28273.m3u8
+
+
+#EXTINF:-1group-title="SportHD",BeinSport2Premium
+http://mat4k.com:8080/live/3143631718254908/2598854265/28272.m3u8
 
 #EXTINF:-1 ,SuperSport 2 FHD
 http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/22808

@@ -375,9 +375,9 @@ http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28895
 
 
 #EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png’ group-title="SPORTS" ,BT SPORT 1
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+# http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 # http://livepulse2.uk:8080/live/88888/99999/222630.ts
 
@@ -388,9 +388,9 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT 2
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+# http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 # http://livepulse2.uk:8080/live/88888/99999/222631.ts
 
@@ -398,11 +398,14 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 
 
-# EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT ESPN
+#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
+
 # http://livepulse2.uk:8080/live/88888/99999/222633.ts
 
 

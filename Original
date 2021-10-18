@@ -178,7 +178,10 @@ rtmp://58.200.131.2:1935/livetv/cctv9hd
 
 #  http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 
-# EXTINF:-1   tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
+#EXTINF:-1   tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+
+
 # rtmp://58.200.131.2:1935/livetv/cctv1hd
 
 #  http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8

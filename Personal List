@@ -197,7 +197,10 @@ http://livetv.dnsfor.me/channel.2.m3u8
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
-http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+
+
+# http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
 
 # http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 # http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8

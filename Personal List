@@ -301,7 +301,9 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",beIN Sports 2 PREMIUM
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
+
+# http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
 
 # EXTINF:-1 group-title="SPORTS”,Bein premium 1
 # http://55.1-bour.xyz:80/live/6161655/index.m3u8
@@ -310,12 +312,12 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
 # http://55.1-bour.xyz:80/live/616194987/index.m3u8
 
 
-#EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 1 Premium
-http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
+# EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 1 Premium
+# http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
 
 
-#EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 2 Premium
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
+# EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 2 Premium
+# http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
 # http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 

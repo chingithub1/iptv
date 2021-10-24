@@ -628,12 +628,14 @@ http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC家庭电影
+#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 家庭电影
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 
 #EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC动作电影
 http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
+#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 高清电影
+http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png group-title="Movies", Flix chinese sub
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8

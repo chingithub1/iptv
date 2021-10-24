@@ -572,8 +572,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 # http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
-#EXTINF:-1 group-title=“Movies” tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [English Sub]
-http://rv.imax.re:80/7076610784/1167304977/79755
+
 
 
 #EXTINF:-1 tv-logo=“https://static.wikia.nocookie.net/dreamlogos/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20190320081018” group-title=“Movies”,FoxMovies
@@ -582,7 +581,9 @@ http://185.236.229.21:9981/play/a039
 #  http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2hRSX4/hbo-logo.jpg" group-title=“Movies”,HBO 
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://50.7.61.148:30080/Entry/hbo
+
+# http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 # http://ott3.gearhostpreview.com/astro/live.php?id=41
 

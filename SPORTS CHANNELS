@@ -13,6 +13,21 @@
 http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
 
+#EXTINF:-1,True Premier 1
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
+
+#EXTINF:-1,True Premier 2
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
+
+#EXTINF:-1,True Premier 3
+https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
+
+#EXTINF:-1,True Premier 4
+https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
+
+#EXTINF:-1,True Premier 5
+https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
+
 #EXTINF:-1group-title="Sport",Bein Sport1
 http://sos.moukrasa.xyz:80/live/918454578/index.m3u8
 
@@ -64,10 +79,9 @@ http://mat4k.com:8080/live/3143631718254908/2598854265/28273.m3u8
 http://mat4k.com:8080/live/3143631718254908/2598854265/28272.m3u8
 
 
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="My Apk review",My Apk Review
-http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27063
+
+
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS PREMIUM 1 (4K)
 http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27063
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS PREMIUM 1 (4K)

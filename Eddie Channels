@@ -16,7 +16,8 @@ http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",無線翡翠台(片集)
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
 
-
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
 http://livetv.dnsfor.me/channel.1.m3u8
@@ -28,6 +29,6 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
 
-#EXTINF:- 1 tvg-logo="https://i.postimg.cc/Hx755xJB/download-2021-09-07-T015829-165.jpg" group-title="Hong Kong 香港" , Viu TV6 
+#EXTINF:- 1 tvg-logo="https://i.postimg.cc/Hx755xJB/download-2021-09-07-T015829-165.jpg" group-title="Hong Kong 香港" , 香港 Viu TV6 
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 

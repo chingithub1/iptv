@@ -260,7 +260,11 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13827
+
+
+
+# http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 
 # http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
@@ -278,7 +282,9 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13828
+
+# http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
 # EXTINF:-1 tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title=“SPORTS”, Espn Plus MX FHD
 # http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10964

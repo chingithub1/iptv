@@ -13,6 +13,22 @@
 http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 1
+http://xcchui2.mrnova.online/live/60540_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 2
+http://xcchui2.mrnova.online/live/60541_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 3
+http://xcchui2.mrnova.online/live/60542_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 4
+http://xcchui2.mrnova.online/live/60543_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 5
+http://xcchui2.mrnova.online/live/60544_.m3u8
+
+
 #EXTINF:-1,True Premier 1
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
 

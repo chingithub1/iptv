@@ -293,7 +293,10 @@ http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13828
 
 
 #EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
-http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
+http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/14181
+
+
+# http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
 
@@ -326,7 +329,8 @@ http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
 # http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O7GlaI4.png" group-title="SPORTS", NFL Network HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14184
 
 #EXTINF: -1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false

@@ -35,8 +35,8 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
 
 
-#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",無線娛樂台
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
+# EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",無線娛樂台
+# https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
 
 
 
@@ -83,17 +83,17 @@ http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png"  group-title="Hong Kong 香港",Astro (Malaysia) 华丽台
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png"  group-title="Hong Kong 香港",Astro (Malaysia) 华丽台
+# http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Hong Kong 香港",Astro AOD 
-http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Hong Kong 香港",Astro AOD 
+# http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
 http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
-http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+# EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
+# http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 
 # https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=70dae538-3b60-40aa-a14a-504f073abcf6&clientModelNumber=na&deviceDNT=false&deviceId=70dae538-3b60-40aa-a14a-504f073abcf6&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=US&serverSideAds=true&sessionID=58fefe78-4853-11eb-ae86-0242ac110002&sid=58fefe78-4853-11eb-ae86-0242ac110002&userId=
 
@@ -102,8 +102,8 @@ http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-http://we.caughtyousnooping.club/markroofs/vk41iF39fz/1157?checkedby:iptvcat.com
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
+# http://we.caughtyousnooping.club/markroofs/vk41iF39fz/1157?checkedby:iptvcat.com
 
 
 # http://my.streamerstv.com:25461/Andy/Andy/39?checkedby:iptvcat.com
@@ -147,11 +147,15 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
-# EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="24/7 WORLD NEWS",CBSN (CBS News)
-# https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png" group-title="24/7 WORLD NEWS", Australia Sky News Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s69089q.png" group-title="China",CCTV-13 新闻
@@ -162,11 +166,23 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/12/31/1420004775654_68.jpg" group-title="China", CCTV-9 纪录
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv02.jpg" group-title="China",CCTV-2 财经
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+
+# http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
+
+# http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+# http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.newscaststudio.com/wp-content/uploads/2017/03/cgtn-cctv-logo.jpg" group-title="24/7 WORLD NEWS", CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
 
@@ -192,18 +208,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="Hong Kong 香港",rthk32
 http://livetv.dnsfor.me/channel.2.m3u8
 
-#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/12/31/1420004775654_68.jpg" group-title="China", CCTV-9 纪录
-http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-
-
-# http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
-
-# http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-# http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
-
 
 
 # EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo_before_after.png" group-title="Documentary", Discovery Channel
@@ -226,8 +230,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 # http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv02.jpg" group-title="China",CCTV-2 财经
-http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6Hyseih4Ugo/maxresdefault.jpg" group-title="General", 澳視澳門 Macau TV_2
 rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
@@ -518,8 +521,8 @@ https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
 #   Movie Channels
 
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg" group-title=“Movies”, &Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+# EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg" group-title=“Movies”, &Flix HD
+# https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 
 
@@ -532,8 +535,8 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tv-logo=“https://static.wikia.nocookie.net/dreamlogos/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20190320081018” group-title=“Movies”,FoxMovies
-http://185.236.229.21:9981/play/a039
+# EXTINF:-1 tv-logo=“https://static.wikia.nocookie.net/dreamlogos/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20190320081018” group-title=“Movies”,FoxMovies
+# http://185.236.229.21:9981/play/a039
 
 #  http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
@@ -591,8 +594,8 @@ http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u
 #EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC动作电影
 http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
-#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 高清电影
-http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+# EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 高清电影
+# http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png group-title="Movies", Flix chinese sub
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -610,8 +613,9 @@ http://93.157.62.180/TringSuper/index.m3u8
 # http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="DP@MOVIES PLUTO", (DP) Paramount Movie Channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Movies", Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
 #EXTINF:-1 group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
@@ -638,9 +642,9 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202519
 
 
 
-#EXTINF:-1 group-title="Movies",StarMovies
+# EXTINF:-1 group-title="Movies",StarMovies
 
-http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
+# http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
 
 
 
@@ -660,22 +664,12 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 # ://5.101.140.110:8000/play/a02e/index.m3u8
 
 
-#EXTINF:-1  group-title="Movies",MBC 2 FHD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+# EXTINF:-1  group-title="Movies",MBC 2 FHD
+# https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
 #EXTINF:-1  group-title="Movies",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1  group-title="Movies",Rakuten TV Action Movies UK
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1  group-title="Movies",Rakuten TV Drama UK
-https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="Movies", New Korean-MOVIES
-https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Movies",iptvtools_101

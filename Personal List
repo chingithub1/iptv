@@ -349,10 +349,16 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 group-title="SPORTS",超级体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 
-#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",SKY SPORT MAIN EVENTS (UK)
-http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title=“SPORTS”, SKY SPORT MAIN EVENTS
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+# http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Premier League SD
+http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 
+# http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title=“SPORTS”,Eleven Sport 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
@@ -362,25 +368,15 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”, SuperSport 1 HD
-http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4198
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport 2 HD
-http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4199
-
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport 3 HD
-http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4200
-
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport 4 HD
-http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/4201
+#EXTINF:-1,group-title=“SPORTS”,Sky Sports NFL
+http://93.152.174.144:4000/play/skysports3/index.m3u8
 
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport 5 HD
-http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/9373
 
+# EXTINF:-1,S*y Sports 5
+# http://93.152.174.144:4000/play/skysports5/index.m3u8
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvEldfy0VLu_HjZtFMWIRl8x5BgfLb7-10e7u0ke-pBpGuUEF8LdAry9GwJfZT49kowQ&usqp=CAU" group-title=“SPORTS”,SuperSport Premier League HD
-http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28895
 
 
 
@@ -470,14 +466,6 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png" group-title="SPORTS” ,Bein Sports HD (English)
-http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Premier League SD
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" group-title="SPORTS", True Sport HD1

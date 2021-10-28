@@ -4,41 +4,7 @@
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
 
 
-# EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
-# http://61.238.6.49:8000/bysid/1
 
-
-# https://cdn.hkdtmb.com/hls/81/index.m3u8
-
-#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,(Malaysia)翡翠台
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-
-# https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
-
-# http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-
-# http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
-
-# http://61.238.6.49:8000/bysid/1
-
-
-#  http://qj.yyrjdp.cn/jiuban/iptv3255226.php?id=15
-
-
-#   http://livetv.dnsfor.me/channel.18.m3u8    (This information from https://yamcode.com/TtgWFtHVfB)
-#   Can access all of these channels directly from   "http://livetv.dnsfor.me/"
-
-
-
-#  EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",無線電視翡翠台
-#  http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1001&key=84797b799ae18d1b
-
-#  http://livetv.dnsfor.me/channel.18.m3u8
-
-
-
-#  This one works too (from massive list.....)
-#   http://61.238.6.49:8000/bysid/1
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
@@ -49,9 +15,6 @@ http://livetv.dnsfor.me/channel.10.m3u8
 
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
-
-
-
 
 
 
@@ -73,6 +36,12 @@ http://livetv.dnsfor.me/channel.1.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="Hong Kong 香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠台片集 (Malaysia)
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河 (Malaysia)
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
 #  https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8

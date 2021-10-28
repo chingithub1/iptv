@@ -31,7 +31,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
 
-#EXTINF:- 1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港" , 香港 Viu TV6 
+#EXTINF:- 1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港" , 香港 Viu 
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
 

@@ -29,6 +29,29 @@ http://xcchui2.mrnova.online/live/60543_.m3u8
 http://xcchui2.mrnova.online/live/60544_.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qSHXbMt.png" group-title="USA/CAN SPORTS",  CA:  Sportsnet 360 HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14202
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fZSqcH.png" group-title="USA/CAN SPORTS",  CA:  Sportsnet East HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14203
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFml3bF.png" group-title="USA/CAN SPORTS",  CA:  Sportsnet One HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14204
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhbizk9.png" group-title="USA/CAN SPORTS",  CA:  Sportsnet Ontario HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14207
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7enqjwq.png" group-title="USA/CAN SPORTS",  CA:  Sportsnet Pacific HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14208
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SdK5thH.png" group-title="USA/CAN SPORTS",  CA:  Sportsnet West HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14210
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kOIdkrq.png" group-title="USA/CAN SPORTS",  CA:  Sportsnet World HD
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12471
+
+
+
 #EXTINF:-1,True Premier 1
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
 

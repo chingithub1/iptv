@@ -172,8 +172,14 @@ http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/revision/latest/scale-to-width-down/270?cb=20190606063508" group-title="China",CCTV-2 财经
-http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China",CCTV-2高清 财经
+http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8?checkedby:iptvcat.com
+
+
+# EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/revision/latest/scale-to-width-down/270?cb=20190606063508" group-title="China",CCTV-2 财经
+# http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
 
 # http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
 
@@ -232,13 +238,17 @@ http://livetv.dnsfor.me/channel.2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6Hyseih4Ugo/maxresdefault.jpg" group-title="General", 澳視澳門 Macau TV_2
-rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
+#EXTINF:-1 group-title="China" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" ,台視新聞台
+http://seb.sason.top/sc/tsxw_fhd.m3u8
 
-#EXTINF:-1 group-title="General",澳門 Macau TV_1
-http://bit.ly/Macau-TV
+#EXTINF:-1 group-title="Taiwan" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/民视新闻台.png" ,民視新聞台
+http://seb.sason.top/sc/msxw_fhd.m3u8
 
+#EXTINF:-1 group-title="Taiwan" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" ,CBC東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
 
 #EXTINF:-1 group-title="General",Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8

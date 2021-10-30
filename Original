@@ -133,7 +133,8 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-
+#EXTINF:-1 group-title="China" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 
 # EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="China",鳳凰衛視香港台 HD
 # http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8

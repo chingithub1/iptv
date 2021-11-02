@@ -9,6 +9,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 1 PREMIUM HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/108161
+
+#EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 2 PREMIUM HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/108162
+
 #EXTINF:-1 group-title="Sport",Bein Premium 2 HD
 http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 

@@ -83,6 +83,10 @@ http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
+
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",全佳HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png"  group-title="Hong Kong 香港",Astro (Malaysia) 华丽台
 # http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 

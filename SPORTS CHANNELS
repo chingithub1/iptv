@@ -150,5 +150,22 @@ https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ALB | K SPORT 1
+http://93.157.62.180/KSport1/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ALB | K SPORT 2
+http://93.157.62.180/KSport2/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ALB | K SPORT 3
+http://93.157.62.180/KSport3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ALB | K SPORT 4
+http://93.157.62.180/KSport4/index.m3u8
+
+
+
+
+
+
 
 

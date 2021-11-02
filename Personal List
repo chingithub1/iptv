@@ -254,8 +254,14 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 group-title="Taiwan" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" ,CBC東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 
-#EXTINF:-1 group-title="General",Arirang Korea
+#EXTINF:-1 group-title="Korea",Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="KBSWorld.us" group-title="Korea",KBS WORLD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:0 tvg-id="set" group-title="Korea",Korea Sony HD
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title=“Documentary”,Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8

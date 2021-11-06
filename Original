@@ -16,7 +16,8 @@ http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 
-
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8

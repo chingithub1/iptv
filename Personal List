@@ -114,7 +114,10 @@ https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
 
 # http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
-# EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
 # http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 
 # https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=70dae538-3b60-40aa-a14a-504f073abcf6&clientModelNumber=na&deviceDNT=false&deviceId=70dae538-3b60-40aa-a14a-504f073abcf6&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=US&serverSideAds=true&sessionID=58fefe78-4853-11eb-ae86-0242ac110002&sid=58fefe78-4853-11eb-ae86-0242ac110002&userId=

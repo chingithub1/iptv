@@ -223,7 +223,10 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320677
 
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="China" ,鳳凰衛視中文台 Pheonix Chinese
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="China" ,鳳凰衛視中文台 Pheonix Chinese
+https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
+
+
 # rtmp://58.200.131.2:1935/livetv/fhzw
 
 

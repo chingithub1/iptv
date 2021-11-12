@@ -108,7 +108,10 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Hong Kong 香港",Astro AOD 
 # http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
-# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
+
+
 # http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
 # EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 

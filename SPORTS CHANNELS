@@ -21,7 +21,7 @@ http://45.225.93.154:8000/play/a03g?checkedby:zaltv.co
 
 
 #EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 1 PREMIUM HD
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/108161
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 2 PREMIUM HD
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/108162

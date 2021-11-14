@@ -16,7 +16,7 @@ http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 
-#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,翡翠台 (香港)
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
@@ -43,6 +43,10 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河 (Malaysia)
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
 
 
 #  https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
@@ -134,12 +138,8 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="China" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
-http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
-
-# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="China",鳳凰衛視香港台 HD
-# http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
-
+# EXTINF:-1 group-title="China" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
+# http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 
 
 
@@ -237,18 +237,5 @@ http://93.152.174.144:4000/play/ssports1/index.m3u8
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 1
-http://xcchui2.mrnova.online/live/60540_.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 2
-http://xcchui2.mrnova.online/live/60541_.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 3
-http://xcchui2.mrnova.online/live/60542_.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 4
-http://xcchui2.mrnova.online/live/60543_.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 5
-http://xcchui2.mrnova.online/live/60544_.m3u8
 

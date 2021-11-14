@@ -39,6 +39,11 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 

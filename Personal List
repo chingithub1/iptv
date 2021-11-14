@@ -32,7 +32,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
 
-#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,翡翠台 (香港)
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 # http://61.238.6.49:8000/bysid/1
@@ -99,8 +99,8 @@ http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",全佳HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+# EXTINF:0 tvg-id="ext" group-title="Malaysia",全佳HD
+# http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png"  group-title="Hong Kong 香港",Astro (Malaysia) 华丽台
 # http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -476,20 +476,20 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 http://45.225.93.154:8000/play/a028?checkedby:zaltv.co
 
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 1
-http://xcchui2.mrnova.online/live/60540_.m3u8
+# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 1
+# http://xcchui2.mrnova.online/live/60540_.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 2
-http://xcchui2.mrnova.online/live/60541_.m3u8
+# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 2
+# http://xcchui2.mrnova.online/live/60541_.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 3
-http://xcchui2.mrnova.online/live/60542_.m3u8
+# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 3
+# http://xcchui2.mrnova.online/live/60542_.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 4
-http://xcchui2.mrnova.online/live/60543_.m3u8
+# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 4
+# http://xcchui2.mrnova.online/live/60543_.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 5
-http://xcchui2.mrnova.online/live/60544_.m3u8
+# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 5
+# http://xcchui2.mrnova.online/live/60544_.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis 1
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -527,46 +527,6 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" group-title="SPORTS", True Sport HD1
-https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/aR6co494MMddSe7BDmsv20oT8NYGvhXN6RcCgW6S.png" group-title="SPORTS", True Sport HD2
-https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png" group-title="SPORTS",True Sport HD3
-https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png" group-title="SPORTS", True Sport HD4
-https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/gqKzi64ZKhMxsjUzXzSFUO0AXAFTPoMsekndisZ6.png" group-title="SPORTS", True Sport HD5
-https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png",group-title="SPORTS", True Premier 1
-https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png" group-title="SPORTS", True Premier 2
-https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.png" group-title="SPORTS", True Premier 3
-https://master.server-cdn-streaming.com/api/live-player/47/live.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png" group-title="SPORTS", True Premier 4
-https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png"g roup-title="SPORTS", True Premier 5
-https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
 
 
 

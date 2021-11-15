@@ -15,8 +15,8 @@ http://livetv.dnsfor.me/channel.10.m3u8
 http://livetv.dnsfor.me/channel.11.m3u8
 
 
-# EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,TVB翡翠台
-# http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,翡翠台 (香港)
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠台片集 (Malaysia)

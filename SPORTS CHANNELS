@@ -25,6 +25,10 @@ http://45.225.93.154:8000/play/a03g?checkedby:zaltv.co
 #EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 1 PREMIUM HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
+#EXTINF:-1 group-title="Bein HD",Bein Premium 1
+http://88.barouhn.xyz.global.prod.fastly.net/live/616165500/index.m3u8
+
+
 #EXTINF:-1 group-title="Bein HD",Bein Premium 2
 http://88.barouhn.xyz.global.prod.fastly.net/live/61619498700/index.m3u8
 

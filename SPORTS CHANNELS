@@ -8,65 +8,46 @@
 
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Spain",ESPN
-http://45.225.93.154:8000/play/a027?checkedby:zaltv.co
-
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Spain",ESPN 2
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Spain",ESPN MX
 http://45.225.93.154:8000/play/a028?checkedby:zaltv.co
 
 
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Spain",ESPN 3
+
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Spain",ESPN 2 MX
+http://45.225.93.154:8000/play/a027?checkedby:zaltv.co
+
+
+
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Spain",ESPN 3 MX
 http://45.225.93.154:8000/play/a03g?checkedby:zaltv.co
 
 
 #EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 1 PREMIUM HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 2 PREMIUM HD
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/108162
+#EXTINF:-1 ,Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1 group-title="Sport",Bein Premium 2 HD
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
+#EXTINF:-1 ,Bein Sport 1 AR
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
+#EXTINF:-1 ,Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 1
-http://xcchui2.mrnova.online/live/60540_.m3u8
+#EXTINF:-1 ,Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 2
-http://xcchui2.mrnova.online/live/60541_.m3u8
+#EXTINF:-1 ,Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 3
-http://xcchui2.mrnova.online/live/60542_.m3u8
+#EXTINF:-1 ,Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 4
-http://xcchui2.mrnova.online/live/60543_.m3u8
+#EXTINF:-1 ,Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 5
-http://xcchui2.mrnova.online/live/60544_.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qSHXbMt.png" group-title="USA/CAN SPORTS",  CA:  Sportsnet 360 HD
-
-
-#EXTINF:-1,True Premier 1
-https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
-
-#EXTINF:-1,True Premier 2
-https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
-
-#EXTINF:-1,True Premier 3
-https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
-
-#EXTINF:-1,True Premier 4
-https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
-
-#EXTINF:-1,True Premier 5
-https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
-
-
-#EXTINF:-1group-title="Sport",Bein Sport2
-http://23.88.39.74:80/live/69854211/index.m3u8
+#EXTINF:-1 ,Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
 
 
@@ -82,17 +63,24 @@ http://93.152.174.144:4000/play/skysports3/index.m3u8
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 
-#EXTINF:-1  group-title="Sport",AstroSuperSport
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
+#EXTINF:-1 ,BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+
+#EXTINF:-1 ,BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1 ,BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1 ,BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
 
 #EXTINF:-1  group-title="Sport",AstroSuperSport2
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54207.m3u8
 
 #EXTINF:-1  group-title="Sport",AstroSuperSport3
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54208.m3u8
-
-#EXTINF:-1  group-title="Sport",AstroSuperSport4
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54209.m3u8
 
 
 

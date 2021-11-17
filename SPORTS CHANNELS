@@ -50,6 +50,15 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://futbol.radioformula.com.mx/wp-content/uploads/2019/06/Logo-ESPN-1.png" group-title="SPORTS",ESPN DEPORTES HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3613
+
+#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="SPORTS",ESPN 1 SUR HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3614
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="SPORTS",ESPN 2 HD 
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1080110
+
 
 #EXTINF:-1,S*y Sports 1
 http://93.152.174.144:4000/play/ssports1/index.m3u8

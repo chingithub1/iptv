@@ -308,7 +308,10 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13827
+http://gratis.shortgod.com/listagratishortgod/tves1.php?c=105
+
+
+# http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13827
 
 
 
@@ -330,7 +333,10 @@ http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13827
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13828
+http://gratis.shortgod.com/listagratishortgod/tves1.php?c=102
+
+
+# http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13828
 
 # http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
@@ -339,6 +345,9 @@ http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13828
 
 # http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10942
 
+
+#EXTINF:-1 group-title="SPORTS",ESPN 3 
+http://gratis.shortgod.com/listagratishortgod/tves1.php?c=103
 
 
 #EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV

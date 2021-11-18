@@ -12,6 +12,13 @@
 #EXTINF:-1 group-title="SPORTS",ESPN HD 
 http://gratis.shortgod.com/listagratishortgod/tves1.php?c=105
 
+#EXTINF:-1, ESPN 2 HD 
+http://gratis.shortgod.com/listagratishortgod/tves1.php?c=102 
+
+#EXTINF:-1, ESPN 3 FHD 
+http://gratis.shortgod.com/listagratishortgod/tves1.php?c=103
+
+
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="Spain",ESPN MX
 http://45.225.93.154:8000/play/a028?checkedby:zaltv.co
 

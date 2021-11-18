@@ -32,8 +32,10 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
 
-#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,翡翠台 (香港)
+#EXTINF:-1 ,tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429" tvg-name="" group-title="Hong Kong 香港”,翡翠台 (香港)
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+
+# the other logo "http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png"
 
 # http://61.238.6.49:8000/bysid/1
 

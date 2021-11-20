@@ -717,5 +717,5 @@ https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies",iptvtools_113
 https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies (720p)
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8

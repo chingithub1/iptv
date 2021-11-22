@@ -12,7 +12,9 @@
 #EXTINF:-1 group-title="SPORTS",ESPN HD 
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544?checkedby:iptvcat.com
 
-# http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27093?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="SPORTS",ESPN HD A
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27093?checkedby:iptvcat.com
 
 #EXTINF:-1, ESPN 2 HD 
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569?checkedby:iptvcat.com
@@ -43,6 +45,12 @@ http://45.225.93.154:8000/play/a03g?checkedby:zaltv.co
 
 #EXTINF:-1 group-title="SPORTS",ESPN Latin
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13353?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="SPORTS",STAR SPORTS SELECT 1 HD
+http://tv.mototvlive.net:25461/razaul/razaul75/1526
+
+#EXTINF:-1,PTV SPORTS TV
+http://tv.mototvlive.net:25461/razaul/razaul75/1400
 
 
 #EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 1 PREMIUM HD

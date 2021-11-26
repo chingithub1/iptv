@@ -515,12 +515,20 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 
 
 
+#EXTINF:-1 group-title="SPORTS",Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-# EXTINF:-1 group-title="SPORTS",Bein Sport1
-# http://55.1-bour.xyz:80/live/918454578/index.m3u8
 
-# EXTINF:-1 group-title="SPORTS",Bein Sport2
-# http://55.1-bour.xyz:80/live/69854211/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title=SPORTS” ,FS1 HD

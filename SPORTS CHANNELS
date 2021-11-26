@@ -46,12 +46,6 @@ http://45.225.93.154:8000/play/a03g?checkedby:zaltv.co
 #EXTINF:-1 group-title="SPORTS",ESPN Latin
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13353?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://tv.mototvlive.net:25461/razaul/razaul75/1526
-
-#EXTINF:-1,PTV SPORTS TV
-http://tv.mototvlive.net:25461/razaul/razaul75/1400
-
 
 #EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 1 PREMIUM HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
@@ -91,36 +85,20 @@ http://55.banrhfour.xyz.global.prod.fastly.net/live/791001144/index.m3u8
 #EXTINF:-1 ,Bein LaLiga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1 ,Bein Sport 1 AR
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1 ,Bein Sport 1 FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
-#EXTINF:-1 ,Bein Sport 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
 #EXTINF:-1 ,Bein Sports 2 FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
-#EXTINF:-1 ,Bein Sports 3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
 #EXTINF:-1 ,Bein Sports 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1 ,Bein Sports 5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS",beIN Sports 1 HD Australia
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220993.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="SPORTS",beIN Sports 2 HD Australia
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220994.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="SPORTS",beIN Sports 3 HD Australia
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220995.ts?checkedby:iptvcat.com
+#EXTINF:-1 ,BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
 
 
 

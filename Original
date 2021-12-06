@@ -38,15 +38,15 @@ http://livetv.dnsfor.me/channel.1.m3u8
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="Hong Kong 香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠台片集 (Malaysia)
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
+# EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠台片集 (Malaysia)
+# https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河 (Malaysia)
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河 (Malaysia)
+# http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
+# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+# https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
 
 
 #  https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8

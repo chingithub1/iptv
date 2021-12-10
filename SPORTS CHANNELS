@@ -8,44 +8,65 @@
 
 #EXTM3U
 
+#EXTINF: -1, Bein 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
 
-#EXTINF:-1 group-title="SPORTS",ESPN HD 
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544?checkedby:iptvcat.com
+#EXTINF: -1, Bein 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
 
+#EXTINF: -1, Bein 6
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
 
-#EXTINF:-1 group-title="SPORTS",ESPN HD A
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27093?checkedby:iptvcat.com
+#EXTINF: -1, Bein 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
 
-#EXTINF:-1, ESPN 2 HD 
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569?checkedby:iptvcat.com
+#EXTINF:-1, AU: Bein Sports 1 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ff_Oxyp_e2j0LERK-PElKs/ts
 
+#EXTINF:-1,AU: Bein Sports 2 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dE-IIFvK0x-SR1bT00_t73/ts 
 
+#EXTINF:-1,AU: Bein Sports 3 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ed44Iep8_6wKqdq3VMoN87/ts 
 
-#EXTINF:-1, ESPN 3 FHD 
-http://gratis.shortgod.com/listagratishortgod/tves1.php?c=103
+#EXTINF:-1,AU: ESPN 1 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fZDhXxqHSHiDXp_GOjeJXw/ts 
 
+#EXTINF:-1,AU: ESPN 2 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cVwaBIXuxlXD4xLjKhTIC-/ts 
 
-#EXTINF:-1,ES: ESPN HD 
-http://gratis.shortgod.com/listagratishortgod/tves1.php?c=87
+#EXTINF:-1,AU: Fox Sports 501 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cgmlU3v7ZSwp2ps572GrUZ/ts 
 
+#EXTINF:-1,AU: Fox Sports 502 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dsR-VfHA6bT4dxhXZodDPH/ts
 
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Spain",ESPN MX
-http://45.225.93.154:8000/play/a028?checkedby:zaltv.co
+#EXTINF:-1,AU: Fox Sports 503 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e84osxcLV5sflQM1d2hs2w/ts 
 
+#EXTINF:-1,AU: Fox Sports 504 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fPMwQ7eDVbasTEMo6CU7Px/ts 
 
+#EXTINF:-1,AU: Fox Sports 505 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cHoKuqGznMVwFb5CQE-MxF/ts 
 
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Spain",ESPN 2 MX
-http://45.225.93.154:8000/play/a027?checkedby:zaltv.co
+#EXTINF:-1,AU: Fox Sports 506 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dXMB8w-aKvUpxZRfowrAB1/ts
 
+#EXTINF:-1,AU: Fox Sports 507 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cOeDQPrsTaZi9BwtbVkEmb/ts
 
+#EXTINF:-1,AU: Racing.com HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fsK6ILetvudo9kBH0UB370/ts 
 
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Spain",ESPN 3 MX
-http://45.225.93.154:8000/play/a03g?checkedby:zaltv.co
+#EXTINF:-1,AU: Sky Racing 1 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cGbcD90YijSbkRgDlaSlhh/ts 
 
+#EXTINF:-1,AU: Sky Racing 2 HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cgf8J2qyNHQxuBVApGaKZD/ts
 
-#EXTINF:-1 group-title="SPORTS",ESPN Latin
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13353?checkedby:iptvcat.com
-
+#EXTINF:-1,AU: Sky News HD 
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eLnqQPHtJSy5IJ3hffzzvt/ts
 
 #EXTINF:-1 tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="SPORTS",beIN Sports 1 PREMIUM HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test

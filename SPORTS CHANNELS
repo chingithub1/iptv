@@ -279,8 +279,19 @@ http://93.157.62.180/KSport4/index.m3u8
 
 
 
+#EXTINF:-1,&PRIVE HD-Rs 19
+http://103.153.39.36:8000/play/a01d
+
+#EXTINF:-1,&flix HD-Rs19
+http://103.153.39.36:8000/play/a00p
+
+#EXTINF:-1,PIX HD - Rs 15
+http://103.153.39.36:8000/play/a016
 
 
+#EXTINF:-1,STAR MOV HD-Rs 19
+http://103.153.39.36:8000/play/a00v
 
-
+#EXTINF:-1,StarMov S HD-Rs 10
+http://103.153.39.36:8000/play/a00w
 

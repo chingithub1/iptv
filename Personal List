@@ -365,7 +365,9 @@ http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/14181
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
 
 #EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/07/08/08/760154153.png" group-title="SPORTS",beIN Sports 1 PREMIUM FHD
-http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
+
+# http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
 
 # http://178.18.245.114:8080/XR_XtraTv136479/974631/1381
@@ -373,7 +375,9 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",beIN Sports 2 PREMIUM
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
+http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
+
+# http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
 # http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
 
@@ -393,8 +397,8 @@ http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
 # http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7GlaI4.png" group-title="SPORTS", NFL Network HD
-http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14184
+# EXTINF:-1 tvg-logo="https://i.imgur.com/O7GlaI4.png" group-title="SPORTS", NFL Network HD
+# http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14184
 
 # EXTINF: -1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false

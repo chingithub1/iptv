@@ -5,6 +5,43 @@
 
 #EXTM3U
 
+# All these channels are from this site     https://yamcode.com/haichieniptv
+
+
+
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK:* Sky Sports Main Event FHD1
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=7960
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Main Event FHD2
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=17922
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Main Event HD
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=3206
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Main Event
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=2639
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK:* Sky Sports Football FHD1
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=15069
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Football FHD2
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=17924
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Football HD
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=15093
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Football
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=145061
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK:* Sky Sports Premier League FHD1
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=7952
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Premier League FHD2
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=17921
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Premier League HD
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=3204
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Premier League
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=2626
+
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK:* Sky Sports Mix FHD1
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=17931
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Mix FHD2
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=7950
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Mix HD
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=185936
+#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Mix
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=6721
 
 
 #EXTINF: -1 tvg-logo="https://bit.ly/32tC5je" group-title="MOVIES", HBO (Sub Manual)

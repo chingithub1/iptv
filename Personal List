@@ -623,6 +623,35 @@ http://50.7.61.148:30080/Entry/hbo
 # http://ott3.gearhostpreview.com/astro/live.php?id=41
 
 
+#EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="Movies", HBO Signature (Sub Manual)
+https://m3u-editor.com/serve/hbo1212/427774604.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="Movies", HBO Hits (Sub Manual)
+https://m3u-editor.com/serve/hbo1212/427774605.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://bit.ly/32sklVh" group-title="Movies", Cinemax (Sub Manual)
+https://m3u-editor.com/serve/hbo1212/427774607.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/36Ua6vl" group-title="MOVIES", HITS Movies
+https://m3u-editor.com/serve/hbo1212/427774613.m3u8
+
+# http://139.99.71.104:8888/live/blink4/NmgHntjhPy/99.ts
+
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3qh3Kij" group-title="Movies", Warner TV
+http://139.99.71.104:8888/live/blink12/4tWiWZ6gJM/1533.ts
+
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3gOMXii" group-title="Movies", Thrill
+http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/4.ts
+
+
+
+
+
+
 # EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png” group-title=“Movies”,HBO Signature
 # https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6MzU6MzcgQU0maGFzaF92YWx1ZT11RnZYQVE2RVJnbnUvUUhFSXQ3TXB3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI5JmlkPWNoXzUxNTUw
 
@@ -647,7 +676,8 @@ http://50.7.61.148:30080/Entry/hbo
 # https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjM3OjUxIEFNJmhhc2hfdmFsdWU9RHdsSittNmYxaDVTcFZRTWNseG1kdz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNCZpZD1jaF80NDA2OA==
 
 
-
+#EXTINF: -1 tvg-logo="https://bit.ly/3gHT1Js" group-title="Movies", Galaxy
+http://139.99.71.104:8888/live/blink8/kurBPQgPf6/29604.ts
 
 
 #EXTINF:-1 tvg-logo=”https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg” group-title="Movies",香港電影3
@@ -655,7 +685,13 @@ http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 
 
 #EXTINF:-1 group-title=“Movies”,Celestia Movie 天映频道
-http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/5.ts
+
+# http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3hQ0irW" group-title="Movies", Star Chinese Movies Opt-2
+http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/780.ts
+
 
 #EXTINF:-1 group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
 http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8

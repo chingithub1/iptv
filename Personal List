@@ -338,8 +338,8 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544?checkedby:iptvcat.com
 # http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569?checkedby:iptvcat.com
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+# http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569?checkedby:iptvcat.com
 
 
 # http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13828
@@ -352,8 +352,8 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569?checkedby:iptvcat.com
 # http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10942
 
 
-#EXTINF:-1 group-title="SPORTS",ESPN 3 
-http://gratis.shortgod.com/listagratishortgod/tves1.php?c=103
+# EXTINF:-1 group-title="SPORTS",ESPN 3 
+# http://gratis.shortgod.com/listagratishortgod/tves1.php?c=103
 
 
 #EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
@@ -365,10 +365,7 @@ http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/14181
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
 
 #EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/07/08/08/760154153.png" group-title="SPORTS",beIN Sports 1 PREMIUM FHD
-https://family4you.fun/vn360sport/Sports/playlist.php?id=beinpre11
-
-
-# http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 # http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
@@ -378,10 +375,7 @@ https://family4you.fun/vn360sport/Sports/playlist.php?id=beinpre11
 
 
 #EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",beIN Sports 2 PREMIUM
-https://family4you.fun/vn360sport/Sports/playlist.php?id=beinpre22
-
-
-# http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
+http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 
 # http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
@@ -409,20 +403,7 @@ https://family4you.fun/vn360sport/Sports/playlist.php?id=beinpre22
 # EXTINF: -1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-EXTINF:-1 group-title="SPORTS",beIN Sports English 01 HD
-https://family4you.fun/vn360sport/Sports/ig.php?id=161751
 
-
-#EXTINF:-1 group-title="SPORTS",beIN Sports English 02 HD
-https://family4you.fun/vn360sport/Sports/ig.php?id=161750
-
-
-#EXTINF:-1 group-title="SPORTS",beIN Sports English 03 4K
-https://family4you.fun/vn360sport/Sports/ig.php?id=161765
-
-
-#EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS",beIN Sports NBA 4K
-https://family4you.fun/vn360sport/Sports/ig.php?id=161762
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
@@ -443,10 +424,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title=“SPORTS”, SKY SPORT MAIN EVENTS
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=7960
-
-
-# http://93.152.174.144:4000/play/ssports1/index.m3u8
+http://93.152.174.144:4000/play/ssports1/index.m3u8
 
 
 # http://185.53.89.183/hls/main.m3u8?SBN
@@ -457,19 +435,11 @@ https://family4you.fun/vn360sport/Sports/ipro360.php?id=7960
 # http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Premier League SD
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=7952
+http://93.152.174.144:4000/play/skysports5/index.m3u8
 
-
-# http://93.152.174.144:4000/play/skysports5/index.m3u8
 # http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Football
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=15069
-
-
-#EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Mix
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=17931
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title=“SPORTS”,Eleven Sport 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8

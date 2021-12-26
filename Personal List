@@ -114,7 +114,11 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 # http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+
+
+
+# https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
 
 
 # http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8

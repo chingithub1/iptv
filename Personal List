@@ -666,10 +666,6 @@ http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/5.ts
 http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/780.ts
 
 
-#EXTINF:-1 group-title=“Movies” ,CELESTIAL MOVIE CLASSIC
-http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
-
-# http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 家庭电影

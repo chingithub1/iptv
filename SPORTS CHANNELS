@@ -8,6 +8,32 @@
 
 #EXTM3U
 
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA TV
+https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664167
+
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 1
+https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664168
+
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 2
+https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664169
+
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 3
+https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664170
+
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 4
+https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664171
+
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 5
+https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664172
+
+
+
+
 #EXTINF:-1  group-title="Sport",BeinPremium 1HD
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 

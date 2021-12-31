@@ -368,8 +368,10 @@ http://190.61.102.67:3150/play/a063/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
-http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/14181
+https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664168
 
+# https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664167
+# Change the last 2 digits from 67 to 72
 
 # http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 

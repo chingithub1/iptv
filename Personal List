@@ -377,7 +377,7 @@ https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664168
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
 
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="SPORTS",BeIN Sports PREMIUM 1
+#EXTINF:-1 tvg-logo=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL4GQBXFDO4sBuH3zam4lquAxiFQ1bppvtXtGKK8EcwdX5zbo&s" group-title="SPORTS",BeIN Sports PREMIUM 1
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 # http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test

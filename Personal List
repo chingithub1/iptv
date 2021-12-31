@@ -317,7 +317,9 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544?checkedby:iptvcat.com
+http://190.61.102.67:3150/play/a064/index.m3u8
+
+# http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544?checkedby:iptvcat.com
 
 
 # This hasn't been used yet
@@ -345,7 +347,9 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544?checkedby:iptvcat.com
 # http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+http://190.61.102.67:3150/play/a063/index.m3u8
+
 # http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569?checkedby:iptvcat.com
 
 
@@ -371,7 +375,7 @@ http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/14181
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
 
-#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/07/08/08/760154153.png" group-title="SPORTS",beIN Sports 1 PREMIUM FHD
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="SPORTS",BeIN Sports PREMIUM 1
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 # http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
@@ -381,7 +385,7 @@ http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",beIN Sports 2 PREMIUM
+#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 
 # http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
@@ -399,7 +403,7 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 # http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
 
 
-# EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 2 Premium
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
 # http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
 # http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd

@@ -406,6 +406,9 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
+http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+
+
 # http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 
 # http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd

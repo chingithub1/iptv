@@ -22,10 +22,17 @@ http://livetv.dnsfor.me/channel.11.m3u8
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
-# EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,(Malaysia)翡翠台
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (other)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+
+
+# http://iptv.tvfix.org/hls/jadenhk2.m3u8
+
 # http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
+
+# This one is good as of 01/11/2022
+# https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
 
 # http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -78,7 +85,10 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-http://livetv.dnsfor.me/channel.1.m3u8
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+
+
+# http://livetv.dnsfor.me/channel.1.m3u8
 
 
 # http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
@@ -116,6 +126,8 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 
+
+# http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
 
 
 # https://phoenixtv.hkatv.vip/liveott/PHK.m3u8

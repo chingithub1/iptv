@@ -659,15 +659,16 @@ http://50.7.61.148:30080/Entry/hbo
 https://m3u-editor.com/serve/hbo1212/427774604.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="Movies", HBO Hits (Sub Manual)
-https://m3u-editor.com/serve/hbo1212/427774605.m3u8
-
+#EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="Movies", HBO Hits 
+https://lnk.ec/hboHitsID?shareext.ts
 
 #EXTINF: -1 tvg-logo="https://bit.ly/32sklVh" group-title="Movies", Cinemax (Sub Manual)
 https://m3u-editor.com/serve/hbo1212/427774607.m3u8
 
 #EXTINF: -1 tvg-logo="https://bit.ly/36Ua6vl" group-title="MOVIES", HITS Movies
-https://m3u-editor.com/serve/hbo1212/427774613.m3u8
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+# https://m3u-editor.com/serve/hbo1212/427774613.m3u8
 
 # http://139.99.71.104:8888/live/blink4/NmgHntjhPy/99.ts
 

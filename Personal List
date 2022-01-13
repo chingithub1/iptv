@@ -40,7 +40,11 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOM7VD4EiiJDiPdVSrQgyoHm9dS3CtPluTXg&usqp=CAU" group-title="Hong Kong 香港”,翡翠台 (香港)
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+http://iptv.tvfix.org/hls/jade2.m3u8
+
+
+
+# http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 # the other logo "http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png"
 
@@ -109,6 +113,10 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+# this is new  01122022
+http://iptv.tvfix.org/hls/j2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -239,16 +247,18 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
-# rtmp://58.200.131.2:1935/livetv/fhzx
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
+http://iptv.tvfix.org/hls/fhzx.m3u8
 
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320677
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="China" ,鳳凰衛視中文台 Pheonix Chinese
-https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
+http://iptv.tvfix.org/hls/fhzw.m3u8
+
+
+# https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
 
 
 # rtmp://58.200.131.2:1935/livetv/fhzw
@@ -607,8 +617,8 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 # http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title=“SPORTS”, Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
 
 
 

@@ -136,6 +136,59 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54208.m3u8
 
 
 
+#EXTINF:-1,Premier HD1
+
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1,Premier HD2
+
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1,Premier HD3
+
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1,Premier HD4
+
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1,Premier HD5
+
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1,PremierHD1
+
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1,PremierHD2
+
+https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1,PremierHD3
+
+https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1,PremierHD4
+
+https://sport.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1,TS HD
+
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1,TS2 HD
+
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1,TS3 HD
+
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1,TS4 HD
+
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" group-title="FOX SPORT" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png", FOX SPORT
@@ -170,6 +223,15 @@ http://103.153.39.36:8000/play/a00w
 
 #EXTINF:-1,超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
+
+
+#EXTINF:-1,HBO Signature HD
+
+http://181.198.67.5:8024/play/a09n/index.m3u8
+
+
+
+
 
 
 

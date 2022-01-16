@@ -22,7 +22,7 @@ http://livetv.dnsfor.me/channel.11.m3u8
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Overseas)
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 
 
@@ -39,8 +39,10 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
 
-#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOM7VD4EiiJDiPdVSrQgyoHm9dS3CtPluTXg&usqp=CAU" group-title="Hong Kong 香港”,翡翠台 (香港)
-http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+http://iptv.tvfix.org/hls/jade.m3u8
+
+# http://iptv.tvfix.org/hls/jade2.m3u8
 
 
 
@@ -64,6 +66,27 @@ http://iptv.tvfix.org/hls/jade2.m3u8
 # EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",無線娛樂台
 # https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+# this is new  01122022
+http://iptv.tvfix.org/hls/j2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港" ,TVB为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+
+
+# http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB功夫台
+http://iptv.tvfix.org/hls/tvbkf.m3u8
 
 
 
@@ -110,27 +133,6 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="Hong Kong 香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-
-# this is new  01122022
-http://iptv.tvfix.org/hls/j2.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港" ,TVB为食台
-http://iptv.tvfix.org/hls/tvbws.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
-http://iptv.tvfix.org/hls/tvbxh.m3u8
-
-
-# http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB功夫台
-http://iptv.tvfix.org/hls/tvbkf.m3u8
 
 
 # EXTINF:0 tvg-id="ext" group-title="Malaysia",全佳HD
@@ -238,12 +240,17 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+
+
+# http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 
 
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China",CCTV-2高清 财经
-http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8?checkedby:iptvcat.com
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+
+# http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8?checkedby:iptvcat.com
 
 
 # EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/revision/latest/scale-to-width-down/270?cb=20190606063508" group-title="China",CCTV-2 财经
@@ -743,12 +750,18 @@ http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/780.ts
 
 
 #EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 家庭电影
-http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://iptv.tvfix.org/hls/chctv.m3u8
+
+# http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 
 #EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC动作电影
-http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://iptv.tvfix.org/hls/chcatv.m3u8
 
-# EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 高清电影
+# http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+
+#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+
 # http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png group-title="Movies", Flix chinese sub

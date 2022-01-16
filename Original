@@ -16,8 +16,40 @@ http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 
-#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”,翡翠台 (香港)
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+
+
+# http://iptv.tvfix.org/hls/jadenhk2.m3u8
+
+# http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+http://iptv.tvfix.org/hls/jade.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+# this is new  01122022
+http://iptv.tvfix.org/hls/j2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港" ,TVB为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+
+
+# http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB功夫台
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
@@ -48,9 +80,8 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
-# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-# https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
-
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
 
 #  https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
@@ -85,8 +116,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
+# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+# http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
 
 #  http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596?checkedby:hlscat.com
 
@@ -153,7 +184,9 @@ rtmp://58.200.131.2:1935/livetv/cctv9hd
 #  http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+
+# http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 
 
 # rtmp://58.200.131.2:1935/livetv/cctv1hd
@@ -184,16 +217,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title="SPORTS",ELEVEN SPORTS 1 
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
-#  http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21612.m3u8
-
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORT 2 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="SPORTS",ELEVEN SPORT 2 HD
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-
-#  http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21441.m3u8
 
 
 
@@ -226,8 +250,6 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title=SPORTS” ,FS1 HD
-http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title=“SPORTS”, SKY SPORT MAIN EVENTS

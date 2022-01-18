@@ -5,238 +5,28 @@
 
 #EXTM3U
 
-# All these channels are from this site     https://yamcode.com/haichieniptv
+# All these channels are from this site     
 
 
 
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK:* Sky Sports Main Event FHD1
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=7960
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Main Event FHD2
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=17922
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Main Event HD
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=3206
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Main Event
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=2639
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK:* Sky Sports Football FHD1
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=15069
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Football FHD2
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=17924
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Football HD
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=15093
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Football
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=145061
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK:* Sky Sports Premier League FHD1
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=7952
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Premier League FHD2
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=17921
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Premier League HD
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=3204
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Premier League
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=2626
 
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK:* Sky Sports Mix FHD1
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=17931
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Mix FHD2
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=7950
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Mix HD
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=185936
-#EXTINF:-1 group-title="Sky Sports Hải Chiến TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/59e4881b8a02c782e4807eb9/1615810363283-XHXD1UYLPC95HYXWKGNS/UK+Sky+Sports+Deals.jpg",UK: Sky Sports Mix
-https://family4you.fun/vn360sport/Sports/ipro360.php?id=6721
 
 
-#EXTINF: -1 tvg-logo="https://bit.ly/32tC5je" group-title="MOVIES", HBO (Sub Manual)
-https://m3u-editor.com/serve/hbo1212/427774603.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Asahi (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00014/index.m3u8
+#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local Japan",TV Osaka (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00013/index.m3u8
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Local Japan",TV Tokyo (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00012/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://bit.ly/32tC5je" group-title="MOVIES", HBO Opt2
-https://m3u-editor.com/serve/hbo1212/444500577.m3u8
+#EXTINF:-1 tvg-id="JSports1.jp" tvg-logo="noimage.png" group-title="Sports", J Sports 1 (720p)
+http://50.7.74.29:8880/hls/j00042/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="MOVIES", HBO Signature (Sub Manual)
-https://m3u-editor.com/serve/hbo1212/427774604.m3u8
+#EXTINF:-1 tvg-id="JSports2.jp" tvg-logo="noimage.png" group-title="Sports", J Sports 2 (720p)
+http://50.7.74.29:8880/hls/j00041/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="MOVIES", HBO Sig Opt2
-http://gumisasak-vision.online/Gegonjer-TV/Master/INI_HBO/SIG.m3u8
+#EXTINF:-1 tvg-id="JSports3.jp" tvg-logo="noimage.png" group-title="Sports", J Sports 3 (720p)
+http://50.7.74.29:8880/hls/j00040/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="MOVIES", HBO Hits (Sub Manual)
-https://m3u-editor.com/serve/hbo1212/427774605.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="MOVIES", HBO Hits Opt2
-https://m3u-editor.com/serve/hbo1212/444500642.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3x1rPg2" group-title="MOVIES", HBO Family (Sub Manual)
-https://m3u-editor.com/serve/hbo1212/427774606.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3x1rPg2" group-title="MOVIES", HBO Family Opt2
-https://m3u-editor.com/serve/hbo1212/444500643.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/32sklVh" group-title="MOVIES", Cinemax (Sub Manual)
-https://m3u-editor.com/serve/hbo1212/427774607.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/32sklVh" group-title="MOVIES", Cinemax Opt2
-https://m3u-editor.com/serve/hbo1212/444500644.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3l0vlmQ" group-title="MOVIES", My Cinema Asia
-http://139.99.71.104:8888/live/blink2/feKJTdDSLx/1859.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3l0vlmQ" group-title="MOVIES", My Cinema Asia Opt-2
-https://m3u-editor.com/serve/hbo1212/427774611.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3l0vlmQ" group-title="MOVIES", My Cinema Asia Opt-3
-http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/1859.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3B6HlsS" group-title="MOVIES", My Family Channel
-http://139.99.71.104:8888/live/blink3/CPikIoNnQi/14994.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3B6HlsS" group-title="MOVIES", My Family Channel Opt-2
-https://m3u-editor.com/serve/hbo1212/427774610.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3B6HlsS" group-title="MOVIES", My Family Channel Opt-3
-http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/14994.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/36Ua6vl" group-title="MOVIES", HITS Movies
-http://139.99.71.104:8888/live/blink4/NmgHntjhPy/99.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/36Ua6vl" group-title="MOVIES", HITS Movies Opt-2
-https://m3u-editor.com/serve/hbo1212/427774613.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35DptYn" group-title="MOVIES", HITS
-http://139.99.71.104:8888/live/blink5/W6MIckThGt/1195.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35DptYn" group-title="MOVIES", HITS Opt-2
-https://m3u-editor.com/serve/hbo1212/427774612.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35DptYn" group-title="MOVIES", HITS Opt-3
-http://139.99.71.104:8888/live/blink11/yqrzeCbnAi/1195.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3vIku3c" group-title="MOVIES", AXN
-http://139.99.71.104:8888/live/blink6/yOttch0ZLF/9.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3vIku3c" group-title="MOVIES", AXN Opt-2
-https://m3u-editor.com/serve/hbo1212/427774638.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3vIku3c" group-title="MOVIES", AXN Opt-3
-http://139.99.71.104:8888/live/blink10/uuLXcTEo5O/9.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35Cu5xI" group-title="MOVIES", Galaxy Premium
-http://139.99.71.104:8888/live/blink7/38Jz5ErUNG/29603.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35Cu5xI" group-title="MOVIES", Galaxy Premium Opt-2
-https://m3u-editor.com/serve/hbo1212/427774621.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35Cu5xI" group-title="MOVIES", Galaxy Premium Opt-3
-http://139.99.71.104:8888/live/blink9/uuLXcTEo5O/29603.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gHT1Js" group-title="MOVIES", Galaxy
-http://139.99.71.104:8888/live/blink8/kurBPQgPf6/29604.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gHT1Js" group-title="MOVIES", Galaxy Opt-2
-https://m3u-editor.com/serve/hbo1212/427774620.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gHT1Js" group-title="MOVIES", Galaxy Opt-3
-http://139.99.71.104:8888/live/blink8/kurBPQgPf6/29604.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh3Nuv" group-title="MOVIES", Cinema World
-http://139.99.71.104:8888/live/blink9/uuLXcTEo5O/1194.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh3Nuv" group-title="MOVIES", Cinema World Opt-2
-https://m3u-editor.com/serve/hbo1212/427774615.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh3Nuv" group-title="MOVIES", Cinema World Opt-3
-http://139.99.71.104:8888/live/blink7/38Jz5ErUNG/37454.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3AqvJ3y" group-title="MOVIES", ATV Movies
-http://139.99.71.104:8888/live/blink10/uuLXcTEo5O/29899.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3AqvJ3y" group-title="MOVIES", ATV Movies Opt-2
-http://139.99.71.104:8888/live/blink/kosong/29899.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3AqvJ3y" group-title="MOVIES", ATV Movies Opt-3
-http://139.99.71.104:8888/live/blink6/yOttch0ZLF/29899.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3wKrnCf" group-title="MOVIES", TvN Movies
-http://139.99.71.104:8888/live/blink11/yqrzeCbnAi/927.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3wKrnCf" group-title="MOVIES", TvN Movies Opt-2
-https://m3u-editor.com/serve/hbo1212/427774617.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3wKrnCf" group-title="MOVIES", TvN Movies Opt-3
-http://139.99.71.104:8888/live/blink5/W6MIckThGt/37376.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh3Kij" group-title="MOVIES", Warner TV
-http://139.99.71.104:8888/live/blink12/4tWiWZ6gJM/1533.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh3Kij" group-title="MOVIES", Warner TV Opt-2
-https://m3u-editor.com/serve/hbo1212/427774652.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh3Kij" group-title="MOVIES", Warner TV Opt-3
-http://139.99.71.104:8888/live/blink4/NmgHntjhPy/37414.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3uFvwra" group-title="MOVIES", Paramount
-http://139.99.71.104:8888/live/blink1/aBssjEU7uU/98.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3uFvwra" group-title="MOVIES", Paramount Opt-2
-https://m3u-editor.com/serve/hbo1212/427774609.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3uFvwra" group-title="MOVIES", Paramount Opt-3
-http://139.99.71.104:8888/live/blink16/boGr3t76M7/98.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gOMXii" group-title="MOVIES", Thrill
-http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/4.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gOMXii" group-title="MOVIES", Thrill Opt-2
-http://139.99.71.104:8888/live/blink16/boGr3t76M7/4.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gOMXii" group-title="MOVIES", Thrill Opt-3
-http://139.99.71.104:8888/live/blink3/CPikIoNnQi/4.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gMW1UT" group-title="MOVIES", Celestial Movies
-http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/5.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gMW1UT" group-title="MOVIES", Celestial Movies Opt-2
-https://m3u-editor.com/serve/hbo1212/427774614.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3gMW1UT" group-title="MOVIES", Celestial Movies Opt-3
-http://139.99.71.104:8888/live/blink2/feKJTdDSLx/5.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3hQ0irW" group-title="MOVIES", Star Chinese Movies
-http://139.99.71.104:8888/live/blink16/boGr3t76M7/780.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3hQ0irW" group-title="MOVIES", Star Chinese Movies Opt-2
-http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/780.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3hQ0irW" group-title="MOVIES", Star Chinese Movies Opt-3
-http://139.99.71.104:8888/live/blink1/aBssjEU7uU/780.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/2TLUuXm" group-title="MOVIES", Chinese Drama
-http://139.99.71.104:8888/live/blink1/aBssjEU7uU/36733.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/2TLUuXm" group-title="MOVIES", Chinese Drama Opt-2
-http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/36733.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/2TLUuXm" group-title="MOVIES", Chinese Drama Opt-3
-http://139.99.71.104:8888/live/blink16/boGr3t76M7/36733.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35EXTda" group-title="MOVIES", Bioskop Indonesia
-http://139.99.71.104:8888/live/blink2/feKJTdDSLx/908.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35EXTda" group-title="MOVIES", Bioskop Indonesia Opt-2
-https://m3u-editor.com/serve/hbo1212/427774616.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/35EXTda" group-title="MOVIES", Bioskop Indonesia Opt-3
-http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/908.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh2b3V" group-title="MOVIES", Flik
-http://139.99.71.104:8888/live/blink3/CPikIoNnQi/29592.ts
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh2b3V" group-title="MOVIES", Flik Opt-2
-https://m3u-editor.com/serve/hbo1212/427774619.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh2b3V" group-title="MOVIES", Flik Opt-3
-http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/29592.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3vJZZTA" group-title="MOVIES", IMC
-http://139.99.71.104:8888/live/blink4/NmgHntjhPy/35484.ts
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3vJZZTA" group-title="MOVIES", IMC Opt-2
-https://m3u-editor.com/serve/hbo1212/427774608.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3vJZZTA" group-title="MOVIES", IMC Opt-3
-http://139.99.71.104:8888/live/blink12/4tWiWZ6gJM/35484.ts
+#EXTINF:-1 tvg-id="JSports4.jp" tvg-logo="noimage.png" group-title="Sports", J Sports 4 (720p)
+http://50.7.74.29:8880/hls/j00039/index.m3u8

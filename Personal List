@@ -68,7 +68,10 @@ http://iptv.tvfix.org/hls/jade.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+http://iptv.tvfix.org/hls/j2.m3u8
+
+
+# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 # this is new  01122022
 http://iptv.tvfix.org/hls/j2.m3u8
@@ -411,7 +414,10 @@ http://190.61.102.67:3150/play/a063/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
-https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664168
+https://wopep.com/02_nbahd_720p/chunklist.m3u8
+
+
+# https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664168
 
 # https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664167
 # Change the last 2 digits from 67 to 72
@@ -524,12 +530,12 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title=“SPORTS”,Eleven Sport 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+# EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title=“SPORTS”,Eleven Sport 1
+# http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title=“SPORTS”,Eleven Sport 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+# EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title=“SPORTS”,Eleven Sport 2
+# http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 
 
@@ -578,24 +584,32 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 # http://livepulse2.uk:8080/live/88888/99999/222633.ts
 
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="Spain",ESPN (Spain)
-# http://45.225.93.154:8000/play/a028?checkedby:zaltv.co
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hCQ1fbG/Tpf.png" group-title="SPORTS", PREMIER FOOTBALL HD 1
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4t0NRM6/Tpf2.png" group-title="SPORTS", PREMIER FOOTBALL HD 2
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 
 
-# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 1
-# http://xcchui2.mrnova.online/live/60540_.m3u8
+#EXTINF:-1 group-title="SPORTS" ,TS HD
 
-# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 2
-# http://xcchui2.mrnova.online/live/60541_.m3u8
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 
-# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 3
-# http://xcchui2.mrnova.online/live/60542_.m3u8
+#EXTINF:-1 group-title="SPORTS" ,TS2 HD
 
-# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 4
-# http://xcchui2.mrnova.online/live/60543_.m3u8
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 
-# EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORTS",TSN 5
-# http://xcchui2.mrnova.online/live/60544_.m3u8
+#EXTINF:-1 group-title="SPORTS",TS3 HD
+
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",TS4 HD
+
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis 1
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8

@@ -29,7 +29,11 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 http://iptv.tvfix.org/hls/jade.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+http://iptv.tvfix.org/hls/j2.m3u8
+
+
+
+# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 # this is new  01122022
 # http://iptv.tvfix.org/hls/j2.m3u8

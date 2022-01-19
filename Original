@@ -17,8 +17,8 @@ http://livetv.dnsfor.me/channel.10.m3u8
 http://livetv.dnsfor.me/channel.11.m3u8
 
 # Temporarily removed on 01/18/2022
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
+# http://iptv.tvfix.org/hls/jadenhk.m3u8
 
 
 # http://iptv.tvfix.org/hls/jadenhk2.m3u8

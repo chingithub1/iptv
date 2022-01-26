@@ -49,8 +49,8 @@ rtmp://59.124.75.138/sat/md051
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
 
 
-#EXTINF:-1,ESPN Extra HD
-http://190.15.32.30:80/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN2 HD
+http://208.79.153.123/teleup-espn2-new1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BAND News
 http://190.15.32.30:80/18/tracks-v1a1/mono.m3u8
@@ -59,8 +59,18 @@ http://190.15.32.30:80/18/tracks-v1a1/mono.m3u8
 http://190.15.32.30:80/19/tracks-v1a1/mono.m3u
 
 #EXTINF:-1,ESPN HD
-http://190.15.32.30:80/22/tracks-v1a1/mono.m3u8
+http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,TSN 1
+http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 2
+http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 3
+http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 4
+http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 5
+http://Richi@38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1group-title="Sport",BT Sport ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8

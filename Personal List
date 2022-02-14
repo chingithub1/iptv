@@ -558,6 +558,17 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 # http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 
+#EXTINF:-1 group-title=“SPORTS”,TSN 1
+http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1group-title=“SPORTS” ,TSN 2
+http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1group-title=“SPORTS” ,TSN 3
+http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=“SPORTS”,TSN 4
+http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=“SPORTS”,TSN 5
+http://Richi@38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,group-title=“SPORTS”,Sky Sports NFL
 http://93.152.174.144:4000/play/skysports3/index.m3u8

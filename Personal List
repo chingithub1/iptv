@@ -103,7 +103,10 @@ http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+http://iptv.tvfix.org/hls/viutv.m3u8
+
+
+# http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
 # http://61.238.6.49:8000/bysid/99
 
@@ -115,7 +118,10 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+http://iptv.tvfix.org/hls/rthk31.m3u8
+
+
+# https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 
 # http://livetv.dnsfor.me/channel.1.m3u8
@@ -161,6 +167,13 @@ http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
 
 
 # http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="24/7 WORLD NEWS",CNBC 新闻
+http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -236,22 +249,29 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="China",CCTV 4
-http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+
+
+# http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/12/31/1420004775654_68.jpg" group-title="China", CCTV-9 纪录
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
-http://iptv.tvfix.org/hls/cctv1hd.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+
+# http://iptv.tvfix.org/hls/cctv1hd.m3u8
 
 
 # http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China",CCTV-2高清 财经
-http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China",CCTV-2高清 财经
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+
+# http://iptv.tvfix.org/hls/cctv2hd.m3u8
 
 # http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8?checkedby:iptvcat.com
 
@@ -289,13 +309,13 @@ http://iptv.tvfix.org/hls/fhzw.m3u8
 
 
 
-# EXTINF:-1 group-title=“General” ,The Carol Burnett Show
-# https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef396d1be50a3000722808b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="Hong Kong 香港",rthk32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+http://iptv.tvfix.org/hls/rthk32.m3u8
+
+# http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 
 # http://livetv.dnsfor.me/channel.2.m3u8
 
@@ -656,6 +676,9 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 http://iptv.tvfix.org/hls/starsports.m3u8
 
 
+#EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="SPORTS",博斯运动
+
+rtmp://59.124.75.157/sat/md031
 
 
 # ============================================
@@ -683,7 +706,9 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 #  http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2hRSX4/hbo-logo.jpg" group-title=“Movies”,HBO 
-http://50.7.61.148:30080/Entry/hbo
+http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+
+# http://50.7.61.148:30080/Entry/hbo
 
 # http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
@@ -697,8 +722,8 @@ https://m3u-editor.com/serve/hbo1212/427774604.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="Movies", HBO Hits 
 https://lnk.ec/hboHitsID?shareext.ts
 
-#EXTINF: -1 tvg-logo="https://bit.ly/32sklVh" group-title="Movies", Cinemax (Sub Manual)
-https://m3u-editor.com/serve/hbo1212/427774607.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/32sklVh" group-title="Movies", Cinemax 
+http://59.125.101.187:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 
 #EXTINF: -1 tvg-logo="https://bit.ly/36Ua6vl" group-title="MOVIES", HITS Movies
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8

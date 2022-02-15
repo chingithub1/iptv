@@ -383,7 +383,9 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://190.61.102.67:3150/play/a064/index.m3u8
+http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
+
+# http://190.61.102.67:3150/play/a064/index.m3u8
 
 # http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544?checkedby:iptvcat.com
 
@@ -414,7 +416,7 @@ http://190.61.102.67:3150/play/a064/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://190.61.102.67:3150/play/a063/index.m3u8
+http://208.79.153.123/teleup-espn2-new1/tracks-v1a1/mono.m3u8
 
 # http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569?checkedby:iptvcat.com
 

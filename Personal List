@@ -321,48 +321,20 @@ http://iptv.tvfix.org/hls/rthk32.m3u8
 
 
 
-# EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo_before_after.png" group-title="Documentary", Discovery Channel
-# https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo_before_after.png" group-title="Documentary", Discovery Channel
+http://iptv.tvfix.org/hls/discovery.m3u8
 
 # EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo_before_after.png" group-title="Documentary", Discovery Science
 # http://livepulse2.uk:8080/live/88888/99999/292532.ts
 
 
 
-# EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="Documentary", BBC Earth
-# http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Documentary",国家地理
 
-# EXTINF:-1 tvg-logo="https://i.ibb.co/Ydd8dRW/axZX.png" group-title=“Documentary”,BBC Lifestyle
-# https://link.zozotv.xyz:443/Freemium2/unlimited99/84
-
-
-# EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title=“General” ,ITV
-# http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+http://iptv.tvfix.org/hls/natlgeo.m3u8
 
 
 
-
-#EXTINF:-1 group-title="China" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
-http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" ,台視新聞台
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/民视新闻台.png" ,民視新聞台
-http://seb.sason.top/sc/msxw_fhd.m3u8
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" ,CBC東森新聞
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-
-#EXTINF:-1 group-title="Korea",Arirang Korea
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="KBSWorld.us" group-title="Korea",KBS WORLD
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-
-#EXTINF:0 tvg-id="set" group-title="Korea",Korea Sony HD
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title=“Documentary”,Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -718,8 +690,14 @@ rtmp://59.124.75.157/sat/md031
 
 #  http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2hRSX4/hbo-logo.jpg" group-title=“Movies”,HBO 
-http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",HBO
+
+http://50.7.61.148:30080/Entry/hbo
+
+
+# EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2hRSX4/hbo-logo.jpg" group-title=“Movies”,HBO 
+# http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 
 # http://50.7.61.148:30080/Entry/hbo
 
@@ -737,30 +715,23 @@ http://iptv.tvfix.org/hls/tyjd.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="Movies", HBO Signature (Sub Manual)
-https://m3u-editor.com/serve/hbo1212/427774604.m3u8
+# EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="Movies", HBO Signature (Sub Manual)
+# https://m3u-editor.com/serve/hbo1212/427774604.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="Movies", HBO Hits 
 https://lnk.ec/hboHitsID?shareext.ts
 
-#EXTINF: -1 tvg-logo="https://bit.ly/32sklVh" group-title="Movies", Cinemax 
-http://59.125.101.187:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/36Ua6vl" group-title="MOVIES", HITS Movies
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-
-# https://m3u-editor.com/serve/hbo1212/427774613.m3u8
-
-# http://139.99.71.104:8888/live/blink4/NmgHntjhPy/99.ts
 
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3qh3Kij" group-title="Movies", Warner TV
-http://139.99.71.104:8888/live/blink12/4tWiWZ6gJM/1533.ts
 
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3gOMXii" group-title="Movies", Thrill
-http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/4.ts
+# EXTINF: -1 tvg-logo="https://bit.ly/3qh3Kij" group-title="Movies", Warner TV
+# http://139.99.71.104:8888/live/blink12/4tWiWZ6gJM/1533.ts
+
+
+# EXTINF: -1 tvg-logo="https://bit.ly/3gOMXii" group-title="Movies", Thrill
+# http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/4.ts
 
 
 
@@ -791,34 +762,18 @@ http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/4.ts
 # https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjM3OjUxIEFNJmhhc2hfdmFsdWU9RHdsSittNmYxaDVTcFZRTWNseG1kdz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNCZpZD1jaF80NDA2OA==
 
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3gHT1Js" group-title="Movies", Galaxy
-http://139.99.71.104:8888/live/blink8/kurBPQgPf6/29604.ts
 
 
 #EXTINF:-1 tvg-logo=”https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg” group-title="Movies",香港電影3
 http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 
 
-#EXTINF:-1 group-title=“Movies”,Celestia Movie 天映频道
-http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/5.ts
-
-# http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3hQ0irW" group-title="Movies", Star Chinese Movies Opt-2
-http://139.99.71.104:8888/live/blink15/dI5J9LJpP9/780.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 家庭电影
-http://iptv.tvfix.org/hls/chctv.m3u8
 
-# http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 
-#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC动作电影
-http://iptv.tvfix.org/hls/chcatv.m3u8
-
-# http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
 #EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 高清电影
 http://iptv.tvfix.org/hls/chchd.m3u8
@@ -846,21 +801,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a
 
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1 group-title=“Movies” tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie 
-https://bit.ly/3tqJBrv
 
-# EXTINF:-1 group-title=“Movies”, FILM Comedy
-# https://bit.ly/3rqdx4X
-
-
-# http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-
-# :-1, tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png"  group-title="Movies",MBC Max HD
-# ://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
-
-
-# EXTINF:-1 tvg-logo="https://i.imgur.com/X0Jw6B1.png" group-title=“Movies”,Hollywood Classics
-# https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -922,3 +863,25 @@ https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies (720p)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+
+#EXTINF:-1 group-title="China" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" ,台視新聞台
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+
+#EXTINF:-1 group-title="Taiwan" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/民视新闻台.png" ,民視新聞台
+http://seb.sason.top/sc/msxw_fhd.m3u8
+
+#EXTINF:-1 group-title="Taiwan" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" ,CBC東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+
+#EXTINF:-1 group-title="Korea",Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="KBSWorld.us" group-title="Korea",KBS WORLD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:0 tvg-id="set" group-title="Korea",Korea Sony HD
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+

@@ -77,7 +77,7 @@ http://iptv.tvfix.org/hls/j2.m3u8
 http://iptv.tvfix.org/hls/j2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港" ,TVB为食台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
 http://iptv.tvfix.org/hls/tvbws.m3u8
 
 
@@ -88,7 +88,7 @@ http://iptv.tvfix.org/hls/tvbxh.m3u8
 # http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB功夫台
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
 http://iptv.tvfix.org/hls/tvbkf.m3u8
 
 
@@ -726,6 +726,15 @@ http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 # http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 # http://ott3.gearhostpreview.com/astro/live.php?id=41
+
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="Movies",美亚电影台(粤语)
+
+http://iptv.tvfix.org/hls/mydy.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Movies",天映经典(粤语)
+
+http://iptv.tvfix.org/hls/tyjd.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="Movies", HBO Signature (Sub Manual)

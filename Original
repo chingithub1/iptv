@@ -260,6 +260,23 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 # http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
 
+#EXTINF:-1 group-title="SPORT", 纬来体育台
+rtmp://59.124.75.138/sat/tv721
+
+# rtmp://59.124.75.156/sat/tv721
+# rtmp://59.124.75.157/sat/tv721
+# http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch28.m3u8?token=
+
+
+#EXTINF:-1 group-title="SPORT", 爱尔达体育1
+rtmp://59.124.75.138/sat/md011
+
+# rtmp://59.124.75.157/sat/md011
+# rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
+
+
+#EXTINF:-1 group-title="SPORT", 爱尔达体育2
+rtmp://59.124.75.138/sat/md051
 
 
 

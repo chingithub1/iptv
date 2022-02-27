@@ -245,20 +245,20 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www5.0zz0.com/2021/07/08/08/760154153.png" group-title=“SPORTS”,beIN Sports 1 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1  group-title="SPORTS",BeinPremium 1HD
+http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/524?
 
-# http://xcwsnl28.mrnova.online/live/60090_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+# http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 
 
-#EXTINF:-1 ttvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title=“SPORTS”,beIN Sports 2 PREMIUM 
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="SPORTS",BeinPremium2HD
+http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/526?
 
-# http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
 
-# http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
+#EXTINF:-1  group-title="SPORTS", Bein Premium3HD
+http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
 
 #EXTINF:-1 group-title="SPORT", 纬来体育台
 rtmp://59.124.75.138/sat/tv721

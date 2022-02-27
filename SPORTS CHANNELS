@@ -9,25 +9,27 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgQLxhS/nba.png" group-title="Sports",NBA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgQLxhS/nba.png" group-title="SPORTS",NBA TV
 https://wopep.com/02_nbahd_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1  group-title="Sport",BeinPremium 1HD
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1  group-title="SPORTS",BeinPremium 1HD
+http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/524?
+
+# http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport",BeinPremium2HD
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="SPORTS",BeinPremium2HD
+http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/526?
 
 
 
-#EXTINF:-1  group-title="Sport", Bein Premium3HD
-http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1  group-title="SPORTS", Bein Premium3HD
+http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
 
-#EXTINF:-1 group-title="SPORT", 纬来体育台
+#EXTINF:-1 group-title="SPORTS", 纬来体育台
 rtmp://59.124.75.138/sat/tv721
 
 # rtmp://59.124.75.156/sat/tv721
@@ -35,18 +37,39 @@ rtmp://59.124.75.138/sat/tv721
 # http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch28.m3u8?token=
 
 
-#EXTINF:-1 group-title="SPORT", 爱尔达体育1
+#EXTINF:-1 group-title="SPORTS", 爱尔达体育1
 rtmp://59.124.75.138/sat/md011
 
 # rtmp://59.124.75.157/sat/md011
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
 
 
-#EXTINF:-1 group-title="SPORT", 爱尔达体育2
+#EXTINF:-1 group-title="SPORTS", 爱尔达体育2
 rtmp://59.124.75.138/sat/md051
 
 # rtmp://59.124.75.157/sat/md051
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU",astro SUPER SPORT 1
+http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287306.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU",astro SUPER SPORT 2
+http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287305.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtBTRgSJx-6CGMPy9RnOFLek6eOR1iZzsmw&usqp=CAU",astro SUPER SPORT 3
+http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287304.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU",astro SUPER SPORT 4
+http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287303.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kWoEUAXiaPleOZ1ievX_b7J_3uo-N7dWew&usqp=CAU",astro SUPER SPORT 5
+http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287302.ts
+
+#EXTINF:-1 group-title="SPORTS",SUPER SPORT PREMIER LEAUGE
+http://vmp343.ddnsking.com:80/david2/david2/394993
+
+#EXTINF:-1 group-title="SPORTS",SUPER SPORT FOOTBALL
+http://vmp343.ddnsking.com:80/david2/david2/394994
 
 
 #EXTINF:-1,ESPN2 HD

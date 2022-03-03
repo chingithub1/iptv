@@ -50,20 +50,30 @@ rtmp://59.124.75.138/sat/md051
 # rtmp://59.124.75.157/sat/md051
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU",astro SUPER SPORT 1
-http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287306.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU",astro SUPER SPORT 2
-http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287305.ts
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/389x42:662x365/x/photo/2021/04/03/1516238093.jpg" group-title="SPORTS",  Star Sports Select 1 HD
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtBTRgSJx-6CGMPy9RnOFLek6eOR1iZzsmw&usqp=CAU",astro SUPER SPORT 3
-http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287304.ts
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/389x42:662x365/x/photo/2021/04/03/1516238093.jpg" group-title="SPORTS",  Star Sports Select 2 HD
+http://live.flixhub.net/hls/select2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU",astro SUPER SPORT 4
-http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287303.ts
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/389x42:662x365/x/photo/2021/04/03/1516238093.jpg" group-title="SPORTS",  Star Sports 1 HD
+http://live.flixhub.net/hls/stersports1hd.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kWoEUAXiaPleOZ1ievX_b7J_3uo-N7dWew&usqp=CAU",astro SUPER SPORT 5
-http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287302.ts
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/389x42:662x365/x/photo/2021/04/03/1516238093.jpg" group-title="SPORTS",  Star Sports 2 HD
+http://live.flixhub.net/hls/starsports2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+
+
 
 #EXTINF:-1 group-title="SPORTS",SUPER SPORT PREMIER LEAUGE
 http://vmp343.ddnsking.com:80/david2/david2/394993
@@ -72,28 +82,23 @@ http://vmp343.ddnsking.com:80/david2/david2/394993
 http://vmp343.ddnsking.com:80/david2/david2/394994
 
 
+#EXTINF:-1,AL: Super Sport 1 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/337
+#EXTINF:-1,Al: Super Sport 2 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/338
+#EXTINF:-1,AL: Super sport 3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/407
+#EXTINF:-1,AL: Super Sport 3 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/339
+
+
 #EXTINF:-1,ESPN2 HD
-http://208.79.153.123/teleup-espn2-new1/tracks-v1a1/mono.m3u8
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/121
 
-#EXTINF:-1,BAND News
-http://190.15.32.30:80/18/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BAND Sports HD
-http://190.15.32.30:80/19/tracks-v1a1/mono.m3u
 
 #EXTINF:-1,ESPN HD
-http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TSN 1
-http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 2
-http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 3
-http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 4
-http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TSN 5
-http://Richi@38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5726
 
 #EXTINF:-1group-title="Sport",BT Sport ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8

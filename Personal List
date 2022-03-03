@@ -411,14 +411,7 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/121
 
 # http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
-# EXTINF:-1 tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title=“SPORTS”, Espn Plus MX FHD
-# http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10964
 
-# http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10942
-
-
-# EXTINF:-1 group-title="SPORTS",ESPN 3 
-# http://gratis.shortgod.com/listagratishortgod/tves1.php?c=103
 
 
 #EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
@@ -477,8 +470,6 @@ http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
 
 # http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
-# EXTINF:-1 tvg-logo="https://i.imgur.com/O7GlaI4.png" group-title="SPORTS", NFL Network HD
-# http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14184
 
 #EXTINF: -1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5726
@@ -554,17 +545,6 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 # http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 
-#EXTINF:-1 group-title=“SPORTS”,TSN 1
-http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
-#EXTINF:-1group-title=“SPORTS” ,TSN 2
-http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1group-title=“SPORTS” ,TSN 3
-http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=“SPORTS”,TSN 4
-http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=“SPORTS”,TSN 5
-http://Richi@38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1,group-title=“SPORTS”,Sky Sports NFL
 http://93.152.174.144:4000/play/skysports3/index.m3u8
@@ -612,28 +592,7 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 # http://livepulse2.uk:8080/live/88888/99999/222633.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hCQ1fbG/Tpf.png" group-title="SPORTS", PREMIER FOOTBALL HD 1
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4t0NRM6/Tpf2.png" group-title="SPORTS", PREMIER FOOTBALL HD 2
-https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS" ,TS HD
-
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" ,TS2 HD
-
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS",TS3 HD
-
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS",TS4 HD
-
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 
 
 

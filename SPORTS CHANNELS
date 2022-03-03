@@ -108,9 +108,24 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5726
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 
+#EXTINF:-1,CA: TSN 1
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/92
+#EXTINF:-1,CA: TSN 3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/94
+#EXTINF:-1,CA: TSN 4 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/95
+#EXTINF:-1,CA: TSN 5
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/96
 
 
 
+
+#EXTINF:-1,CA: Sports net One HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2450
+#EXTINF:-1,CA: sports net 360 hd
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3057
+#EXTINF:-1,CA: Sports net West HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2449
 
 #EXTINF:-1,S*y Sports 1
 http://93.152.174.144:4000/play/ssports1/index.m3u8

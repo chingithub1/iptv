@@ -414,8 +414,8 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/121
 
 
 
-#EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
-https://wopep.com/02_nbahd_720p/chunklist.m3u8
+# EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
+# https://wopep.com/02_nbahd_720p/chunklist.m3u8
 
 
 # https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664168
@@ -426,6 +426,17 @@ https://wopep.com/02_nbahd_720p/chunklist.m3u8
 # http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
+
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
 http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/524?
@@ -496,6 +507,23 @@ rtmp://59.124.75.138/sat/md051
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
 
 
+#EXTINF:-1,CA: TSN 1
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/92
+#EXTINF:-1 group-title="SPORTS",CA: TSN 3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/94
+#EXTINF:-1 group-title="SPORTS",CA: TSN 4 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/95
+#EXTINF:-1 group-title="SPORTS",CA: TSN 5
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/96
+
+
+
+#EXTINF:-1 group-title="SPORTS",CA: Sports net One HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2450
+#EXTINF:-1 group-title="SPORTS",CA: sports net 360 hd
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3057
+#EXTINF:-1 group-title="SPORTS",CA: Sports net West HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2449
 
 
 

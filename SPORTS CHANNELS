@@ -15,19 +15,32 @@ http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1  group-title="SPORTS",BeinPremium 1 HD
-http://red.ipfox.org:8080/1234/12345678/31548
+# 1080p
+http://red.ipfox.org:8080/1234/12345678/31528
+
+
+# http://red.ipfox.org:8080/1234/12345678/31548
 
 # http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS",BeinPremium 2 HD
-http://red.ipfox.org:8080/1234/12345678/31547
+# 720p
+http://red.ipfox.org:8080/1234/12345678/31528
+
+
+# http://red.ipfox.org:8080/1234/12345678/31547
 
 
 
 #EXTINF:-1  group-title="SPORTS", Bein Premium 3 HD
-http://red.ipfox.org:8080/1234/12345678/31546
+# 720p
+http://red.ipfox.org:8080/1234/12345678/31527
+
+
+
+# http://red.ipfox.org:8080/1234/12345678/31546
 
 #EXTINF:-1 group-title="SPORTS", 纬来体育台
 rtmp://59.124.75.138/sat/tv721

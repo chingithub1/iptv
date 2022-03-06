@@ -414,7 +414,10 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/121
 
 
 
-# EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
+#EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
+http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
+
+
 # https://wopep.com/02_nbahd_720p/chunklist.m3u8
 
 
@@ -439,7 +442,7 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/524?
+http://red.ipfox.org:8080/1234/12345678/31548
 
 # http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
@@ -451,7 +454,7 @@ http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/524?
 
 
 #EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/526?
+http://red.ipfox.org:8080/1234/12345678/31547
 
 # http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 
@@ -471,7 +474,7 @@ http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/526?
 
 
 #EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
+http://red.ipfox.org:8080/1234/12345678/31546
 
 
 # http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8

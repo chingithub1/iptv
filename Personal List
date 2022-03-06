@@ -442,7 +442,10 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
-http://red.ipfox.org:8080/1234/12345678/31548
+# 1080p
+http://red.ipfox.org:8080/1234/12345678/31528
+
+# http://red.ipfox.org:8080/1234/12345678/31548
 
 # http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
@@ -454,7 +457,13 @@ http://red.ipfox.org:8080/1234/12345678/31548
 
 
 #EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
-http://red.ipfox.org:8080/1234/12345678/31547
+# 720p
+http://red.ipfox.org:8080/1234/12345678/31528
+
+# 1080p
+# http://red.ipfox.org:8080/1234/12345678/31498
+
+# http://red.ipfox.org:8080/1234/12345678/31547
 
 # http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 
@@ -474,6 +483,9 @@ http://red.ipfox.org:8080/1234/12345678/31547
 
 
 #EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
+# 720p
+http://red.ipfox.org:8080/1234/12345678/31527
+
 http://red.ipfox.org:8080/1234/12345678/31546
 
 

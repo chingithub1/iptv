@@ -209,8 +209,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 # http://srv.maxptv.net:8080/du08/du08/20309
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/129
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+# http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/129
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/121
@@ -245,7 +245,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
-http://red.ipfox.org:8080/1234/12345678/31548
+http://red.ipfox.org:8080/1234/12345678/31529
 
 # http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 

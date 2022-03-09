@@ -13,6 +13,10 @@
 http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
+# just found this on 03/08/2022
+http://168.232.168.242:8000/play/a00j/index.m3u8# http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+
 
 #EXTINF:-1  group-title="SPORTS",BeinPremium 1 HD
 # 1080p
@@ -111,7 +115,9 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/121
 
 
 #EXTINF:-1,ESPN HD
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/129
+http://168.232.168.242:8000/play/a06f/index.m3u8
+
+# http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/129
 
 
 #EXTINF:-1, NFL Network
@@ -194,6 +200,11 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 # *******************************************************************************
 
 # ****************************************************************************
+
+
+#EXTINF:-1,CONCERT CHANNEL
+http://168.232.168.242:8000/play/a00z/index.m3u8
+
 
 #EXTINF:-1,&PRIVE HD-Rs 19
 http://103.153.39.36:8000/play/a01d

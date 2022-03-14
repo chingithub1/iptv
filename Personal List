@@ -245,11 +245,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s69089q.png" group-title="China",CCTV-13 新闻
-http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
+
+# http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="China",CCTV 4
-http://121.51.224.180/tlivecloud-cdn.ysp.cctv.cn/212A510F789CBA873229B6513714E5BE9EA3596704F9F3A97658DB3AEAD852772D948308722C18F7C3E271C26A7C7E8A21DEE7C91B27B9C5284DC7A1C630A4A7BB060E09E8A1F9560716991BF9C86DAA9BE0DC661A4A7CD43A34995908602CB25A908A75C0389E7E68D3A5609A5F3663C2F6AAD97E052C16A3F85412E7A83D8EA08637C2295B86215C393D706D079F69/2000204803.m3u8?from=player&svrtime=1645988468&pid=600001814&cdn=5505
+http://39.135.138.60:18890/TVOD/88888910/224/3221225621/index.m3u8
+
 
 # http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 
@@ -258,10 +261,14 @@ http://121.51.224.180/tlivecloud-cdn.ysp.cctv.cn/212A510F789CBA873229B6513714E5B
 
 
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/12/31/1420004775654_68.jpg" group-title="China", CCTV-9 纪录
-http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+http://39.135.138.60:18890/TVOD/88888910/224/3221225626/index.m3u8
+
+# http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
-http://iptv.tvfix.org/hls/cctv1hd.m3u8
+http://39.135.138.60:18890/TVOD/88888910/224/3221225618/index.m3u8
+
+# http://iptv.tvfix.org/hls/cctv1hd.m3u8
 
 
 # http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_dtxvbqas_keyB2F9DD3404E9138F383AF2673E7AC546310B3FD6A90E27A343B0846B9D0C68C2D8192D63A2A9597F14D230C8A64E1A907BA3DE9A4DE6E651239652349B064AFE65150A53C7477AD90F2CEC6F72A5D32E49078E858DBF11D104F94132594602F8103BA3B4052786ACC672EA6C46736BD1_/live/cctv1hd/4000000/d1.m3u8
@@ -277,9 +284,7 @@ http://iptv.tvfix.org/hls/cctv1hd.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China",CCTV-2高清 财经
-http://iptv.tvfix.org/hls/cctv2hd.m3u8
-
-#  http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 
 # http://iptv.tvfix.org/hls/cctv2hd.m3u8
 
@@ -547,11 +552,12 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2449
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
 
+# http://39.135.138.60:18890/TVOD/88888910/224/3221225649/index.m3u8
 # http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 
-
+# http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 # http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8
 
 # rtmp://58.200.131.2:1935/livetv/cctv5hd
@@ -746,8 +752,8 @@ http://iptv.tvfix.org/hls/tyjd.m3u8
 
 
 
-# EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="Movies", HBO Signature (Sub Manual)
-# https://m3u-editor.com/serve/hbo1212/427774604.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="Movies", HBO Signature 
+http://45.189.117.33:9595/play/a03w
 
 
 #EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="Movies", HBO Hits 

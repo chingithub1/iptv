@@ -266,7 +266,7 @@ http://red.ipfox.org:8080/1234/12345678/31527
 
 # http://red.ipfox.org:8080/1234/12345678/31546
 
-#EXTINF:-1 group-title="SPORT", 纬来体育台
+#EXTINF:-1 group-title="SPORT", 纬来体育台 (Sport)
 rtmp://59.124.75.138/sat/tv721
 
 # rtmp://59.124.75.156/sat/tv721
@@ -274,14 +274,14 @@ rtmp://59.124.75.138/sat/tv721
 # http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch28.m3u8?token=
 
 
-#EXTINF:-1 group-title="SPORT", 爱尔达体育1
+#EXTINF:-1 group-title="SPORT", 爱尔达体育1 ELTA Sport !
 rtmp://59.124.75.138/sat/md011
 
 # rtmp://59.124.75.157/sat/md011
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
 
 
-#EXTINF:-1 group-title="SPORT", 爱尔达体育2
+#EXTINF:-1 group-title="SPORT", 爱尔达体育2  ELTA Sport 2
 rtmp://59.124.75.138/sat/md051
 
 

@@ -68,7 +68,10 @@ http://iptv.tvfix.org/hls/jade2.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-http://iptv.tvfix.org/hls/j2.m3u8
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+
+# http://iptv.tvfix.org/hls/j2.m3u8
 
 
 # http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
@@ -118,10 +121,12 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-http://iptv.tvfix.org/hls/rthk31.m3u8
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+
+# http://iptv.tvfix.org/hls/rthk31.m3u8
 
 
-# https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+# 
 
 
 # http://livetv.dnsfor.me/channel.1.m3u8
@@ -516,37 +521,28 @@ rtmp://59.124.75.138/sat/tv721
 # http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch28.m3u8?token=
 
 
-#EXTINF:-1 group-title="SPORT", 爱尔达体育1
+#EXTINF:-1 group-title="SPORT", 爱尔达体育1 ELTA SPORT 1
 rtmp://59.124.75.138/sat/md011
 
 # rtmp://59.124.75.157/sat/md011
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
 
 
-#EXTINF:-1 group-title="SPORT", 爱尔达体育2
+#EXTINF:-1 group-title="SPORT", 爱尔达体育2 ELTA SPORT 2
 rtmp://59.124.75.138/sat/md051
 
 # rtmp://59.124.75.157/sat/md051
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
 
 
-#EXTINF:-1,CA: TSN 1
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/92
-#EXTINF:-1 group-title="SPORTS",CA: TSN 3
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/94
-#EXTINF:-1 group-title="SPORTS",CA: TSN 4 HD
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/95
-#EXTINF:-1 group-title="SPORTS",CA: TSN 5
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/96
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORT",ELEVEN SPORT 1
 
+rtmp://59.124.75.157/sat/tv731
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="SPORTS",ELEVEN SPORT 2
 
-#EXTINF:-1 group-title="SPORTS",CA: Sports net One HD
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2450
-#EXTINF:-1 group-title="SPORTS",CA: sports net 360 hd
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3057
-#EXTINF:-1 group-title="SPORTS",CA: Sports net West HD
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2449
+rtmp://59.124.75.157/sat/tv741
+
 
 
 

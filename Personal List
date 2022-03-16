@@ -40,9 +40,11 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
 
 #EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+http://z4.ubtvfans.com/live/390/f2814e81699e53cff473afced6a3d80e/index.m3u8
+
 # http://iptv.tvfix.org/hls/jade.m3u8
 
-http://iptv.tvfix.org/hls/jade2.m3u8
+# http://iptv.tvfix.org/hls/jade2.m3u8
 
 
 

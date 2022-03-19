@@ -280,7 +280,23 @@ http://red.ipfox.org:8080/1234/12345678/31527
 
 # http://red.ipfox.org:8080/1234/12345678/31546
 
-#EXTINF:-1 group-title="SPORT", 纬来体育台 (Sport)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
+http://ky-iptv.com/nicholas/123456789/1400762.ts
+
+# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 2
+http://ky-iptv.com/nicholas/123456789/1248327.ts
+
+# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 3
+http://ky-iptv.com/nicholas/123456789/1400763.ts
+
+# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+
+
+#EXTINF:-1 group-title="SPORTS", 纬来体育台 (Sport)
 rtmp://59.124.75.138/sat/tv721
 
 # rtmp://59.124.75.156/sat/tv721
@@ -288,16 +304,20 @@ rtmp://59.124.75.138/sat/tv721
 # http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch28.m3u8?token=
 
 
-#EXTINF:-1 group-title="SPORT", 爱尔达体育1 ELTA Sport !
+#EXTINF:-1 group-title="SPORTS", 爱尔达体育1 ELTA Sport !
 rtmp://59.124.75.138/sat/md011
 
 # rtmp://59.124.75.157/sat/md011
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
 
 
-#EXTINF:-1 group-title="SPORT", 爱尔达体育2  ELTA Sport 2
+#EXTINF:-1 group-title="SPORTS", 爱尔达体育2  ELTA Sport 2
 rtmp://59.124.75.138/sat/md051
 
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="SPORTS", Taiwan ELEVEN SPORT 2
+
+rtmp://59.124.75.157/sat/tv741
 
 
 

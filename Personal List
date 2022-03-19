@@ -452,26 +452,22 @@ http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
-http://ky-iptv.com/nicholas/123456789/1400762.ts
-
-# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 2
-http://ky-iptv.com/nicholas/123456789/1248327.ts
-
-# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 3
-http://ky-iptv.com/nicholas/123456789/1400763.ts
-
-# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
 # 1080p
-http://red.ipfox.org:8080/1234/12345678/31529
+http://red.ipfox.org:8080/1234/12345678/31548
 
-# http://red.ipfox.org:8080/1234/12345678/31548
+# http://red.ipfox.org:8080/1234/12345678/31529
+
+# 
 
 # http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 

@@ -84,19 +84,13 @@ http://live.flixhub.net/hls/starsports2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
-http://ky-iptv.com/nicholas/123456789/1400762.ts
-
-# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 2
-http://ky-iptv.com/nicholas/123456789/1248327.ts
-
-# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 3
-http://ky-iptv.com/nicholas/123456789/1400763.ts
-
-# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
 
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="Sports",BEIN SPORTS 1
@@ -153,21 +147,7 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5726
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports",Astro SUPER SPORT
-http://ky-iptv.com:80/nicholas/123456789/1400565.m3u8
 
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports",Astro SUPER SPORT 2
-http://ky-iptv.com:80/nicholas/123456789/1400559.m3u8
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports",Astro SUPER SPORT 3
-http://ky-iptv.com:80/nicholas/123456789/1400561.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports",Astro SUPER SPORT 4
-http://ky-iptv.com:80/nicholas/123456789/1391038.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports",Astro SUPER SPORT 5
@@ -198,30 +178,6 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 
  
-# EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA TV
-# https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664167
-
-
-# EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 1
-# https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664168
-
-
-# EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 2
-# https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664169
-
-
-# EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 3
-# https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664170
-
-
-# EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 4
-# https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664171
-
-
-# EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA", NBA 5
-# https://m3u-editor.com/serve/1473fd60-6793-11ec-b2fa-4b92a6d88866/460664172
-
-
 
 
 # *******************************************************************************

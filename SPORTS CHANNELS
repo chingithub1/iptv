@@ -18,30 +18,26 @@ http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 http://168.232.168.242:8000/play/a00j/index.m3u8# http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 
 
-#EXTINF:-1  group-title="SPORTS",BeinPremium 1 HD
-# 1080p
-http://red.ipfox.org:8080/1234/12345678/31529
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
+# http://red.ipfox.org:8080/1234/12345678/31529
 
-# http://red.ipfox.org:8080/1234/12345678/31548
-
-# http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS",BeinPremium 2 HD
+#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
 # 720p
-http://red.ipfox.org:8080/1234/12345678/31528
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
+# http://red.ipfox.org:8080/1234/12345678/31528
 
 # http://red.ipfox.org:8080/1234/12345678/31547
 
 
 
-#EXTINF:-1  group-title="SPORTS", Bein Premium 3 HD
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
 # 720p
-http://red.ipfox.org:8080/1234/12345678/31527
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
+# http://red.ipfox.org:8080/1234/12345678/31527
 
 
 # http://red.ipfox.org:8080/1234/12345678/31546

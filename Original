@@ -156,7 +156,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 # https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 

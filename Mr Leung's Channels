@@ -15,8 +15,8 @@ http://livetv.dnsfor.me/channel.10.m3u8
 http://livetv.dnsfor.me/channel.11.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
+# http://iptv.tvfix.org/hls/jadenhk.m3u8
 
 
 # http://iptv.tvfix.org/hls/jadenhk2.m3u8
@@ -24,10 +24,12 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 # http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
-http://iptv.tvfix.org/hls/jade.m3u8
+http://iptv.tvfix.org/hls/jade2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-http://iptv.tvfix.org/hls/j2.m3u8
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+# http://iptv.tvfix.org/hls/j2.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
@@ -42,10 +44,12 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
 #EXTINF:- 1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港" , 香港 Viu 
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+http://iptv.tvfix.org/hls/viutv.m3u8
+
+# http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
+http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 
 
 

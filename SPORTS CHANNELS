@@ -66,16 +66,16 @@ rtmp://59.124.75.138/sat/md051
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77tjWBgqFoOVSpwEXqxP2m9UzqlIfHbEakg&usqp=CAU" group-title="SPORTS",  Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports Select 1 HD
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77tjWBgqFoOVSpwEXqxP2m9UzqlIfHbEakg&usqp=CAU" group-title="SPORTS",  Star Sports Select 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports Select 2 HD
 http://live.flixhub.net/hls/select2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77tjWBgqFoOVSpwEXqxP2m9UzqlIfHbEakg&usqp=CAU" group-title="SPORTS",  Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports 1 HD
 http://live.flixhub.net/hls/stersports1hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77tjWBgqFoOVSpwEXqxP2m9UzqlIfHbEakg&usqp=CAU" group-title="SPORTS",  Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports 2 HD
 http://live.flixhub.net/hls/starsports2.m3u8
 
 

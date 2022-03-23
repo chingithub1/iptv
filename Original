@@ -19,8 +19,8 @@ http://iptv.tvfix.org/hls/inews.m3u8
 http://livetv.dnsfor.me/channel.11.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
+# http://iptv.tvfix.org/hls/jadenhk.m3u8
 
 
 # http://iptv.tvfix.org/hls/jadenhk2.m3u8
@@ -49,12 +49,12 @@ http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 # http://iptv.tvfix.org/hls/j2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
-http://iptv.tvfix.org/hls/tvbws.m3u8
+# EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
+# http://iptv.tvfix.org/hls/tvbws.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
-http://iptv.tvfix.org/hls/tvbxh.m3u8
+# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+# http://iptv.tvfix.org/hls/tvbxh.m3u8
 
 
 # http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -96,8 +96,8 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
-# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-# http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 
 #  https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 

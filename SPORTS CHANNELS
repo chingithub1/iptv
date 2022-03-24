@@ -126,8 +126,10 @@ http://red.ipfox.org:8080/1234/12345678/31549
 
 
 #EXTINF:-1,ESPN2 HD
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/121
+http://168.232.168.242:8000/play/a06h/index.m3u8
 
+#EXTINF:-1,ESPN3 HD
+http://168.232.168.242:8000/play/a06g/index.m3u8
 
 
 #EXTINF:-1,ESPN HD

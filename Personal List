@@ -390,7 +390,7 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/129
+http://168.232.168.242:8000/play/a06f/index.m3u8
 
 # http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 

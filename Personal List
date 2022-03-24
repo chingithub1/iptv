@@ -125,7 +125,12 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+http://livetv.dnsfor.me/channel.1.m3u8
+
+
+# http://livetv.dnsfor.me:80/channel.1.m3u8
+
+# https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 # http://iptv.tvfix.org/hls/rthk31.m3u8
 
@@ -345,7 +350,9 @@ http://iptv.tvfix.org/hls/fhzw.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="Hong Kong 香港",rthk32
-http://iptv.tvfix.org/hls/rthk32.m3u8
+http://livetv.dnsfor.me/channel.2.m3u8
+
+# http://iptv.tvfix.org/hls/rthk32.m3u8
 
 # http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 
@@ -652,6 +659,12 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 
 # http://livepulse2.uk:8080/live/88888/99999/222633.ts
+
+
+#EXTINF:-1 tvg-logo="https://rb.gy/8cpcyd" group-title="SPORTS"  Now SPORT Prime
+http://livetv.dnsfor.me/channel.12.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports Select 1 HD

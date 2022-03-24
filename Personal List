@@ -666,7 +666,7 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 # http://livepulse2.uk:8080/live/88888/99999/222633.ts
 
 
-#EXTINF:-1 tvg-logo="https://rb.gy/8cpcyd" group-title="SPORTS"  Now SPORT Prime
+#EXTINF:-1 tvg-logo="https://rb.gy/8cpcyd" group-title="SPORTS",  Now SPORT Prime
 http://livetv.dnsfor.me/channel.12.m3u8
 
 

@@ -125,7 +125,9 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-http://livetv.dnsfor.me:80/channel.1.m3u8
+http://50.7.218.42:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094
+
+# http://livetv.dnsfor.me:80/channel.1.m3u8
 
 
 # http://livetv.dnsfor.me/channel.1.m3u8
@@ -229,10 +231,9 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-# http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
+# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="24/7 WORLD NEWS",Deutsche Welle 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8

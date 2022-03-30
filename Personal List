@@ -173,7 +173,9 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+
+# http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 
 
 # http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8

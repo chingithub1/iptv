@@ -761,9 +761,9 @@ rtmp://59.124.75.157/sat/md031
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",HBO
 # https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+http://181.78.22.214:8000/play/a01h
 
-
-http://168.232.168.242:8000/play/a010/index.m3u8
+# http://168.232.168.242:8000/play/a010/index.m3u8
 
 # EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2hRSX4/hbo-logo.jpg" group-title=“Movies”,HBO 
 # http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8

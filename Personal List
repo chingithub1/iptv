@@ -915,6 +915,25 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFLg0FP.png" group-title="ANOBYZ Movies",MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="ANOBYZ Movies",MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Movies" tvg-logo="https://www.mesimvria.com/wp-content/uploads/logo-MoviesBestHDx2-1.png",Movies Group 1
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Movies" tvg-logo="https://www.mesimvria.com/wp-content/uploads/logo-MoviesBestHDx2-1.png",Movies Group 2
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+
+#EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Movies" tvg-logo="https://www.mesimvria.com/wp-content/uploads/logo-MoviesBestHDx2-1.png",Movies Group 3
+http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
+
+#EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Movies" tvg-logo="https://www.mesimvria.com/wp-content/uploads/logo-MoviesBestHDx2-1.png",Movies Group 4
+#http://tx2play1.douyucdn.cn/live/562225rV4UNAU64f_4000p.xs?uuid=
+https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
+
 
 #EXTINF:-1 group-title="Movies",iptvtools_101
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8

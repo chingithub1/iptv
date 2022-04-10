@@ -237,10 +237,51 @@ http://iptv.tvmalaysia.cc:80/989651/989651/9029
 # *******************************************************************************
 
 # ****************************************************************************
-
-
-#EXTINF:-1,CONCERT CHANNEL
-http://168.232.168.242:8000/play/a00z/index.m3u8
-
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Canal+ Premier League FHD
+http://new-pro.tv:8080/Fernando/123321/293155?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY PREMIER LEAGUE
+http://luxtv.one:8080/kadiri/123456/409?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Spt-VIP: UK: Sky Sports Premier League HD
+http://new-pro.tv:8080/Fernando/123321/116095?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Spt-VIP: Af: Super Sports Premier League
+http://new-pro.tv:8080/Fernando/123321/117926?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier League HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports HD
+http://new-pro.tv:8080/Fernando/123321/294997?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Network
+http://new-pro.tv:8080/Fernando/123321/70554?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Network HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/335.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US NBC Sports Network (F)
+http://fortv.cc:8080/alphonso/alphonso/46725?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US NBC Sports Network (FHD) (A)
+http://fortv.cc:8080/alphonso/alphonso/20926?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA NBC Sport Network
+http://gtv23.xyz:80/rererere/rererere/222492.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BeIN Sports English 1 4K
+http://new-pro.tv:8080/Fernando/123321/66119?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BeIN Sports English 1 SD
+http://new-pro.tv:8080/Fernando/123321/65951?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BeIN Sports English 2 4K
+http://new-pro.tv:8080/Fernando/123321/66120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BeIN Sports English 2 SD
+http://new-pro.tv:8080/Fernando/123321/65947?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BeIN Sports English 3 4K
+http://new-pro.tv:8080/Fernando/123321/66123?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BeIN Sports English 3 SD
+http://new-pro.tv:8080/Fernando/123321/65948?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Bein Sports English 1 FHD
+http://new-pro.tv:8080/Fernando/123321/33690?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Bein Sports English 1 HD
+http://new-pro.tv:8080/Fernando/123321/219142?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Bein Sports English 2 FHD
+http://new-pro.tv:8080/Fernando/123321/33694?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Bein Sports English 2 HD
+http://new-pro.tv:8080/Fernando/123321/219143?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Bein Sports English 3 FHD
+http://new-pro.tv:8080/Fernando/123321/33693?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Bein Sports English 3 HD
+http://new-pro.tv:8080/Fernando/123321/219144?checkedby:iptvcat.com
 
 

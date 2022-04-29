@@ -233,7 +233,8 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
 
 # http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
@@ -367,7 +368,9 @@ http://livetv.dnsfor.me/channel.2.m3u8
 # http://livetv.dnsfor.me/channel.2.m3u8
 
 #EXTINF:-1,BBC CONCERT CHANNEL
-http://168.232.168.242:8000/play/a00z/index.m3u8
+http://190.83.2.51:8000/play/a00z/index.m3u8
+
+# http://168.232.168.242:8000/play/a00z/index.m3u8
 
 
 
@@ -483,7 +486,8 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
 # 1080p
-http://red.ipfox.org:8080/1234/12345678/31548
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
+# http://red.ipfox.org:8080/1234/12345678/31548
 
 # http://red.ipfox.org:8080/1234/12345678/31529
 
@@ -500,7 +504,9 @@ http://red.ipfox.org:8080/1234/12345678/31548
 
 #EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
 # 720p
-http://red.ipfox.org:8080/1234/12345678/31528
+http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9150
+
+# http://red.ipfox.org:8080/1234/12345678/31528
 
 # 1080p
 # http://red.ipfox.org:8080/1234/12345678/31498
@@ -739,24 +745,11 @@ rtmp://59.124.75.157/sat/md031
 #   Movie Channels
 
 
-# EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg" group-title=“Movies”, &Flix HD
-# https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,HBO2 HD
 
+http://190.83.2.51:8000/play/a011/index.m3u8
 
-# EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180816/iyh/kisspng-fx-movie-channel-logo-film-fox-movies-5b75c13334cf59.8544058815344438272163.jpg" group-title=“Movies”,Fox Action Movies(mly)
-# https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6Mjc6MjkgQU0maGFzaF92YWx1ZT1hYkFzNkNvZ3dGbi96MGdGRjQ1MHNnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI3JmlkPWNoXzY1MDQ1
-
-
-# http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-
-
-
-
-# EXTINF:-1 tv-logo=“https://static.wikia.nocookie.net/dreamlogos/images/e/e3/Fox_Moxie_Channel.png/revision/latest?cb=20190320081018” group-title=“Movies”,FoxMovies
-# http://185.236.229.21:9981/play/a039
-
-#  http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",HBO
@@ -775,69 +768,11 @@ http://181.78.22.214:8000/play/a01h
 # http://ott3.gearhostpreview.com/astro/live.php?id=41
 
 #EXTINF:-1 group-title="Movies", CINEMAX
-http://168.232.168.242:8000/play/a053/index.m3u8
+http://190.83.2.51:8000/play/a053/index.m3u8
 
-#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="Movies",美亚电影台(粤语)
+#EXTINF:-1 group-title="Movies", CINEMAX-1
+http://190.83.2.51:8000/play/a011/index.m3u8
 
-http://iptv.tvfix.org/hls/mydy.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Movies",天映经典(粤语)
-
-http://iptv.tvfix.org/hls/tyjd.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://bit.ly/3tDoi5K" group-title="Movies", HBO Signature 
-http://45.189.117.33:9595/play/a03w
-
-
-#EXTINF: -1 tvg-logo="https://bit.ly/2QxwNAt" group-title="Movies", HBO Hits 
-https://lnk.ec/hboHitsID?shareext.ts
-
-
-
-
-
-# EXTINF: -1 tvg-logo="https://bit.ly/3qh3Kij" group-title="Movies", Warner TV
-# http://139.99.71.104:8888/live/blink12/4tWiWZ6gJM/1533.ts
-
-
-# EXTINF: -1 tvg-logo="https://bit.ly/3gOMXii" group-title="Movies", Thrill
-# http://139.99.71.104:8888/live/blink14/G5IK8gQNOZ/4.ts
-
-
-
-
-
-
-# EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png” group-title=“Movies”,HBO Signature
-# https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6MzU6MzcgQU0maGFzaF92YWx1ZT11RnZYQVE2RVJnbnUvUUhFSXQ3TXB3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI5JmlkPWNoXzUxNTUw
-
-# http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
-
-# http://ott3.gearhostpreview.com/astro/live.php?id=43
-
-# EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png” group-title=“Movies”,HBO Hits
-# https://mediasv.online/tvchannel_x1/hd-hbo-hit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6MzU6MDggQU0maGFzaF92YWx1ZT10a28wOHJzVGdGejNVRkxhdmNQd2Z3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIzJmlkPWNoXzEwNDg4
-
-# http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-
-# http://ott3.gearhostpreview.com/astro/live.php?id=42
-
-
-
-# EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312012641redbyhbo-hd.png" group-title=“Movies”, RED BY HBO
-# https://mediasv.online/tvchannel_x2/hd-redbyhbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjQwOjI0IEFNJmhhc2hfdmFsdWU9eXh2bE1ZbEo1M1VLVWxjREQ4MGxidz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNCZpZD1jaF80ODE0NQ==
-
-# EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/cinemax-hd.png" group-title=“Movies”,CINEMAX
-# https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjM3OjUxIEFNJmhhc2hfdmFsdWU9RHdsSittNmYxaDVTcFZRTWNseG1kdz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNCZpZD1jaF80NDA2OA==
-
-
-
-
-#EXTINF:-1 tvg-logo=”https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg” group-title="Movies",香港電影3
-http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 
 
 

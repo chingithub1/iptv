@@ -374,6 +374,10 @@ http://livetv.dnsfor.me/channel.2.m3u8
 
 # http://livetv.dnsfor.me/channel.2.m3u8
 
+
+#EXTINF:-1,UK: BBC 1 HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/185
+
 #EXTINF:-1,BBC CONCERT CHANNEL
 http://190.83.2.51:8000/play/a00z/index.m3u8
 

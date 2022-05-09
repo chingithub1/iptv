@@ -102,7 +102,9 @@ http://iptv.tvfix.org/hls/tvbkf.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="Hong Kong 香港",無綫明珠台(TVB Pearl)
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+
+# http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 # https://cdn.hkdtmb.com/hls/84/index.m3u8
 
@@ -110,7 +112,9 @@ http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
-http://iptv.tvfix.org/hls/viutv.m3u8
+http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
+
+# http://iptv.tvfix.org/hls/viutv.m3u8
 
 
 # http://185.207.176.189:8080/channels/tv-99/playlist.m3u8

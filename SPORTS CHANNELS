@@ -7,7 +7,25 @@
 # https://bit.ly/3oYNjsB
 
 #EXTM3U
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/26
+#EXTINF:-1,UK: Sky Sports Mix
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5496
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/2459
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/18
+#EXTINF:-1,UK: Sky Sport Football HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/10164
 
+#EXTINF:-1,UK: BT Sport 1 HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/6
+#EXTINF:-1,UK: BT Sport 3 HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5547
+#EXTINF:-1,UK: BT Sport ESPN
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgQLxhS/nba.png" group-title="SPORTS",NBA TV
 http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8

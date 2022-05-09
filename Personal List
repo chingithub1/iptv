@@ -758,8 +758,50 @@ rtmp://59.124.75.157/sat/md031
 # ============================================
 
 #   Movie Channels
+#EXTINF:-1,UK: Sky Movies Premiere
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/56
 
 
+#EXTINF:-1,UK: Sky Movies Select HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/424
+#EXTINF:-1,UK: Sky Movies Showcase
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/55
+#EXTINF:-1,UK: Sky Movies Thriller
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/54
+
+#EXTINF:-1,UK: Sky Arts
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/429
+#EXTINF:-1,UK: SKY Atlantic HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/428
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7300
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7297
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7298
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7294
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7299
+#EXTINF:-1,UK: Sky Cinema Hits
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/8867
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7296
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7292
+#EXTINF:-1,UK: Sky Movie Sci-Fi
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/62
+#EXTINF:-1,UK: Sky Movies Action
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/61
+#EXTINF:-1,UK: Sky Movies Comedy
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/60
+#EXTINF:-1,UK: Sky Movies Disney
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/59
+#EXTINF:-1,UK: Sky Movies Family
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/58
+#EXTINF:-1,UK: Sky Movies Greats
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/57
+#EXTINF:-1,UK: Sky Movies Modern
 
 #EXTINF:-1,HBO2 HD
 

@@ -443,7 +443,9 @@ http://168.232.168.242:8000/play/a06f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://168.232.168.242:8000/play/a06h/index.m3u8
+rtmp://59.124.75.150/sat/us021
+
+# http://168.232.168.242:8000/play/a06h/index.m3u8
 
 # http://208.79.153.123/teleup-espn2-new1/tracks-v1a1/mono.m3u8
 
@@ -455,6 +457,8 @@ http://168.232.168.242:8000/play/a06h/index.m3u8
 # http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="SPORTS", TNT
+rtmp://59.124.75.150/sat/us071
 
 
 #EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
@@ -549,7 +553,10 @@ http://red.ipfox.org:8080/1234/12345678/31546
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5726
 
 #EXTINF:-1 group-title="SPORT", 纬来体育台
-rtmp://59.124.75.138/sat/tv721
+rtmp://59.124.75.150/sat/tv721
+
+
+# rtmp://59.124.75.138/sat/tv721
 
 # rtmp://59.124.75.156/sat/tv721
 # rtmp://59.124.75.157/sat/tv721
@@ -557,7 +564,9 @@ rtmp://59.124.75.138/sat/tv721
 
 
 #EXTINF:-1 group-title="SPORT", 爱尔达体育1 ELTA SPORT 1
-rtmp://59.124.75.138/sat/md011
+rtmp://59.124.75.150/sat/md011
+
+# rtmp://59.124.75.138/sat/md011
 
 # rtmp://59.124.75.157/sat/md011
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
@@ -575,8 +584,10 @@ rtmp://59.124.75.138/sat/md051
 rtmp://59.124.75.157/sat/tv731
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="SPORTS",ELEVEN SPORT 2
+rtmp://59.124.75.150/sat/tv741
 
-rtmp://59.124.75.157/sat/tv741
+
+# rtmp://59.124.75.157/sat/tv741
 
 
 

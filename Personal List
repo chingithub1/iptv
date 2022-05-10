@@ -203,8 +203,7 @@ http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 
 
-#EXTINF:-1,UK: CNBC Europe
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5769
+
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -453,8 +452,8 @@ http://168.232.168.242:8000/play/a06f/index.m3u8
 # http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-rtmp://59.124.75.150/sat/us021
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+# rtmp://59.124.75.150/sat/us021
 
 # http://168.232.168.242:8000/play/a06h/index.m3u8
 
@@ -468,8 +467,8 @@ rtmp://59.124.75.150/sat/us021
 # http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS", TNT
-rtmp://59.124.75.150/sat/us071
+# EXTINF:-1 group-title="SPORTS", TNT
+# rtmp://59.124.75.150/sat/us071
 
 
 #EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV

@@ -7,7 +7,9 @@
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
-http://iptv.tvfix.org/hls/inews.m3u8
+http://livetv.dnsfor.me/channel.10.m3u8
+
+# http://iptv.tvfix.org/hls/inews.m3u8
 
 # http://livetv.dnsfor.me/channel.10.m3u8
 

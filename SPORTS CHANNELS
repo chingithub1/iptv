@@ -9,8 +9,7 @@
 #EXTM3U
 #EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
 http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/26
-#EXTINF:-1,UK: Sky Sports Mix
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5496
+
 #EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
 http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/2459
 #EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
@@ -27,106 +26,10 @@ http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5547
 #EXTINF:-1,UK: BT Sport ESPN
 http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgQLxhS/nba.png" group-title="SPORTS",NBA TV
-http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ESPN +
-
-http://190.83.2.51:8000/play/a027/index.m3u8
-
-#EXTINF:-1,ESPN HD
-
-http://190.83.2.51:8000/play/a06h/index.m3u8
-
-#EXTINF:-1,ESPN 2 HD
-
-http://190.83.2.51:8000/play/a06f/index.m3u8
-
-#EXTINF:-1,ESPN 3 HD
-
-http://190.83.2.51:8000/play/a06g/index.m3u8
-
-#EXTINF:-1,ESPN2
-
-http://190.83.2.51:8000/play/a09p/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
-# just found this on 03/08/2022
-http://168.232.168.242:8000/play/a00j/index.m3u8# http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-
-# http://red.ipfox.org:8080/1234/12345678/31529
-
-#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
-# 720p
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-
-# http://red.ipfox.org:8080/1234/12345678/31528
-
-# http://red.ipfox.org:8080/1234/12345678/31547
-
-
-
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
-# 720p
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-# http://red.ipfox.org:8080/1234/12345678/31527
-
-
-# http://red.ipfox.org:8080/1234/12345678/31546
-
-
-
-#EXTINF:-1 group-title="SPORTS", 纬来体育台
-rtmp://59.124.75.138/sat/tv721
-
-# rtmp://59.124.75.156/sat/tv721
-# rtmp://59.124.75.157/sat/tv721
-# http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch28.m3u8?token=
-
-
-#EXTINF:-1 group-title="SPORTS", 爱尔达体育1
-rtmp://59.124.75.138/sat/md011
-
-# rtmp://59.124.75.157/sat/md011
-# rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
-
-
-#EXTINF:-1 group-title="SPORTS", 爱尔达体育2
-rtmp://59.124.75.138/sat/md051
-
-# rtmp://59.124.75.157/sat/md051
-# rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports Select 1 HD
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports Select 2 HD
-http://live.flixhub.net/hls/select2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports 1 HD
-http://live.flixhub.net/hls/stersports1hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports 2 HD
-http://live.flixhub.net/hls/starsports2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORTS",Astro Supersport1
-http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59220.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORTS",Astro Supersport2
-http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59219.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORTS",Astro Supersport 3
-http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59218.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SPORTS",Astro Supersport 4
-http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="SPORTS",Bein Sport 1
@@ -136,126 +39,13 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="SPORTS",Bein sport 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="Sports",BEIN SPORTS 1
-http://red.ipfox.org:8080/1234/12345678/31555
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 4K" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="Sports",BEIN SPORTS 2
-http://red.ipfox.org:8080/1234/12345678/31554
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 4K" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="Sports",BEIN SPORTS 3
-http://red.ipfox.org:8080/1234/12345678/31553
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beinsports4kar.qa" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="Sports",BEIN SPORTS 4
-http://red.ipfox.org:8080/1234/12345678/31552
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="Sports",BEIN SPORTS 5
-http://red.ipfox.org:8080/1234/12345678/31551
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="BEIN SPORTS 6 4K" tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="Sports",BEIN SPORTS 6
-http://red.ipfox.org:8080/1234/12345678/31550
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="BEIN SPORTS 7 4K" tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="Sports",BEIN SPORTS 7
-http://red.ipfox.org:8080/1234/12345678/31549
-
-
-
-
-#EXTINF:-1,ESPN2 HD
-http://168.232.168.242:8000/play/a06h/index.m3u8
-
-#EXTINF:-1,ESPN3 HD
-http://168.232.168.242:8000/play/a06g/index.m3u8
-
-
-#EXTINF:-1,ESPN HD
-http://168.232.168.242:8000/play/a06f/index.m3u8
-
-# http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/129
-
-
-#EXTINF:-1, NFL Network
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5726
-
-#EXTINF:-1group-title="Sport",BT Sport ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports",Astro SUPER SPORT 5
-http://iptv.tvmalaysia.cc:80/114048/114048/9029
-
-#EXTINF:-1,S*y Sports 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
 
 
-#EXTINF:-1,S*y Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-
-
-#EXTINF:-1,S*y Sports 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-
-
-
-#EXTINF:-1 ,BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-
-#EXTINF:-1 ,BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1 ,BT SPORT ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-sJQajpdMwomWFzT3gJ-Dndr_T7nnebmP8YGhnc_vl4qyeE4xw7OiXx88vGTsJWcn6oVtk6VNCKrUnhb5hRjbDTTZnKJDsr9je3Jn28XpQPA09BiptQ8TKnC89iMe6nI2IqGFgPK1WTkTmeCrar4_8_40tl4rc_QvxLYUvlAz52qwRPF6rAeOVzQfkw/s320/p1.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 1 Premium FHD
-http://154.53.60.93:25461/BEIN/SPORT/2
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBHMSWTrnvx7fyLXHftQCbXOIgUhZlIGpgRPwy0rtvz70tJ6rKBIKGTYY5rKdPg_c_JniRIhqB5wOZSPmYRZ3wYRSLEv6oh_l_gpA64uxYBOZvDdMZ0OQrdyi6dMmuayEMutIb93Q0MMiXMm9jMy1pDKINi4J8y9PzIDw8Pju7FnoDm5IHLMoT_E86jg/s320/p2.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 2 Premium FHD
-http://154.53.60.93:25461/BEIN/SPORT/3
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLlqObVFm75lhQH_HGrWKrIdshyaYs1CAOTAANBmBIV7bYjshY2zzfpO7kHVxlaMICzPvTHW6Y67EiJwvA4gNa9hIaP_VRrCLtqRVXBUcapGaDlyFQUDsBPP2uMDqS5mihmkARm9c_UcUJCxD4IffiAbNFg2zmlFbvxXSP8ggRfv-8uzaslP0mZgH80w/s320/p3.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 3 Premium FHD
-http://154.53.60.93:25461/BEIN/SPORT/4
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj_O_q2HjbuYl1bvalBjzvjmXHEZPOGKztdTrVWn3vAmL0HGP8rJKM4pEoixjwNERmr_o4m3Mj4V45CUX56b_z0SV2plRr6wppeDBZrMkU-cr-EtmDmscFI9OVC9-3YT9mEkFmWX0Y0VRcP1IHzPzQcOZgm0v00x_Dy6zcKLDTE6NbAEwxvv7G-_7EGw/s320/1.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 1 FHD
-http://154.53.60.93:25461/BEIN/SPORT/5
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeaBKlniawWO8RSivWtGW3T8QIS01_w8whmlSlyY7uUyIe5JKdM66HJz3oR8Sa7IjtUsKB8lZ0OkSgIOhXTWNs-z93vvejcDkwNQCrh-ehi2lQCCOoYbUsycn727lk7T61NjiwuDJZzxt3NeE0ePX8EvVPwwGx7qJYlITRdDwuwFVOU8TXO4eFoWPwEg/s320/2.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 2 FHD
-http://154.53.60.93:25461/BEIN/SPORT/6
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3N67ORtRsLL0sfhxCKZSaxlYkYWZU80V1aCsLP-xgjiwFbXGDO5ljiypzkIx_-CVmhDtdR89P9bokzd_aGovaMhu49g8cVxlUktz3CsRWrYiLxVvmQjZe6zxXQeiTkwf2-iExK9JN1Hy-RHk7G2gI0XmsXL-TNwYqflGORznxVMRDCbgdYltk-qWLw/s320/3.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 3 FHD
-http://154.53.60.93:25461/BEIN/SPORT/7
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1I809h437T_vVEWbQ3MqewsAdm9pQLI-LO4nnHSaTJulJ1kYITT-ifoYGMBvxe58KPDrRYOEOWe17wszGA3ogLFbhbqxpDhp6ZhtRAPpeMQBR2nME_jQZf4_hT8dAaDEnvcj8mQFUMz4aS_2xlpLDPto4TOC1lLmQ0QfUw-XVWnmLSmATtk2g-12ag/s320/4.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 4 FHD
-http://154.53.60.93:25461/BEIN/SPORT/8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuPH_0AZKTHPg9lBSN0kqxQfvlt3099XkNgjmvygS-mHJlmaQgWMA0Eci1CUCmCn9Yk6R2dbGlQb9PIcYhIpVRcHbeewnm10MjhiC59w3FtJxAiRob7_p8ks6V_InVw-iiakjx9wftpSVQtL3txwoBaN-nbrTHJK9tLQ8YQdG9EzqXzVnT-Pq6IrUj8w/s320/5.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 5 FHD
-http://154.53.60.93:25461/BEIN/SPORT/9
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilvh-dEVKiW0w0Bge5eZkQ86z-rii4c9GLRvhVZF56T5yZ2BJ679pQ86xEBRMausecDkDiTROolKZrmu_nraatTkIIVAHmO1ccAxmLEmPh-frryi-SdAS_ia710-4ZbAo8uFf_-cVr99aB01vyj4ICOJ83btfK3nvKdtyDH_OAgvKmxEFXuVrNPh3vZQ/s320/6.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 6 FHD
-http://154.53.60.93:25461/BEIN/SPORT/10
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHGJ8JWWYcsWDlSYyrwEAMhEs1-P5bhUVcPsFQsvKc8VMRuy4ry4OTYoXnglkTB2mVFUxwBtpX53hs9tptIqgyMCyy9HWAuK70-R3Yus8skQgDFo3aVjzhuIEQ5tkcAP-MU_rtIOp0XDsMC4sXXcBtKITr_j4IAvKgINb2nb-xaLJCL3DKYbCt4ti0kA/s320/7.png" group-title="BEIN SPORTS GRUP",  beIN SPORTS 7 FHD
-http://154.53.60.93:25461/BEIN/SPORT/11
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMa_55A6KC2o7xZTsVsD0Mg3OYajpGva8J7XyDoqhBVMvv8PIw4i_Ncf5MwS1m_JrgIGcRC2gvIMrl1A5yexRcjoB9C_wPxLzKzEJ1Gf347nd2xoXNxuRj7ZH6EBd4ryTRdKIep7cOtKhb56kdKhQOsrjiXpa1Xq0VgqLPzvU5b7oYCiuBT6Y7_KlZGw/s320/ontime1.png" group-title="BEIN SPORTS GRUP",  On Time Sports FHD
-http://154.53.60.93:25461/BEIN/SPORT/13
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5zataVOzy27btVGE2JOCa0QaziAzVhBag_ub5FrNQTl8PPzkgsxvPStuB0oowZt_Zsq0BVop-TbRq51bUrb9EdkbyW0tWPWUkq2UFR5pUXX7cTOTHARzW849bZvTqhSITBkGUt75yZJ4jYdtVZrd62MtxfKj4o5O0bNSdJUNXQRgyG3k3jXBbWfeVUA/s320/ontime2.png" group-title="BEIN SPORTS GRUP",  On Time Sports 2 FHD
-http://154.53.60.93:25461/BEIN/SPORT/14
  
 
 
@@ -276,26 +66,93 @@ http://iptv.tvmalaysia.cc:80/989651/989651/9029
 
 # *******************************************************************************
 
-# ****************************************************************************
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9156
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS PREMIUM 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS PREMIUM 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9148
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS PREMIUM 3 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9150
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9131
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9134
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS 3 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9136
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS 4 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9138
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS 5 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9140
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS 6 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9142
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="Sport-inter",BEINSPORTS 7 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9144
+#EXTINF:-1,SPORTS PREMIUM 1 4k
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614
+#EXTINF:-1,SPORTS PREMIUM 1 HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86613
+#EXTINF:-1,SPORTS PREMIUM 2 4K
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
+#EXTINF:-1,SPORTS PREMIUM 2HD²
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86611
+#EXTINF:-1,SPORTS PREMIUM 3 4k
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610
+#EXTINF:-1,SPORTS PREMIUM 3 HD²
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86609
+#EXTINF:-1,SPORTS 1 4K
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86608
+#EXTINF:-1,SPORTS 01 HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86607
+#EXTINF:-1,SPORTS 01 HD EN
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86606
+#EXTINF:-1,SPORTS 2 4k
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86605
+#EXTINF:-1,SPORTS 02 HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86604
+#EXTINF:-1,SPORTS 02 HD EN
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86603
+#EXTINF:-1,SPORTS 3 4K
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86602
+#EXTINF:-1,SPORTS 3 HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86601
+#EXTINF:-1,SPORTS 4 4K
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86600
+#EXTINF:-1,SPORTS 4 HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86599
+#EXTINF:-1,SPORTS 5 4K
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86598
+#EXTINF:-1,SPORTS 5 HD²
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86597
+#EXTINF:-1,SPORTS 6 4K
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86596
+#EXTINF:-1,SPORTS 6 HD²
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86595
+#EXTINF:-1,SPORTS 7 4K
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86594
+#EXTINF:-1,SPORTS 7 HD²
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86593
+#EXTINF:-1,SPORTS NBA 4K
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86577
+#EXTINF:-1,SPORTS NEWS SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86576
+#EXTINF:-1,SPORTS SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86575
+#EXTINF:-1,SPORTS PREMIUM 1 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86574
+#EXTINF:-1,SPORTS PREMIUM 2 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86573
+#EXTINF:-1,SPORTS PREMIUM 3 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86572
+#EXTINF:-1,SPORTS 1 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86571
+#EXTINF:-1,SPORTS 1 SD EN
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86570
+#EXTINF:-1,SPORTS 2 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86569
+#EXTINF:-1,SPORTS 2 SD EN
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86568
+#EXTINF:-1,SPORTS 3 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86567
+#EXTINF:-1,SPORTS 4 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86566
+#EXTINF:-1,SPORTS 5 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86565
+#EXTINF:-1,SPORTS 6 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86564
+#EXTINF:-1,SPORTS 7 SD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86563
+#EXTINF:-1,Sport French SD1
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86557
+#EXTINF:-1,Sport French SD2
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86556
+#EXTINF:-1,SPORT NEWS HEVC
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109256
+#EXTINF:-1,SPORTS 1 HD FR
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/100694
+#EXTINF:-1,SPORTS 2 HD FR
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/100695
+#EXTINF:-1,SPORTS NBA
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/103554
+#EXTINF:-1,Sport XTRA 1 HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102724
+#EXTINF:-1,Sport XTRA 2 HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102725

@@ -118,8 +118,8 @@ http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&t
 #  https://rthklive1-lh.akamaihd.net:443/i/rthk31_1@167495/index_2052_av-b.m3u8?sd=10&rebase=on
 #   https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
-#EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="24/7 WORLD NEWS",CNBC 新闻
-http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+# EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="24/7 WORLD NEWS",CNBC 新闻
+# http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
@@ -228,8 +228,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://168.232.168.242:8000/play/a06f/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://168.232.168.242:8000/play/a06h/index.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+# http://168.232.168.242:8000/play/a06h/index.m3u8
 
 
 
@@ -264,13 +264,19 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614 
+
+# http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 # http://red.ipfox.org:8080/1234/12345678/31529
 
 #EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
 # 720p
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+
+
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
+
+# http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 # http://red.ipfox.org:8080/1234/12345678/31528
 
@@ -286,14 +292,18 @@ http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 
 # http://red.ipfox.org:8080/1234/12345678/31546
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+#EXTINF:-1 group-title="ANOBYZ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU",astro SUPER SPORT 1
+http://iptv.tvmalaysia.cc:80/989651/989651/9024
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+# EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
+# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+
+# EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 2
+# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+
+# EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 3
+# http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
 
 #EXTINF:-1 group-title="SPORTS", 纬来体育台 (Sport)

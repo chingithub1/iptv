@@ -4,6 +4,90 @@
 
 
 #EXTM3U
+
+#EXTINF:-1,SP: PT: Sport TV+ FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7495.m3u8
+#EXTINF:-1,SP: PT: Sport TV 1 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7500.m3u8
+#EXTINF:-1,SP: PT: Sport TV 2 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7503.m3u8
+#EXTINF:-1,SP: PT: Sport TV 3 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7506.m3u8
+#EXTINF:-1,SP: PT: Sport TV 4 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7508.m3u8
+#EXTINF:-1,SP: PT: Sport TV 5 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7512.m3u8
+#EXTINF:-1,SP: PT: Sporting TV SD
+http://185.209.15.131:2052/live/ninas/ninas123/7516.m3u8
+#EXTINF:-1,SP: PT: Sporting TV FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7517.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 1 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7518.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 2 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7521.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 3 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7523.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 4 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7525.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 5 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7526.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 5 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7527.m3u8
+#EXTINF:-1,SP: PT: Eurosport 1 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7534.m3u8
+#EXTINF:-1,SP: PT: Eurosport 2 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7535.m3u8
+#EXTINF:-1,SP: PT: Eurosport 2 FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7536.m3u8
+#EXTINF:-1,SP: PT: Combate SD
+http://185.209.15.131:2052/live/ninas/ninas123/7542.m3u8
+#EXTINF:-1,SP: PT: Combate FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7544.m3u8
+#EXTINF:-1,SP: PT: NBA
+http://185.209.15.131:2052/live/ninas/ninas123/7546.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 1 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7677.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 2 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7678.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 3 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7679.m3u8
+#EXTINF:-1,SP: PT: Eleven Sports 4 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7680.m3u8
+#EXTINF:-1,SP: PT: Eurosport 1 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7683.m3u8
+#EXTINF:-1,SP: PT: Sport TV+ SD
+http://185.209.15.131:2052/live/ninas/ninas123/7710.m3u8
+#EXTINF:-1,SP: PT: Sport TV 1 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7711.m3u8
+#EXTINF:-1,SP: PT: Sport TV 2 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7712.m3u8
+#EXTINF:-1,SP: PT: Sport TV 3 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7713.m3u8
+#EXTINF:-1,SP: PT: Sport TV 4 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7714.m3u8
+#EXTINF:-1,SP: PT: Sport TV 5 SD
+http://185.209.15.131:2052/live/ninas/ninas123/7715.m3u8
+#EXTINF:-1,•●★-- Portugal Sports --★●•
+http://185.209.15.131:2052/live/ninas/ninas123/32978.m3u8
+#EXTINF:-1,SP: PT: Sport TV+ HD (H265)
+http://185.209.15.131:2052/live/ninas/ninas123/119723.m3u8
+#EXTINF:-1,SP: PT: Sport TV 1 HD
+http://185.209.15.131:2052/live/ninas/ninas123/119724.m3u8
+#EXTINF:-1,SP: PT: Sport TV 2 HD
+http://185.209.15.131:2052/live/ninas/ninas123/119726.m3u8
+#EXTINF:-1,SP: PT: Sport TV 3 HD (H265)
+http://185.209.15.131:2052/live/ninas/ninas123/119763.m3u8
+#EXTINF:-1,SP: PT: Sport TV 4 HD (H265)
+http://185.209.15.131:2052/live/ninas/ninas123/119764.m3u8
+#EXTINF:-1,SP: PT: Sporting TV HD (H265)
+http://185.209.15.131:2052/live/ninas/ninas123/119809.m3u8
+#EXTINF:-1,SP: PT: Benfica TV FHD
+http://185.209.15.131:2052/live/ninas/ninas123/119831.m3u8
+#EXTINF:-1,SP: PT: Benfica TV SD
+http://185.209.15.131:2052/live/ninas/ninas123/126145.m3u8
+
+
+
 #EXTINF:-1,SPORTS PREMIUM 1 4k
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614
 #EXTINF:-1,SPORTS PREMIUM 1 HD
@@ -94,3 +178,35 @@ http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/103554
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102724
 #EXTINF:-1,Sport XTRA 2 HD
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102725
+
+
+#   MOVIES
+#EXTINF:-1,PT: FOX Comedy
+http://185.209.15.131:2052/live/ninas/ninas123/7685.m3u8
+#EXTINF:-1,PT: FOX Comedy FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7591.m3u8
+#EXTINF:-1,PT: FOX Crime
+http://185.209.15.131:2052/live/ninas/ninas123/7686.m3u8
+#EXTINF:-1,PT: FOX Crime FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7593.m3u8
+#EXTINF:-1,PT: FOX Crime HD (H265)
+http://185.209.15.131:2052/live/ninas/ninas123/119820.m3u8
+#EXTINF:-1,PT: FOX FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7585.m3u8
+#EXTINF:-1,PT: FOX HD (H265)
+http://185.209.15.131:2052/live/ninas/ninas123/119819.m3u8
+#EXTINF:-1,PT: FOX Life
+http://185.209.15.131:2052/live/ninas/ninas123/7687.m3u8
+#EXTINF:-1,PT: FOX Life FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7587.m3u8
+#EXTINF:-1,PT: FOX Movies
+http://185.209.15.131:2052/live/ninas/ninas123/7688.m3u8
+#EXTINF:-1,PT: FOX Movies FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7589.m3u8
+#EXTINF:-1,PT: FOX Movies HD (H265)
+
+#EXTINF:-1,PT: Hollywood
+http://185.209.15.131:2052/live/ninas/ninas123/7567.m3u8
+#EXTINF:-1,PT: Hollywood FHD
+http://185.209.15.131:2052/live/ninas/ninas123/7568.m3u8
+http://185.209.15.131:2052/live/ninas/ninas123/119821.m3u8

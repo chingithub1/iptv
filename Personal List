@@ -418,7 +418,9 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://168.232.168.242:8000/play/a06f/index.m3u8
+http://69.164.224.53:80/ESPN/mpegts
+
+# ttp://168.232.168.242:8000/play/a06f/index.m3u8
 
 # http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 
@@ -435,44 +437,22 @@ http://168.232.168.242:8000/play/a06f/index.m3u8
 
 
 
-# http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
-
-# http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
-
-
-# http://stream2.grandma.fit/fs2.m3u8
-
-# Also good as of July 9, 2021
-# http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
-# http://134.19.182.131:8080/edg2_2.m3u8. (this probably work with live events only)
-# http://stream2.grandma.fit/fs2.m3u8
-# http://134.19.182.131:8080/edg8_2.m3u8
-# http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-# http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
 # rtmp://59.124.75.150/sat/us021
 
-# http://168.232.168.242:8000/play/a06h/index.m3u8
-
-# http://208.79.153.123/teleup-espn2-new1/tracks-v1a1/mono.m3u8
-
-# http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569?checkedby:iptvcat.com
-
-
-# http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13828
-
-# http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",TSN 1
+http://103.125.191.32:9981/stream/channelid/245777377?profile=cvaceplus
+#EXTINF:-1 group-title="SPORTS",TSN 3
+http://103.125.191.32:9981/stream/channelid/1380132116?profile=cvaceplus
+#EXTINF:-1 group-title="SPORTS",TSN 5
+http://103.125.191.32:9981/stream/channelid/1375597584?profile=cvaceplus
 
 
-# EXTINF:-1 group-title="SPORTS", TNT
-# rtmp://59.124.75.150/sat/us071
-
-
-#EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
-http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
+# EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
+# http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 
 
 # https://wopep.com/02_nbahd_720p/chunklist.m3u8
@@ -488,19 +468,27 @@ http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
 
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU",astro SUPER SPORT 1
+http://iptv.tvmalaysia.cc:80/989651/989651/9024
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU",astro SUPER SPORT 2
+http://iptv.tvmalaysia.cc:80/989651/989651/9025
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtBTRgSJx-6CGMPy9RnOFLek6eOR1iZzsmw&usqp=CAU",astro SUPER SPORT 3
+http://iptv.tvmalaysia.cc:80/989651/989651/9020
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU",astro SUPER SPORT 4
+http://iptv.tvmalaysia.cc:80/989651/989651/9026
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kWoEUAXiaPleOZ1ievX_b7J_3uo-N7dWew&usqp=CAU",astro SUPER SPORT 5
+http://iptv.tvmalaysia.cc:80/989651/989651/9029
 
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
 # 1080p
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614
+
+# http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
 # http://red.ipfox.org:8080/1234/12345678/31548
 
 # http://red.ipfox.org:8080/1234/12345678/31529
@@ -518,7 +506,9 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
 
 #EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
 # 720p
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9150
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
+
+# http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9150
 
 # http://red.ipfox.org:8080/1234/12345678/31528
 
@@ -546,9 +536,11 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9150
 
 #EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
 # 720p
-http://red.ipfox.org:8080/1234/12345678/31527
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610
 
-http://red.ipfox.org:8080/1234/12345678/31546
+# http://red.ipfox.org:8080/1234/12345678/31527
+
+# http://red.ipfox.org:8080/1234/12345678/31546
 
 
 # http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8

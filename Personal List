@@ -22,8 +22,8 @@ http://livetv.dnsfor.me/channel.11.m3u8
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
+# http://iptv.tvfix.org/hls/jadenhk.m3u8
 
 
 # http://iptv.tvfix.org/hls/jadenhk2.m3u8
@@ -42,22 +42,17 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
 http://iptv.tvfix.org/hls/jade2.m3u8
 
-# http://z4.ubtvfans.com/live/390/f2814e81699e53cff473afced6a3d80e/index.m3u8
 
-# http://iptv.tvfix.org/hls/jade.m3u8
 
 # http://iptv.tvfix.org/hls/jade2.m3u8
 
 
 
-# http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
-# the other logo "http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png"
 
 # http://61.238.6.49:8000/bysid/1
 
 # https://cdn.hkdtmb.com/hls/81/index.m3u8
-# http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 
 # EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠J1台
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/59222
@@ -71,8 +66,8 @@ http://iptv.tvfix.org/hls/jade2.m3u8
 # https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
+# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 
 # http://iptv.tvfix.org/hls/j2.m3u8
@@ -84,19 +79,19 @@ http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 http://iptv.tvfix.org/hls/j2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
-http://iptv.tvfix.org/hls/tvbws.m3u8
+# EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
+# http://iptv.tvfix.org/hls/tvbws.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
-http://iptv.tvfix.org/hls/tvbxh.m3u8
+# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+# http://iptv.tvfix.org/hls/tvbxh.m3u8
 
 
 # http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
-http://iptv.tvfix.org/hls/tvbkf.m3u8
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
+# http://iptv.tvfix.org/hls/tvbkf.m3u8
 
 
 
@@ -177,9 +172,9 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+# http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 
-# http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 
 
 # http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
@@ -199,8 +194,8 @@ http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="24/7 WORLD NEWS",CNBC 新闻
-http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+# EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="24/7 WORLD NEWS",CNBC 新闻
+# http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 
 
 
@@ -227,13 +222,12 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 # http://rv.imax.re/3Tst9ZqgUA/2dqWR5IiMh/81003
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
+# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+# http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
 
 # http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 
-# EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="24/7 WORLD NEWS", ABC News
-# https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
@@ -250,8 +244,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="24/7 WORLD NEWS",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
-#EXTINF:-1 tvg-logo="http://tomburke.co.uk/wp-content/uploads/2014/11/sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+# EXTINF:-1 tvg-logo="http://tomburke.co.uk/wp-content/uploads/2014/11/sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
+# https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
@@ -343,15 +337,15 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
-http://iptv.tvfix.org/hls/fhzx.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
+# http://iptv.tvfix.org/hls/fhzx.m3u8
 
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320677
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="China" ,鳳凰衛視中文台 Pheonix Chinese
-http://iptv.tvfix.org/hls/fhzw.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="China" ,鳳凰衛視中文台 Pheonix Chinese
+# http://iptv.tvfix.org/hls/fhzw.m3u8
 
 
 # https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
@@ -374,13 +368,7 @@ http://livetv.dnsfor.me/channel.2.m3u8
 # http://livetv.dnsfor.me/channel.2.m3u8
 
 
-#EXTINF:-1,UK: BBC 1 HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/185
 
-#EXTINF:-1,BBC CONCERT CHANNEL
-http://190.83.2.51:8000/play/a00z/index.m3u8
-
-# http://168.232.168.242:8000/play/a00z/index.m3u8
 
 
 
@@ -712,20 +700,7 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 
 
 
-#EXTINF:-1 group-title="SPORTS",Bein LaLiga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-
-#EXTINF:-1 group-title="SPORTS",Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS",Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS",Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title=SPORTS” ,FS1 HD
@@ -756,50 +731,7 @@ rtmp://59.124.75.157/sat/md031
 # ============================================
 
 #   Movie Channels
-#EXTINF:-1,UK: Sky Movies Premiere
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/56
 
-
-#EXTINF:-1,UK: Sky Movies Select HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/424
-#EXTINF:-1,UK: Sky Movies Showcase
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/55
-#EXTINF:-1,UK: Sky Movies Thriller
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/54
-
-#EXTINF:-1,UK: Sky Arts
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/429
-#EXTINF:-1,UK: SKY Atlantic HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/428
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7300
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7297
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7298
-#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7294
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7299
-#EXTINF:-1,UK: Sky Cinema Hits
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/8867
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7296
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7292
-#EXTINF:-1,UK: Sky Movie Sci-Fi
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/62
-#EXTINF:-1,UK: Sky Movies Action
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/61
-#EXTINF:-1,UK: Sky Movies Comedy
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/60
-#EXTINF:-1,UK: Sky Movies Disney
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/59
-#EXTINF:-1,UK: Sky Movies Family
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/58
-#EXTINF:-1,UK: Sky Movies Greats
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/57
-#EXTINF:-1,UK: Sky Movies Modern
 
 #EXTINF:-1,HBO2 HD
 
@@ -822,11 +754,6 @@ http://181.78.22.214:8000/play/a01h
 
 # http://ott3.gearhostpreview.com/astro/live.php?id=41
 
-#EXTINF:-1 group-title="Movies", CINEMAX
-http://190.83.2.51:8000/play/a053/index.m3u8
-
-#EXTINF:-1 group-title="Movies", CINEMAX-1
-http://190.83.2.51:8000/play/a011/index.m3u8
 
 
 
@@ -883,23 +810,7 @@ https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202519
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 
-
-# ://is.gd/ObFrpt
-
-# EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg" group-title="Movies",& Prive HD
-# https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
-# ://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
-
-# EXTINF:-1, tvg-logo="https://i.imgur.com/zaL3xeP.png" group-title="Movies",Great Movies
-# ://5.101.140.110:8000/play/a02e/index.m3u8
-
-
-# EXTINF:-1  group-title="Movies",MBC 2 FHD
-# https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
 #EXTINF:-1  group-title="Movies",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -916,13 +827,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Movies" tvg-logo="https://www.mesimvria.com/wp-content/uploads/logo-MoviesBestHDx2-1.png",Movies Group 2
 http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-
-#EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Movies" tvg-logo="https://www.mesimvria.com/wp-content/uploads/logo-MoviesBestHDx2-1.png",Movies Group 3
-http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
-
-#EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Movies" tvg-logo="https://www.mesimvria.com/wp-content/uploads/logo-MoviesBestHDx2-1.png",Movies Group 4
-#http://tx2play1.douyucdn.cn/live/562225rV4UNAU64f_4000p.xs?uuid=
-https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
 
 #EXTINF:-1 group-title="Movies",iptvtools_101
@@ -945,8 +849,7 @@ https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies",iptvtools_113
 https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies (720p)
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+
 
 #EXTINF:-1 group-title="China" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8

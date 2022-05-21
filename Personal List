@@ -439,7 +439,9 @@ http://103.125.191.32:9981/stream/channelid/1380132116?profile=cvaceplus
 http://103.125.191.32:9981/stream/channelid/1375597584?profile=cvaceplus
 
 
-# EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
+#EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86577
+
 # http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 
 
@@ -496,88 +498,23 @@ http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614
 # 720p
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
 
-# http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9150
-
-# http://red.ipfox.org:8080/1234/12345678/31528
-
-# 1080p
-# http://red.ipfox.org:8080/1234/12345678/31498
-
-# http://red.ipfox.org:8080/1234/12345678/31547
-
-# http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-
-# http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
-
-# http://178.18.245.114:8080/XR_XtraTv136479/974631/1380
-
-# EXTINF:-1 group-title="SPORTS”,Bein premium 1
-# http://55.1-bour.xyz:80/live/6161655/index.m3u8
-
-# EXTINF:-1 group-title="SPORTS",Bein premium2
-# http://55.1-bour.xyz:80/live/616194987/index.m3u8
 
 
-# EXTINF:-1  group-title="SPORTS", ALT Bein Sport HD 1 Premium
-# http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
+
+
 
 
 #EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
 # 720p
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610
 
-# http://red.ipfox.org:8080/1234/12345678/31527
-
-# http://red.ipfox.org:8080/1234/12345678/31546
 
 
-# http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Setanta Sports 1 HD
+http://15.235.142.95:9981/stream/channelid/904353592?profile=cvace
+#EXTINF:-1 group-title="SPORTS",Setanta Sports 2 HD
+http://15.235.142.95:9981/stream/channelid/1999676698?profile=cvace
 
-
-# http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
-
-# http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-
-
-#EXTINF: -1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5726
-
-#EXTINF:-1 group-title="SPORT", 纬来体育台
-rtmp://59.124.75.150/sat/tv721
-
-
-# rtmp://59.124.75.138/sat/tv721
-
-# rtmp://59.124.75.156/sat/tv721
-# rtmp://59.124.75.157/sat/tv721
-# http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch28.m3u8?token=
-
-
-#EXTINF:-1 group-title="SPORT", 爱尔达体育1 ELTA SPORT 1
-rtmp://59.124.75.150/sat/md011
-
-# rtmp://59.124.75.138/sat/md011
-
-# rtmp://59.124.75.157/sat/md011
-# rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
-
-
-#EXTINF:-1 group-title="SPORT", 爱尔达体育2 ELTA SPORT 2
-rtmp://59.124.75.138/sat/md051
-
-# rtmp://59.124.75.157/sat/md051
-# rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
-
-
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORT",ELEVEN SPORT 1
-
-rtmp://59.124.75.157/sat/tv731
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="SPORTS",ELEVEN SPORT 2
-rtmp://59.124.75.150/sat/tv741
-
-
-# rtmp://59.124.75.157/sat/tv741
 
 
 
@@ -621,22 +558,10 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 
 
-# EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title=“SPORTS”,Eleven Sport 1
-# http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-
-
-# EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title=“SPORTS”,Eleven Sport 2
-# http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
 
 
 #EXTINF:-1,group-title=“SPORTS”,Sky Sports NFL
 http://93.152.174.144:4000/play/skysports3/index.m3u8
-
-
-
-# EXTINF:-1,S*y Sports 5
-# http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 
 
@@ -703,7 +628,7 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title=SPORTS” ,FS1 HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS” ,FS1 HD
 http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 # http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8

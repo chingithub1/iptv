@@ -22,65 +22,12 @@ http://103.125.191.32:9981/stream/channelid/1380132116?profile=cvaceplus
 #EXTINF:-1 group-title="USA - CANADA SPORTS",TSN 5
 http://103.125.191.32:9981/stream/channelid/1375597584?profile=cvaceplus
 
-#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="b1bc3e07ba297d0e9e15de958ed28bee",Sky Sport 1 HD
-http://103.125.191.32:8081/sky1
-#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="b1bc3e07ba297d0e9e15de958ed28bee",Sky Sport 1 HD
-http://103.125.191.32:9981/stream/channelid/973217606?profile=cvace
-
-#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="46b921c080a23217e637e6146f1214c1",Sky Sport 2 HD
-http://103.125.191.32:8081/sky2
-#EXTINF:-1 group-title="SKY SPORT - DAZN" tvg-id="46b921c080a23217e637e6146f1214c1",Sky Sport 2 HD
-http://103.125.191.32:9981/stream/channelid/732250295?profile=cvace
 
 
 #EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 1 HD
 http://15.235.142.95:9981/stream/channelid/904353592?profile=cvace
 #EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 2 HD
 http://15.235.142.95:9981/stream/channelid/1999676698?profile=cvace
-
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="ba650cba06237601750f63008c432ec7",Eleven Sports 1 HD
-http://15.235.142.95:9981/stream/channelid/329597225?profile=cvaceplus
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="e0e1408b7a8b4d2bb784d03e3cd1f531",Eleven Sports 2 HD
-http://15.235.142.95:9981/stream/channelid/460530730?profile=cvaceplus
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="2e4c23cb7d242e8f7789e963ebb73fed",Eleven Sports 3 HD
-http://15.235.142.95:9981/stream/channelid/486177804?profile=cvaceplus
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="82944ca73d03dd5fb6b517df5faedbeb",Eleven Sports 4 HD
-http://15.235.142.95:9981/stream/channelid/901199451?profile=cvaceplus
-
-
-
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/26
-
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/2459
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/18
-#EXTINF:-1,UK: Sky Sport Football HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/10164
-
-#EXTINF:-1,UK: BT Sport 1 HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/6
-#EXTINF:-1,UK: BT Sport 3 HD
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5547
-#EXTINF:-1,UK: BT Sport ESPN
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/4
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="SPORTS",Bein Sport 1
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="SPORTS",Bein sport 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20151119/289407LOGO?max=800" group-title="SPORTS",Bein sport 3
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
 
 
 

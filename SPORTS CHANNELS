@@ -22,7 +22,8 @@ http://103.125.191.32:9981/stream/channelid/1380132116?profile=cvaceplus
 #EXTINF:-1 group-title="USA - CANADA SPORTS",TSN 5
 http://103.125.191.32:9981/stream/channelid/1375597584?profile=cvaceplus
 
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/BeIN_Sports_NBA_2017.svg/revision/latest/scale-to-width-down/340?cb=20200105100944" group-title="SPORTS",  Bein NBA TV
+http://gplus.live:8080/168573780756/N9UFR0P64W/59382
 
 #EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 1 HD
 http://15.235.142.95:9981/stream/channelid/904353592?profile=cvace

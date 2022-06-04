@@ -615,12 +615,6 @@ http://livetv.dnsfor.me/channel.12.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports Select 1 HD
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Star_Sports_India_logo1.png/150px-Star_Sports_India_logo1.png" group-title="SPORTS",  Star Sports Select 2 HD
-http://live.flixhub.net/hls/select2.m3u8
-
 
 
 
@@ -636,7 +630,7 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS” ,FS1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS” ,FS1 HD
 http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 # http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
@@ -646,22 +640,21 @@ http://4.26.188.2:8081/udp/239.193.10.101:23901
 # 
 
 
-#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1",FS2 HD
+#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg",FS2 HD
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 # http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title=“SPORTS”, Star Sports
-http://iptv.tvfix.org/hls/starsports.m3u8
 
-#EXTINF:-1,BEIN SPORTS 1 ENG
+
+#EXTINF:-1 group-title=“SPORTS”,BEIN SPORTS 1 ENG
 http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35347
 
-#EXTINF:-1,BEIN SPORTS 3 fr
+#EXTINF:-1group-title=“SPORTS”,BEIN SPORTS 3 fr
 http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35340
 
-#EXTINF:-1,BEIN SPORT EXTRA N
+#EXTINF:-group-title=“SPORTS”1,BEIN SPORT EXTRA N
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 

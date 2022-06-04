@@ -337,7 +337,9 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+
 # http://iptv.tvfix.org/hls/fhzx.m3u8
 
 
@@ -521,7 +523,9 @@ http://15.235.142.95:9981/stream/channelid/1999676698?profile=cvace
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
-http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
+http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+
+# http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
 
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225649/index.m3u8
 # http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
@@ -651,10 +655,14 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 #EXTINF:-1 group-title=“SPORTS”, Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
 
+#EXTINF:-1,BEIN SPORTS 1 ENG
+http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35347
 
-#EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="SPORTS",博斯运动
+#EXTINF:-1,BEIN SPORTS 3 fr
+http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35340
 
-rtmp://59.124.75.157/sat/md031
+#EXTINF:-1,BEIN SPORT EXTRA N
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
 # ============================================

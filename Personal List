@@ -374,17 +374,11 @@ http://livetv.dnsfor.me/channel.2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo_before_after.png" group-title="Documentary", Discovery Channel
-http://iptv.tvfix.org/hls/discovery.m3u8
-
-# EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo_before_after.png" group-title="Documentary", Discovery Science
-# http://livepulse2.uk:8080/live/88888/99999/292532.ts
+#EXTINF:-1, Concert Channel
+http://168.232.168.242:8001/play/a00z/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Documentary",国家地理
-
-http://iptv.tvfix.org/hls/natlgeo.m3u8
 
 
 
@@ -664,25 +658,22 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
 #EXTINF:-1,HBO2 HD
+http://168.232.168.242:8001/play/a011/index.m3u8
 
-http://190.83.2.51:8000/play/a011/index.m3u8
+# http://190.83.2.51:8000/play/a011/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",HBO
+http://168.232.168.242:8001/play/a057/index.m3u8
+
 # https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
-http://181.78.22.214:8000/play/a01h
+# http://181.78.22.214:8000/play/a01h
 
 # http://168.232.168.242:8000/play/a010/index.m3u8
 
-# EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2hRSX4/hbo-logo.jpg" group-title=“Movies”,HBO 
-# http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-
-# http://50.7.61.148:30080/Entry/hbo
-
-# http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-# http://ott3.gearhostpreview.com/astro/live.php?id=41
+#EXTINF:-1 group-title=“Movies”,Cinemax
+http://168.232.168.242:8001/play/a053/index.m3u8
 
 
 

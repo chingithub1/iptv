@@ -29,8 +29,8 @@ http://livetv.dnsfor.me/channel.11.m3u8
 
 # http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
-#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
-http://iptv.tvfix.org/hls/jade2.m3u8
+# EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+# http://iptv.tvfix.org/hls/jade2.m3u8
 
 # http://z4.ubtvfans.com/live/390/f2814e81699e53cff473afced6a3d80e/index.m3u8
 
@@ -67,8 +67,8 @@ http://iptv.tvfix.org/hls/jade2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
-http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
+# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
+# http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 
 # http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
@@ -77,12 +77,7 @@ http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 # http://61.238.6.49:8000/bysid/99
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="Hong Kong 香港",rthk31 
-http://50.7.218.42:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094
-
-# https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-
-
-# http://livetv.dnsfor.me/channel.1.m3u8
+http://livetv.dnsfor.me/channel.1.m3u8
 
 # https://cdn.hkdtmb.com/hls/31/index.m3u8
 
@@ -100,8 +95,8 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+# http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 
 #  https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
@@ -283,18 +278,18 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614 
+# EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
+# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614 
 
 # http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
 # http://red.ipfox.org:8080/1234/12345678/31529
 
-#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
+# EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
 # 720p
 
 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
+# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
 
 # http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
@@ -304,17 +299,16 @@ http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
 
 
 
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
+# EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
 # 720p
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+# http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 # http://red.ipfox.org:8080/1234/12345678/31527
 
 
 # http://red.ipfox.org:8080/1234/12345678/31546
 
-#EXTINF:-1 group-title="ANOBYZ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU",astro SUPER SPORT 1
-http://iptv.tvmalaysia.cc:80/989651/989651/9024
+
 
 # EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",Beinsport English 1
 # http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416

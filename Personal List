@@ -42,7 +42,10 @@ http://livetv.dnsfor.me/channel.11.m3u8
 
 
 #EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
-http://livetv.dnsfor.me/channel.5.m3u8
+http://198.204.239.194:27347/livehlsplay?channel_id=30037
+
+# This is good too
+# http://livetv.dnsfor.me/channel.5.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
@@ -182,8 +185,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Hong Kong 香港",Astro AOD 
 # http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-https://epg.pm/stream/e30266528c3416bbfe52823b47c55fa82e2297eefed6bd0ca708cace4fdbbbb2.m3u8
+# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
 
 
 # http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
@@ -289,13 +291,18 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s69089q.png" group-title="China",CCTV-13 新闻
-http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
+http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
+
+# http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
 
 # http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="China",CCTV 4
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
+
+
+# http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 
 # http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225621/index.m3u8
@@ -352,12 +359,10 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
-http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
-# http://iptv.tvfix.org/hls/fhzx.m3u8
-
-
-# http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320677
+# This is good
+# https://epg.pm/stream/e30266528c3416bbfe52823b47c55fa82e2297eefed6bd0ca708cace4fdbbbb2.m3u8
 
 
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="China" ,鳳凰衛視中文台 Pheonix Chinese
@@ -524,7 +529,10 @@ http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 # rtmp://58.200.131.2:1935/livetv/cctv5hd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
+
+
+# http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 
 # rtmp://58.200.131.2:1935/livetv/cctv5phd

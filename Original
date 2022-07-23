@@ -183,14 +183,16 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #    https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 
 #   EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Australian_News_Channel_logo.png/220px-Australian_News_Channel_logo.png" group-title="24/7 WORLD NEWS", Australia Channel
 #  https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
-# EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s69089q.png" group-title="China", CCTV - 13  中国中央电视台-13 新闻
-# http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s69089q.png" group-title="China", CCTV - 13  中国中央电视台-13 新闻
 
+http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 
 # http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 
@@ -268,7 +270,7 @@ http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 # rtmp://58.200.131.2:1935/livetv/cctv5hd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+hhttp://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS” ,FS1 HD
 http://4.26.188.2:8081/udp/239.193.10.101:23901

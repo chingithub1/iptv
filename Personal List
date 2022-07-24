@@ -519,10 +519,10 @@ http://15.235.142.95:9981/stream/channelid/1999676698?profile=cvace
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
-http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+# http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 
 # This one is good
-# rtmp://59.124.75.138/sat/cn021
+rtmp://59.124.75.138/sat/cn021
 
 
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8

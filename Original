@@ -260,7 +260,11 @@ http://69.164.224.53:80/ESPN/mpegts
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
-http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+rtmp://59.124.75.138/sat/cn021
+
+
+
+# http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
 
@@ -270,7 +274,10 @@ http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 # rtmp://58.200.131.2:1935/livetv/cctv5hd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
-hhttp://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
+rtmp://59.124.75.138/sat/cn051
+
+
+# http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS” ,FS1 HD
 http://4.26.188.2:8081/udp/239.193.10.101:23901

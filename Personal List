@@ -42,10 +42,10 @@ http://livetv.dnsfor.me/channel.11.m3u8
 
 
 #EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
-http://198.204.239.194:27347/livehlsplay?channel_id=30037
+# http://198.204.239.194:27347/livehlsplay?channel_id=30037
 
 # This is good too
-# http://livetv.dnsfor.me/channel.5.m3u8
+http://livetv.dnsfor.me/channel.5.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
@@ -218,6 +218,9 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+# Alternate channel
+# https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
 
 # just found this on 03/08/2022
 # http://168.232.168.242:8000/play/a00j/index.m3u8# http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
@@ -518,6 +521,10 @@ http://15.235.142.95:9981/stream/channelid/1999676698?profile=cvace
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
 http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 
+# This one is good
+# rtmp://59.124.75.138/sat/cn021
+
+
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
 
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225649/index.m3u8
@@ -531,6 +538,9 @@ http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
 http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
 
+
+# This one is good
+# rtmp://59.124.75.138/sat/cn051
 
 # http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 

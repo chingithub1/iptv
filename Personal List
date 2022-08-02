@@ -446,7 +446,9 @@ http://69.164.224.53:80/ESPN/mpegts
 
 
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+http://69.164.224.53:80/ESPN2/mpegts
+
 # rtmp://59.124.75.150/sat/us021
 
 #EXTINF:-1 group-title="SPORTS",TSN 1
@@ -472,9 +474,9 @@ http://103.125.191.32:9981/stream/channelid/1375597584?profile=cvaceplus
 
 
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
+# EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
 # 1080p
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614
+# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614
 
 # http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
 # http://red.ipfox.org:8080/1234/12345678/31548
@@ -492,9 +494,9 @@ http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614
 
 
 
-#EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
+# EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
 # 720p
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
+# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
 
 
 
@@ -502,19 +504,13 @@ http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
 
 
 
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
+# EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
 # 720p
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610
+# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610
 
 
 
-#EXTINF:-1 group-title="SPORTS",Setanta Sports 1 HD
-http://15.235.142.95:9981/stream/channelid/904353592?profile=cvace
-#EXTINF:-1 group-title="SPORTS",Setanta Sports 2 HD
-http://15.235.142.95:9981/stream/channelid/1999676698?profile=cvace
-
-
-
+#
 
 
 

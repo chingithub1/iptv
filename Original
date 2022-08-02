@@ -239,8 +239,8 @@ http://69.164.224.53:80/ESPN/mpegts
 # http://168.232.168.242:8000/play/a06f/index.m3u8
 
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-# http://168.232.168.242:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+http://69.164.224.53:80/ESPN2/mpegts
 
 
 

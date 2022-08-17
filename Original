@@ -3,6 +3,9 @@
 #    https://bit.ly/3odvkOD 
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhe-FgPFCELaXt2HH3nn6dhk_-i5K88l_Oruy1Z-7cKQ&s" group-title="香港", Now 新聞台 
+http://livetv.dnsfor.me/channel.4.m3u8
+
 #EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
 http://livetv.dnsfor.me/channel.5.m3u8
 

@@ -137,7 +137,15 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-http://livetv.dnsfor.me/channel.1.m3u8
+http://bit.ly/2HSKUXV
+
+
+
+# http://bit.ly/2HSKUXV
+
+# http://bit.ly/2HSKX63
+
+# http://livetv.dnsfor.me/channel.1.m3u8
 
 # http://50.7.218.42:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094
 

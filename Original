@@ -85,7 +85,10 @@ http://livetv.dnsfor.me/channel.6.m3u8
 # http://61.238.6.49:8000/bysid/99
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="Hong Kong 香港",rthk31 
-http://livetv.dnsfor.me/channel.1.m3u8
+http://bit.ly/2HSKUXV
+
+
+# http://livetv.dnsfor.me/channel.1.m3u8
 
 # https://cdn.hkdtmb.com/hls/31/index.m3u8
 

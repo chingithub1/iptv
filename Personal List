@@ -4,8 +4,8 @@
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
+# http://livetv.dnsfor.me/channel.10.m3u8
 
 
 # back-up News Channel
@@ -15,8 +15,8 @@ http://livetv.dnsfor.me/channel.10.m3u8
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 
 
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
-http://livetv.dnsfor.me/channel.11.m3u8
+# EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
+# http://livetv.dnsfor.me/channel.11.m3u8
 
 
 # This is also goo  11/08/2021
@@ -109,8 +109,8 @@ http://iptv.tvfix.org/hls/j2.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="Hong Kong 香港",無綫明珠台(TVB Pearl)
-http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="Hong Kong 香港",無綫明珠台(TVB Pearl)
+# http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 
 # http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
@@ -119,8 +119,8 @@ http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320679
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
-http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
+# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
+# http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 
 # http://iptv.tvfix.org/hls/viutv.m3u8
 
@@ -132,15 +132,11 @@ http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 # https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 # 
-#EXTINF:- 1 tvg-logo="https://i.postimg.cc/Hx755xJB/download-2021-09-07-T015829-165.jpg" tvg-title="Hong Kong 香港" , Viu TV6 
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+# EXTINF:- 1 tvg-logo="https://i.postimg.cc/Hx755xJB/download-2021-09-07-T015829-165.jpg" tvg-title="Hong Kong 香港" , Viu TV6 
+# http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-# http://bit.ly/2HSKUXV
-
-
-
 http://bit.ly/2HSKUXV
 
 # http://bit.ly/2HSKX63
@@ -184,6 +180,9 @@ http://bit.ly/2HSKUXV
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="Hong Kong 香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 # EXTINF:0 tvg-id="ext" group-title="Malaysia",全佳HD
 # http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -260,8 +259,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
+# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 
 # http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
@@ -324,13 +323,13 @@ http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
 # http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/12/31/1420004775654_68.jpg" group-title="China", CCTV-9 纪录
-http://39.135.138.60:18890/TVOD/88888910/224/3221225626/index.m3u8
+# EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/12/31/1420004775654_68.jpg" group-title="China", CCTV-9 纪录
+# http://39.135.138.60:18890/TVOD/88888910/224/3221225626/index.m3u8
 
 # http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
-http://39.135.138.60:18890/TVOD/88888910/224/3221225618/index.m3u8
+# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
+# http://39.135.138.60:18890/TVOD/88888910/224/3221225618/index.m3u8
 
 # http://iptv.tvfix.org/hls/cctv1hd.m3u8
 
@@ -347,8 +346,8 @@ http://39.135.138.60:18890/TVOD/88888910/224/3221225618/index.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China",CCTV-2高清 财经
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China",CCTV-2高清 财经
+# http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 
 # http://iptv.tvfix.org/hls/cctv2hd.m3u8
 
@@ -370,8 +369,7 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
 
 # This is good
 # https://epg.pm/stream/e30266528c3416bbfe52823b47c55fa82e2297eefed6bd0ca708cace4fdbbbb2.m3u8
@@ -405,8 +403,8 @@ http://livetv.dnsfor.me/channel.2.m3u8
 
 
 
-#EXTINF:-1, Concert Channel
-http://168.232.168.242:8001/play/a00z/index.m3u8
+# EXTINF:-1, Concert Channel
+# http://168.232.168.242:8001/play/a00z/index.m3u8
 
 
 
@@ -435,7 +433,7 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 http://69.164.224.53:80/ESPN/mpegts
 
-# ttp://168.232.168.242:8000/play/a06f/index.m3u8
+# http://168.232.168.242:8000/play/a06f/index.m3u8
 
 # http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 
@@ -460,14 +458,14 @@ http://69.164.224.53:80/ESPN2/mpegts
 
 # rtmp://59.124.75.150/sat/us021
 
-#EXTINF:-1 group-title="SPORTS",TSN 1
-http://103.125.191.32:9981/stream/channelid/245777377?profile=cvaceplus
+# EXTINF:-1 group-title="SPORTS",TSN 1
+# http://103.125.191.32:9981/stream/channelid/245777377?profile=cvaceplus
 
-#EXTINF:-1 group-title="SPORTS",TSN 3
-http://103.125.191.32:9981/stream/channelid/1380132116?profile=cvaceplus
+# EXTINF:-1 group-title="SPORTS",TSN 3
+# http://103.125.191.32:9981/stream/channelid/1380132116?profile=cvaceplus
 
-#EXTINF:-1 group-title="SPORTS",TSN 5
-http://103.125.191.32:9981/stream/channelid/1375597584?profile=cvaceplus
+# EXTINF:-1 group-title="SPORTS",TSN 5
+# http://103.125.191.32:9981/stream/channelid/1375597584?profile=cvaceplus
 
 
 # EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
@@ -555,6 +553,10 @@ http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
 # EXTINF:-1 group-title="SPORTS",超级体育
 # http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://rb.gy/8cpcyd" group-title="SPORTS",  Now SPORT Prime
+http://livetv.dnsfor.me/channel.12.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title=“SPORTS”, SKY SPORT MAIN EVENTS
 http://85.245.237.73:8082/play/a004
 
@@ -620,8 +622,6 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 # http://livepulse2.uk:8080/live/88888/99999/222633.ts
 
 
-#EXTINF:-1 tvg-logo="https://rb.gy/8cpcyd" group-title="SPORTS",  Now SPORT Prime
-http://livetv.dnsfor.me/channel.12.m3u8
 
 
 
@@ -632,8 +632,6 @@ http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis 1
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis 2
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 
 
@@ -659,8 +657,7 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-#EXTINF:-1 group-title=“SPORTS”,BEIN SPORTS 1 ENG
-http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35347
+
 
 #EXTINF:-1group-title=“SPORTS”,BEIN SPORTS 3 fr
 http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35340
@@ -700,33 +697,6 @@ rtmp://59.124.75.138/sat/md051
 #   Movie Channels
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" type-title="Movies" ,CHC 高清电影
-http://iptv.tvfix.org/hls/chchd.m3u8
-
-# http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-
-#EXTINF:-1 type-title="Movies" ,CHC动作电影
-http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
-
-#EXTINF:-1, CCM(Sub Indonesia)
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-
-
-#EXTINF:-1 type-title="Movies", Celestial Movies Asia
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png group-title="Movies", Flix chinese sub
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
@@ -736,24 +706,5 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Movies", Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-# http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-
-
-
-
-
-
-#EXTINF:-1  group-title="Movies",Movies
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFLg0FP.png" group-title="ANOBYZ Movies",MOVIE SPHERE
-https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="ANOBYZ Movies",MyTime Movie Network
-https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Movies" tvg-logo="https://www.mesimvria.com/wp-content/uploads/logo-MoviesBestHDx2-1.png",Movies Group 1
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 

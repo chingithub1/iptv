@@ -240,15 +240,15 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 #EXTINF:-1group-title=“SPORTS”,BEIN SPORTS 3 fr
 http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35340
 
-#EXTINF:-group-title=“SPORTS”1,BEIN SPORT EXTRA N
+#EXTINF:-group-title=“SPORTS” ,BEIN SPORT EXTRA N
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2018/02/16/large/20180216205919772233_21.png" group-title="SPORTS",[HD]ELTA體育1
+#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2018/02/16/large/20180216205919772233_21.png" group-title="SPORTS",DELTA 體育 1
 rtmp://59.124.75.138/sat/md041
 rtmp://59.124.75.138/sat/md041
 
-#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/22/large/20161222031102586770_50.png" group-title="SPORTS",[HD]纬来体育1
+#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/22/large/20161222031102586770_50.png" group-title="SPORTS",纬来体育 1
 rtmp://59.124.75.138/sat/tv721
 
 # rtmp://59.124.75.138:1935/sat/tv721

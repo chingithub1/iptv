@@ -584,10 +584,10 @@ http://85.245.237.73:8082/play/a008
 #EXTINF:-1,group-title=“SPORTS”,Sky Sports NFL
 http://93.152.174.144:4000/play/skysports3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/220px-Logo_Eleven_Sports_2020.png" group-title="SPORTS",ELEVEN SPORTS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORTS",ELEVEN SPORTS 1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/220px-Logo_Eleven_Sports_2020.png" group-title="SPORTS",ELEVEN SPORTS 2
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg" group-title="SPORTS",ELEVEN SPORTS 2
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 
@@ -681,12 +681,12 @@ rtmp://59.124.75.138/sat/tv721
 # rtmp://59.124.75.138:1935/sat/tv721
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/220px-Logo_Eleven_Sports_2020.png" group-title="SPORTS",ELEVEN 1 (Taiwan)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORTS",ELEVEN 1 (Taiwan)
 rtmp://59.124.75.138/sat/tv731
 
 # rtmp://59.124.75.150/sat/tv731
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/220px-Logo_Eleven_Sports_2020.png" group-title="SPORTS",ELEVEN 2 (Taiwan)
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg" group-title="SPORTS",ELEVEN 2 (Taiwan)
 rtmp://59.124.75.150/sat/tv741
 
 

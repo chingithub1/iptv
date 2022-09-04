@@ -42,14 +42,14 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/95/HD_Now_news_2018.png/270px-HD_Now_news_2018.png" group-title="香港", Now 新聞台 
 http://livetv.dnsfor.me/channel.4.m3u8
 
-#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
+#EXTINF:0 tvg-logo="https://resource-tfidm-com.tfisys.com/content/img/resource/project_l/Resize_logo1598326216.jpg" group-title="香港",有線新聞台
 # http://198.204.239.194:27347/livehlsplay?channel_id=30037
 
 # This is good too
 http://livetv.dnsfor.me/channel.5.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 
 # EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
@@ -671,7 +671,7 @@ http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35340
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2018/02/16/large/20180216205919772233_21.png" group-title="SPORTS", DELTA 體育 1
+#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2018/02/16/large/20180216205919772233_21.png" group-title="SPORTS", ELTA 體育 1
 rtmp://59.124.75.138/sat/md041
 rtmp://59.124.75.138/sat/md041
 

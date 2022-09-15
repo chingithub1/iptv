@@ -16,7 +16,9 @@ http://live.cooltv.top/tv/tvb.php?id=0
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 
 
-# EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
+#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
+http://live.cooltv.top/tv/tvb.php?id=2
+
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 
@@ -24,7 +26,7 @@ http://live.cooltv.top/tv/tvb.php?id=0
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
 #EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台
-http://live.cooltv.top/tv/tvb.php?id=0
+http://live.cooltv.top/tv/tvb.php?id=1
 
 # http://iptv.tvfix.org/hls/jadenhk.m3u8
 

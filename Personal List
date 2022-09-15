@@ -280,7 +280,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="24/7 WORLD NEWS",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
-# EXTINF:-1 tvg-logo="http://tomburke.co.uk/wp-content/uploads/2014/11/sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
+#EXTINF:-1 tvg-logo="http://tomburke.co.uk/wp-content/uploads/2014/11/sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master_2.m3u8
+
+
 # https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 
 

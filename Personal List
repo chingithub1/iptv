@@ -319,7 +319,17 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s69089q.png" group-title="China",CCTV-13 新闻
-http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
+https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+
+
+# CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
+# CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+# CCTV13,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+# CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
+# CCTV13,http://125.210.152.19:9120/live/hzgq-cctvnewsgq-h264.m3u8
+# CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
+
+# http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
 
@@ -327,7 +337,18 @@ http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="China",CCTV 4
-http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
+http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+
+
+# CCTV4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+# CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
+# CCTV4,http://125.210.152.19:9120/live/hzgq-cctv4gq-h264.m3u8
+# CCTV4,http://175.10.37.200:9901/tsfile/live/0004_1.m3u8
+# CCTV4,http://218.29.55.44:808/hls/4/index.m3u8
+
+
+
+# http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
 
 
 # http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
@@ -541,8 +562,20 @@ http://69.164.224.53:80/ESPN2/mpegts
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
 # http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 
+
+https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
+
+# Other choices
+# CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+# CCTV5,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+# CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5
+# CCTV5,http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
+# CCTV5,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
+# CCTV5,http://175.10.37.200:9901/tsfile/live/0005_1.m3u8
+# CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
+
 # This one is good
-rtmp://59.124.75.138/sat/cn021
+# rtmp://59.124.75.138/sat/cn021
 
 
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
@@ -556,7 +589,15 @@ rtmp://59.124.75.138/sat/cn021
 # rtmp://58.200.131.2:1935/livetv/cctv5hd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
-http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+
+# CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
+# CCTV5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+# CCTV5+,http://xuehanwei.my03.com:8888/udp/239.253.92.82:8013
+# CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+
+
+# http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
 
 
 # This one is good

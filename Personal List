@@ -25,7 +25,12 @@ http://live.cooltv.top/tv/tvb.php?id=2
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
-# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台
+http://2022.stream-link.org/playlist/tvb_jade
+
+# Other good ones
+# http://r.jdshipin.com/qClQf
+# http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 # http://live.cooltv.top/tv/tvb.php?id=1
 
 # http://iptv.tvfix.org/hls/jadenhk.m3u8
@@ -200,8 +205,8 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Hong Kong 香港",Astro AOD 
 # http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
-# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+http://tvmvip110.club/fengh.php?id=3
 
 # http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 

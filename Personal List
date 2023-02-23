@@ -208,7 +208,9 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 # http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-http://tvmvip110.club/fengh.php?id=3
+https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+# http://tvmvip110.club/fengh.php?id=3
 
 # http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 

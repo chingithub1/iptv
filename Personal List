@@ -25,7 +25,7 @@ http://live.cooltv.top/tv/tvb.php?id=2
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Malaysia)
 http://23.237.10.66:16410
 
 # http://2022.stream-link.org/playlist/tvb_jade
@@ -64,7 +64,9 @@ http://livetv.dnsfor.me/channel.5.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 
-# EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+http://2022.stream-link.org/playlist/tvb_jade
+
 # http://iptv.tvfix.org/hls/jade2.m3u8
 
 

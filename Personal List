@@ -372,7 +372,9 @@ http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 
 # http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 
-# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="China", CCTV-1 综合
+
+http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 # http://39.135.138.60:18890/TVOD/88888910/224/3221225618/index.m3u8
 
 # http://iptv.tvfix.org/hls/cctv1hd.m3u8

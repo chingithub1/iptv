@@ -571,8 +571,8 @@ http://69.164.224.53:80/ESPN2/mpegts
 # http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 
 
-https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
-
+# https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
+https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 # Other choices
 # CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 # CCTV5,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8

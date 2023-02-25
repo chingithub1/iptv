@@ -25,6 +25,9 @@ http://live.cooltv.top/tv/tvb.php?id=2
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+http://2022.stream-link.org/playlist/tvb_jade
+
 #EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Malaysia)
 http://23.237.10.66:16410
 
@@ -51,21 +54,36 @@ http://23.237.10.66:16410
 
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/95/HD_Now_news_2018.png/270px-HD_Now_news_2018.png" group-title="香港", Now 新聞台 
-http://livetv.dnsfor.me/channel.4.m3u8
 
-#EXTINF:0 tvg-logo="https://resource-tfidm-com.tfisys.com/content/img/resource/project_l/Resize_logo1598326216.jpg" group-title="香港",有線新聞台
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
+http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+
+# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+
+# http://iptv.tvfix.org/hls/j2.m3u8
+
+
+# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+# this is new  01122022
+http://iptv.tvfix.org/hls/j2.m3u8
+
+
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/95/HD_Now_news_2018.png/270px-HD_Now_news_2018.png" group-title="香港", Now 新聞台 
+# http://livetv.dnsfor.me/channel.4.m3u8
+
+# EXTINF:0 tvg-logo="https://resource-tfidm-com.tfisys.com/content/img/resource/project_l/Resize_logo1598326216.jpg" group-title="香港",有線新聞台
 # http://198.204.239.194:27347/livehlsplay?channel_id=30037
 
 # This is good too
-http://livetv.dnsfor.me/channel.5.m3u8
+# http://livetv.dnsfor.me/channel.5.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="香港",有線財經資訊台
-http://livetv.dnsfor.me/channel.6.m3u8
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="香港",有線財經資訊台
+# http://livetv.dnsfor.me/channel.6.m3u8
 
-#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
-http://2022.stream-link.org/playlist/tvb_jade
+
 
 # http://iptv.tvfix.org/hls/jade2.m3u8
 
@@ -93,17 +111,6 @@ http://2022.stream-link.org/playlist/tvb_jade
 # https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
 
 
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-
-
-# http://iptv.tvfix.org/hls/j2.m3u8
-
-
-# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-
-# this is new  01122022
-http://iptv.tvfix.org/hls/j2.m3u8
 
 
 # EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
@@ -267,8 +274,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 # http://rv.imax.re/3Tst9ZqgUA/2dqWR5IiMh/81003
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-https://h3.ustvgo.la/MSNBC/myStream/chunks.m3u8?nimblesessionid=266662971&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDg6MzU6MzIgUE0maGFzaF92YWx1ZT1WcDF4OVlWSkZpTHZEWnplcisrb3RRPT0mdmFsaWRtaW51dGVzPTI0MA==
+# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+# https://h3.ustvgo.la/MSNBC/myStream/chunks.m3u8?nimblesessionid=266662971&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDg6MzU6MzIgUE0maGFzaF92YWx1ZT1WcDF4OVlWSkZpTHZEWnplcisrb3RRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 # http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
 
@@ -476,8 +483,8 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 # ******** SPORTS Channels.SPORTS Channels.SPORTS Channels *****
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://69.164.224.53:80/ESPN/mpegts
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+# http://69.164.224.53:80/ESPN/mpegts
 
 # http://168.232.168.242:8000/play/a06f/index.m3u8
 
@@ -499,8 +506,8 @@ http://69.164.224.53:80/ESPN/mpegts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://69.164.224.53:80/ESPN2/mpegts
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
+# http://69.164.224.53:80/ESPN2/mpegts
 
 # rtmp://59.124.75.150/sat/us021
 
@@ -741,26 +748,26 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 rtmp://59.124.75.138/sat/md041
 rtmp://59.124.75.138/sat/md041
 
-#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/22/large/20161222031102586770_50.png" group-title="SPORTS", 纬来体育 1
-rtmp://59.124.75.138/sat/tv721
+# EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/22/large/20161222031102586770_50.png" group-title="SPORTS", 纬来体育 1
+# rtmp://59.124.75.138/sat/tv721
 
 # rtmp://59.124.75.138:1935/sat/tv721
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORTS",ELEVEN 1 (Taiwan)
-rtmp://59.124.75.138/sat/tv731
+# EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORTS",ELEVEN 1 (Taiwan)
+# rtmp://59.124.75.138/sat/tv731
 
 # rtmp://59.124.75.150/sat/tv731
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a633.png" group-title="SPORTS",ELEVEN 2 (Taiwan)
-rtmp://59.124.75.150/sat/tv741
+# EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a633.png" group-title="SPORTS",ELEVEN 2 (Taiwan)
+# http://59.124.75.150/sat/tv741
 
 
 
 
 
-#EXTINF:-1  tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg" group-title="SPORTS",Fox Sport 2 Taiwan
-rtmp://59.124.75.138/sat/md051
+# EXTINF:-1  tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg" group-title="SPORTS",Fox Sport 2 Taiwan
+# rtmp://59.124.75.138/sat/md051
 
 
 

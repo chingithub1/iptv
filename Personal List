@@ -26,7 +26,10 @@ http://live.cooltv.top/tv/tvb.php?id=2
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
 #EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
-http://2022.stream-link.org/playlist/tvb_jade
+http://23.237.10.66:16106
+
+
+# http://2022.stream-link.org/playlist/tvb_jade
 
 #EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Malaysia)
 http://23.237.10.66:16410

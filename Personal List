@@ -586,11 +586,13 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
+https://live.v1.mk/aishang/cctv5hd
+
 # http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 
 
 # https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
-https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+# https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 # Other choices
 # CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 # CCTV5,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
@@ -615,7 +617,9 @@ https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 # rtmp://58.200.131.2:1935/livetv/cctv5hd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
-https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+https://live.v1.mk/aishang/cctv5p
+
+# https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 
 # CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
 # CCTV5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8

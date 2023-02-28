@@ -3,35 +3,42 @@
 #    https://bit.ly/3odvkOD 
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhe-FgPFCELaXt2HH3nn6dhk_-i5K88l_Oruy1Z-7cKQ&s" group-title="香港", Now 新聞台 
-http://livetv.dnsfor.me/channel.4.m3u8
-
-#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
-http://livetv.dnsfor.me/channel.5.m3u8
-
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
-http://livetv.dnsfor.me/channel.6.m3u8
-
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
 http://live.cooltv.top/tv/tvb.php?id=0
-
 # http://livetv.dnsfor.me/channel.10.m3u8
 
-# http://iptv.tvfix.org/hls/inews.m3u8
 
-# http://livetv.dnsfor.me/channel.10.m3u8
+# back-up News Channel
+# http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 
-#  http://m.567it.com/jade.m3u8
+# This is also goo  11/08/2021
+# http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 
-#   http://nb.iptv88888.xyz/hls/feicui.m3u8
 
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
 http://live.cooltv.top/tv/tvb.php?id=2
 
 # http://livetv.dnsfor.me/channel.11.m3u8
 
+
+# This is also goo  11/08/2021
+# http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+http://23.237.10.66:16106
+
+
+# http://2022.stream-link.org/playlist/tvb_jade
+
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Malaysia)
+http://23.237.10.66:16410
+
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 # EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
 # http://iptv.tvfix.org/hls/jadenhk.m3u8
@@ -165,12 +172,15 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
-http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+http://185.236.229.31:9981/play/a072
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
+
+# http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
 # http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-# http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 
 
 
@@ -193,8 +203,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #    https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
 
 
 #   EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Australian_News_Channel_logo.png/220px-Australian_News_Channel_logo.png" group-title="24/7 WORLD NEWS", Australia Channel
@@ -243,14 +252,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 # http://srv.maxptv.net:8080/du08/du08/20309
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://69.164.224.53:80/ESPN/mpegts
 
-# http://168.232.168.242:8000/play/a06f/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://69.164.224.53:80/ESPN2/mpegts
 
 
 
@@ -289,8 +291,7 @@ rtmp://59.124.75.138/sat/cn051
 
 # http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://rb.gy/8cpcyd" group-title="SPORTS",  Now SPORT Prime
-http://livetv.dnsfor.me/channel.12.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS” ,FS1 HD
 http://4.26.188.2:8081/udp/239.193.10.101:23901
@@ -375,8 +376,6 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title=“SPORTS”, SKY SPORT MAIN EVENTS
-http://93.152.174.144:4000/play/ssports1/index.m3u8
 
 # http://185.53.89.183/hls/main.m3u8?SBN
 

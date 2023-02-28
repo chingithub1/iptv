@@ -343,7 +343,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s69089q.png" group-title="China",CCTV-13 新闻
-https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+https://live.v1.mk/aishang/cctv5hd
+
+# https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 
 
 # CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000

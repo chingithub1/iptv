@@ -588,7 +588,7 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
-https://live.v1.mk/aishang/cctv5hd
+https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 
 # http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 

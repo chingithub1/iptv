@@ -59,8 +59,8 @@ http://23.237.10.66:16410
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
-
+# http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 # http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 

@@ -8,37 +8,56 @@ http://live.cooltv.top/tv/tvb.php?id=0
 # http://livetv.dnsfor.me/channel.10.m3u8
 
 
-# back-up News Channel
-# http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-
-# This is also goo  11/08/2021
-# http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-
-
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
 http://live.cooltv.top/tv/tvb.php?id=2
 
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN (US) 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
+# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS” ,FS1 HD
+http://4.26.188.2:8081/udp/239.193.10.101:23901
+
+
+#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1",FS2 HD
+http://4.26.188.2:8081/udp/239.193.10.102:23902
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
-#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
-http://23.237.10.66:16106
+# EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+# http://23.237.10.66:16106
 
 
 # http://2022.stream-link.org/playlist/tvb_jade
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Malaysia)
-http://23.237.10.66:16410
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Malaysia)
+# http://23.237.10.66:16410
 
 # EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
 # https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
+# http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 # EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
 # http://iptv.tvfix.org/hls/jadenhk.m3u8
@@ -95,8 +114,8 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 # http://61.238.6.49:8000/bysid/99
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="Hong Kong 香港",rthk31 
-http://bit.ly/2HSKUXV
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="Hong Kong 香港",rthk31 
+# http://bit.ly/2HSKUXV
 
 
 # http://livetv.dnsfor.me/channel.1.m3u8
@@ -107,8 +126,8 @@ http://bit.ly/2HSKUXV
 
 #  https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
-#EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="Hong Kong 香港",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+# EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="Hong Kong 香港",香港開電視
+# http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 # EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠台片集 (Malaysia)
 # https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
@@ -140,12 +159,11 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="24/7 WORLD NEWS",CNBC 新闻
 # http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN (US) 
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
+# https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 # EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
 # http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -171,32 +189,22 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
-http://185.236.229.31:9981/play/a072
+# EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
+# http://185.236.229.31:9981/play/a072
 
 
 # http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 # https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
+# EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/news/image/5542936-3x2-940x627.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+# https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #   https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 
@@ -221,11 +229,9 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #   http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.newscaststudio.com/wp-content/uploads/2017/03/cgtn-cctv-logo.jpg" group-title="24/7 WORLD NEWS", CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+# EXTINF:-1 tvg-logo="http://www.newscaststudio.com/wp-content/uploads/2017/03/cgtn-cctv-logo.jpg" group-title="24/7 WORLD NEWS", CGTN
+# https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 # EXTINF:-1 group-title="China" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
 # http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
@@ -293,18 +299,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS” ,FS1 HD
-http://4.26.188.2:8081/udp/239.193.10.101:23901
 
-# http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
-
-
-
-# 
-
-
-#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1",FS2 HD
-http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
@@ -383,7 +378,4 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 # EXTINF:-1 group-title="SPORTS” tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" , Sky Sports Premier League SD
 # http://93.152.174.144:4000/play/skysports5/index.m3u8
-
-
-
 

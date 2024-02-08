@@ -67,8 +67,11 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 # http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
-# EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
-# http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (香港)
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+
+# https://sc2022.stream-link.org/tv2306.php?id=h02
+# http://113.117.74.45:8081/hls/67/index.m3u8
 
 # http://z4.ubtvfans.com/live/390/f2814e81699e53cff473afced6a3d80e/index.m3u8
 
@@ -162,30 +165,34 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-# EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
-# https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
+http://38.96.178.201:80/live/CNNHD/index.m3u8
 
 # EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
 # http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #  http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 
-#   EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-#  http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
+http://23.237.98.42:8080/USA_CNBC/index.m3u8
+
 
 #   This one works too
 #   http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501?checkedby:hlscat.com
 
 
 
-# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-# http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+http://41.205.93.154:80/MSNBC/index.m3u8
 
 #  http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596?checkedby:hlscat.com
 
 #  https://1886592016.rsc.cdn77.org/P-JVQqNelKamB8XmmBXn-A==,1609445632/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
 
 #   https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/VIDEO_1_4596000.m3u8
+
+#EXTINF:-1 group-title=S"SPORTS", ESPN
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
 
 
@@ -262,9 +269,8 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
 
-# EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
-# http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
+http://38.96.178.201/live/NBA/index.m3u8
 
 
 

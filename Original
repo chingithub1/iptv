@@ -191,7 +191,7 @@ http://41.205.93.154:80/MSNBC/index.m3u8
 
 #   https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/VIDEO_1_4596000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AESPN_logos.png&psig=AOvVaw0Bvz60eGGrGqxA8AAILoMb&ust=1707525500629000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwirnsaogp2EAxWGPEQIHRLtAAQQr4kDegQIARBi",group-title=S"SPORTS", ESPN
+#EXTINF:-1 tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png",group-title="SPORTS", ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
 

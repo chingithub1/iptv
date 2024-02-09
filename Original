@@ -49,8 +49,8 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 # http://2022.stream-link.org/playlist/tvb_jade
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Malaysia)
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (Malaysia)
+# http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 
 # EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
 # https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -191,7 +191,7 @@ http://41.205.93.154:80/MSNBC/index.m3u8
 
 #   https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/VIDEO_1_4596000.m3u8
 
-#EXTINF:-1 group-title=S"SPORTS", ESPN
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AESPN_logos.png&psig=AOvVaw0Bvz60eGGrGqxA8AAILoMb&ust=1707525500629000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwirnsaogp2EAxWGPEQIHRLtAAQQr4kDegQIARBi",group-title=S"SPORTS", ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
 
@@ -310,8 +310,9 @@ http://38.96.178.201/live/NBA/index.m3u8
 
 
 
-# EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
-# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports EXTRA
+https://bein-xtra-bein.amagi.tv/playlist1080p.m3u8
+
 
 # http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 

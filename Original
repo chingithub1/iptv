@@ -50,7 +50,9 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 # http://2022.stream-link.org/playlist/tvb_jade
 
 #EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (香港)
-https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+http://shazui.8866.org:800/hls/80/index.m3u8
+
+# https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 # http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 # http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 

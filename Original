@@ -170,7 +170,9 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
-http://38.96.178.201:80/live/CNNHD/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
+
+# http://38.96.178.201:80/live/CNNHD/index.m3u8
 
 # EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN 
 # http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8

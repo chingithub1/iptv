@@ -72,7 +72,12 @@ http://shazui.8866.org:800/hls/80/index.m3u8
 # http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (Malaysia)
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+https://list.iptvcat.com/my_list/s/828ce7c0a928291be7cbbacc53e10a05.m3u8
+
+
+# good
+# https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+
 
 # https://sc2022.stream-link.org/tv2306.php?id=h02
 # http://113.117.74.45:8081/hls/67/index.m3u8

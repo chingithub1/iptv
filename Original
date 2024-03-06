@@ -1,4 +1,4 @@
-hi by#EXTM3U
+#EXTM3U
 #    https://goo.gl/oFh1R6. (OLD)
 #    https://bit.ly/3odvkOD 
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
@@ -204,7 +204,9 @@ http://41.205.93.154:80/MSNBC/index.m3u8
 #   https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/VIDEO_1_4596000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://38.96.178.201:80/live/ESPNHD/index.m3u8
+http://143.244.60.30/ESPN/index.m3u8
+
+# http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
 
 

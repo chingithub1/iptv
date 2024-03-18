@@ -87,7 +87,9 @@ https://list.iptvcat.com/my_list/s/828ce7c0a928291be7cbbacc53e10a05.m3u8
 
 # http://iptv.tvfix.org/hls/jade.m3u8
 
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+
 # http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 
@@ -105,7 +107,9 @@ https://list.iptvcat.com/my_list/s/828ce7c0a928291be7cbbacc53e10a05.m3u8
 # http://iptv.tvfix.org/hls/tvbws.m3u8
 
 
-# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+
 # http://iptv.tvfix.org/hls/tvbxh.m3u8
 
 
@@ -199,6 +203,10 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1, HBO PLUS
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
+#EXTINF:-1, HBO SIGNATURE
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+
+# http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
 http://41.205.93.154:80/MSNBC/index.m3u8

@@ -185,12 +185,19 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 #  http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-http://23.237.98.42:8080/USA_CNBC/index.m3u8
+http://89.187.177.137/CNBCHD/index.m3u8?token=test
+
+# http://23.237.98.42:8080/USA_CNBC/index.m3u8
 
 
 #   This one works too
 #   http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501?checkedby:hlscat.com
 
+#EXTINF:-1 HBO PLUS
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 HBO PLUS
+http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC

@@ -381,9 +381,10 @@ https://bein-xtra-bein.amagi.tv/playlist1080p.m3u8
 # rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
 
 
-# EXTINF:-1 group-title="SPORTS", 爱尔达体育2  ELTA Sport 2
-# rtmp://59.124.75.138/sat/md051
+#EXTINF:-1 group-title="SPORTS", TNT
+http://208.86.19.13:81/16.stream/index.m3u8
 
+# 
 
 # EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="SPORTS", Taiwan ELEVEN SPORT 2
 

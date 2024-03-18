@@ -193,10 +193,10 @@ http://89.187.177.137/CNBCHD/index.m3u8?token=test
 #   This one works too
 #   http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501?checkedby:hlscat.com
 
-#EXTINF:-1 HBO PLUS
+#EXTINF:-1, HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 HBO PLUS
+#EXTINF:-1, HBO PLUS
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
 
@@ -231,7 +231,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/news/image/5542936-3x2-940x627.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
-# https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #   https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 

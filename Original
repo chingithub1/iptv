@@ -1,4 +1,4 @@
-#EXTM3U
+I'll miss#EXTM3U
 #    https://goo.gl/oFh1R6. (OLD)
 #    https://bit.ly/3odvkOD 
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
@@ -208,8 +208,8 @@ http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233
 
 # http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-http://41.205.93.154:80/MSNBC/index.m3u8
+# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+# http://41.205.93.154:80/MSNBC/index.m3u8
 
 #  http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596?checkedby:hlscat.com
 
@@ -381,7 +381,10 @@ https://bein-xtra-bein.amagi.tv/playlist1080p.m3u8
 # http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
 
-# EXTINF:-1 group-title="SPORTS", 纬来体育台 (Sport)
+#EXTINF:-1 group-title="SPORTS", Fubo Sports
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+
+
 # rtmp://59.124.75.138/sat/tv721
 
 # rtmp://59.124.75.156/sat/tv721

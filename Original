@@ -1,4 +1,4 @@
-I'll miss#EXTM3U
+#EXTM3U
 #    https://goo.gl/oFh1R6. (OLD)
 #    https://bit.ly/3odvkOD 
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
@@ -33,12 +33,14 @@ http://89.187.177.137/CNBCHD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+http://143.244.60.30/ESPN/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://143.244.60.30/ESPN/index.m3u8
+
 
 # http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
@@ -75,20 +77,18 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 
 
-#EXTINF:-1 group-title="Movies", HBO Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 group-title="Movies", HBO MUNDI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO MUNDI
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
-#EXTINF:-1 group-title="Movies", HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO SIGNATURE
 http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 # http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
 
-#EXTINF:-1 group-title="Movies",Cinemax
-http://170.254.18.106/CINEMAX/index.m3u8
 
 
 

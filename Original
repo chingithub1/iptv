@@ -45,11 +45,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 # http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS” ,FS1 HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS" ,FS1 HD
 http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 
-#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS”,FS2 HD
+#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://www.dropbox.com/s/97mnth38akzu50p/download (2).jpg?dl=1" group-title="SPORTS",FS2 HD
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
@@ -77,13 +77,13 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Plus
+#EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO MUNDI
+#EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO MUNDI
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO SIGNATURE
 http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 # http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb

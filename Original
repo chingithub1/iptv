@@ -58,7 +58,10 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 #EXTINF:-1 group-title="SPORTS", TNT
-http://208.86.19.13:81/16.stream/index.m3u8
+http://170.254.18.106/TNT/index.m3u8
+
+# This is also good. lower resoultions
+# http://208.86.19.13:81/16.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
@@ -98,6 +101,11 @@ http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233
 #EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO
 http://41.205.93.154/HBO/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO HD
+https://edge1.laotv.la/live/HBO/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO 2
+http://170.254.18.106/HBO2/index.m3u8
 
 
 

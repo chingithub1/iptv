@@ -95,9 +95,8 @@ http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233
 # EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
 # http://41.205.93.154:80/MSNBC/index.m3u8
 
-#EXTINF: -1 group-title="Movies", Movie Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-
+#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO
+http://41.205.93.154/HBO/index.m3u8
 
 
 

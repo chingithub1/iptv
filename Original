@@ -4,19 +4,18 @@
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=73.231.200.27~st=1713398329~exp=1713484729~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/*~hmac=123c45dea23d7cb31ba1a9d321b29f5ba5a5874dc2aa4d6caedef9d538c0cd5c&p=3324&mode=admarker,ticks
-# http://live.cooltv.top/tv/tvb.php?id=0
+http://live.cooltv.top/tv/tvb.php?id=0
 # http://livetv.dnsfor.me/channel.10.m3u8
 
 
-# EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
-# http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
+http://live.cooltv.top/tv/tvb.php?id=2
 
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
-http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 J2
+# http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河

@@ -30,7 +30,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-http://89.187.177.137/CNBCHD/index.m3u8?token=test
+https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
+# http://89.187.177.137/CNBCHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -59,7 +60,7 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-#EXTINF:-1 group-title="SPORTS", TNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEk5SnElrQLSI3vYS_7xqKHfRSpEtHIPd72Fjl2CmxJw&s" group-title="SPORTS", TNT
 http://170.254.18.106/TNT/index.m3u8
 
 # This is also good. lower resoultions
@@ -89,12 +90,14 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO SIGNATURE
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/hbosighd_qp.m3u8
+
+# http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 # http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
-
-
+#EXTINF: -1 group-title="Movies", 澳门莲花 电影
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 
 # EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC

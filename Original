@@ -94,8 +94,8 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO MUNDI
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO SIGNATURE
-http://170.254.18.106/HBO_SIG/index.m3u8
+# EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO SIGNATURE
+# http://170.254.18.106/HBO_SIG/index.m3u8
 
 # https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/hbosighd_qp.m3u8
 
@@ -103,8 +103,7 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 
 # http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
-#EXTINF: -1 group-title="Movies", 澳门莲花 电影
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
 
 
 # EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
@@ -120,11 +119,15 @@ https://edge1.laotv.la/live/HBO/index.m3u8
 http://170.254.18.106/HBO2/index.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Extreme
+#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
 #EXTINF: -1 tvg-log="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIDy5IoCk3U_6M1m5-JjfCP5HHQuJTXePrHnpx3Pu7w&s" group-title="Movies", 天映频道 电影
 http://210.210.155.37/dr9445/h/h14/index.m3u8
+
+
+#EXTINF: -1 group-title="Movies", 澳门莲花 电影
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 # EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
 # https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8

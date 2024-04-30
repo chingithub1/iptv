@@ -122,8 +122,8 @@ http://170.254.18.106/HBO2/index.m3u8
 #EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
-#EXTINF: -1 tvg-log="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIDy5IoCk3U_6M1m5-JjfCP5HHQuJTXePrHnpx3Pu7w&s" group-title="Movies", 天映频道 电影
-http://210.210.155.37/dr9445/h/h14/index.m3u8
+# EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIDy5IoCk3U_6M1m5-JjfCP5HHQuJTXePrHnpx3Pu7w&s" group-title="Movies", 天映频道 电影
+# http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 
 #EXTINF: -1 group-title="Movies", 澳门莲花 电影

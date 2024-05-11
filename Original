@@ -1,4 +1,4 @@
-lol#EXTM3U
+#EXTM3U
 #    https://goo.gl/oFh1R6. (OLD)
 #    https://bit.ly/3odvkOD 
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
@@ -27,6 +27,10 @@ https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+
+#EXTINF: -1 group-title'"Hong Kong 香港", 凤凰香港
+http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN (US) 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8

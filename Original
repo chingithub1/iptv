@@ -139,8 +139,11 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 # EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
 # https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
+#EXTINF: -1 group-title="SPORTS", Premier Sport 1
+http://202.21.104.6:88/sps-prime/index.m3u8
 
-
+#EXTINF: -1 group-title="SPORTS", Premier Sport 2
+http://202.21.104.6:88/sps-play/index.m3u8
 
 # EXTINF:-1 group-title="General", Smithsonian Channel
 # http://srv.maxptv.net:8080/du08/du08/20309

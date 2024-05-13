@@ -21,6 +21,9 @@ http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZwu25tUJ3Z3JNZ0tyT4O-i_4EJt6agQeNovoALjYHKb_rusduWkZ1oQpKtJRtcbx&usqp=CAU" group-title="Hong Kong 香港”,TVB J1 (US)
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (香港)
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
@@ -136,6 +139,9 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF: -1 group-title="Movies", 澳门莲花 电影
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
+#EXTINF: -1 group-title="Movies", Movie Channel
+https://pull.kktv8.com/livekktv/128600025.flv
+
 # EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
 # https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
@@ -144,6 +150,10 @@ http://202.21.104.6:88/sps-prime/index.m3u8
 
 #EXTINF: -1 group-title="SPORTS", Premier Sport 2
 http://202.21.104.6:88/sps-play/index.m3u8
+
+#EXTINF: -1 group-title="SPORTS", 爱尔达体育1台
+https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+
 
 # EXTINF:-1 group-title="General", Smithsonian Channel
 # http://srv.maxptv.net:8080/du08/du08/20309
@@ -165,7 +175,8 @@ http://202.21.104.6:88/sps-play/index.m3u8
 
 # http://2022.stream-link.org/playlist/tvb_jade
 
-# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (香港)
+
+
 # http://shazui.8866.org:800/hls/80/index.m3u8
 
 # https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8

@@ -8,6 +8,58 @@ http://live.cooltv.top/tv/tvb.php?id=0
 # http://livetv.dnsfor.me/channel.10.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN (US) 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
+https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
+# http://89.187.177.137/CNBCHD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+http://143.244.60.30/ESPN/index.m3u8
+
+# http://38.96.178.201:80/live/ESPNHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEk5SnElrQLSI3vYS_7xqKHfRSpEtHIPd72Fjl2CmxJw&s" group-title="SPORTS", TNT
+http://170.254.18.106/TNT/index.m3u8
+
+# This is also good. lower resoultions
+# http://208.86.19.13:81/16.stream/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
+https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+
+# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+# http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
 http://live.cooltv.top/tv/tvb.php?id=2
 
@@ -21,7 +73,7 @@ http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZwu25tUJ3Z3JNZ0tyT4O-i_4EJt6agQeNovoALjYHKb_rusduWkZ1oQpKtJRtcbx&usqp=CAU" group-title="Hong Kong 香港”,TVB J1 (US)
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (香港)
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name=" group-title="Hong Kong 香港", 翡翠台 (香港)
 https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 
 
@@ -37,32 +89,6 @@ https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
 http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-500x250.png" group-title="24/7 WORLD NEWS",CNN (US) 
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
-https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
-# http://89.187.177.137/CNBCHD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://143.244.60.30/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB)
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-
-
-
-# http://38.96.178.201:80/live/ESPNHD/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
 http://4.26.188.2:8081/udp/239.193.10.101:23901
 
@@ -71,32 +97,6 @@ http://4.26.188.2:8081/udp/239.193.10.101:23901
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEk5SnElrQLSI3vYS_7xqKHfRSpEtHIPd72Fjl2CmxJw&s" group-title="SPORTS", TNT
-http://170.254.18.106/TNT/index.m3u8
-
-# This is also good. lower resoultions
-# http://208.86.19.13:81/16.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-
-# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
-# http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
@@ -145,14 +145,14 @@ https://pull.kktv8.com/livekktv/128600025.flv
 # EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
 # https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF: -1 group-title="SPORTS", Premier Sport 1
-http://202.21.104.6:88/sps-prime/index.m3u8
+# EXTINF: -1 group-title="SPORTS", Premier Sport 1
+# http://202.21.104.6:88/sps-prime/index.m3u8
 
-#EXTINF: -1 group-title="SPORTS", Premier Sport 2
-http://202.21.104.6:88/sps-play/index.m3u8
+# EXTINF: -1 group-title="SPORTS", Premier Sport 2
+# ://202.21.104.6:88/sps-play/index.m3u8
 
-#EXTINF: -1 group-title="SPORTS", 爱尔达体育1台
-https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+# EXTINF: -1 group-title="SPORTS", 爱尔达体育1台
+# https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 
 
 # EXTINF:-1 group-title="General", Smithsonian Channel

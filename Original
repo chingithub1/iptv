@@ -75,9 +75,9 @@ http://live.cooltv.top/tv/tvb.php?id=2
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name=" group-title="Hong Kong 香港", 翡翠台 (香港)
-https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+# https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 
-# https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台

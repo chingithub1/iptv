@@ -29,8 +29,8 @@ http://170.254.18.106/TNT/index.m3u8
 # This is also good. lower resoultions
 # http://208.86.19.13:81/16.stream/index.m3u8
 
-
-
+#EXTINF:-1 group-title="SPORTS", NBA TV
+https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV

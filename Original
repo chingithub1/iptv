@@ -29,8 +29,8 @@ http://170.254.18.106/TNT/index.m3u8
 # This is also good. lower resoultions
 # http://208.86.19.13:81/16.stream/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS", NBA TV
-https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
+# EXTINF:-1 group-title="SPORTS", NBA TV
+# https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV
@@ -46,6 +46,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
 https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 

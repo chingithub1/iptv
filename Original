@@ -155,8 +155,8 @@ https://pull.kktv8.com/livekktv/128600025.flv
 # EXTINF: -1 group-title="SPORTS", Premier Sport 2
 # ://202.21.104.6:88/sps-play/index.m3u8
 
-#EXTINF: -1 group-title="SPORTS", 纬来体育
-https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
+# EXTINF: -1 group-title="SPORTS", 纬来体育
+# https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
 
 # EXTINF:-1 group-title="General", Smithsonian Channel
 # http://srv.maxptv.net:8080/du08/du08/20309

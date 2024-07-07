@@ -23,13 +23,13 @@ http://143.244.60.30/ESPN/index.m3u8
 
 # http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEk5SnElrQLSI3vYS_7xqKHfRSpEtHIPd72Fjl2CmxJw&s" group-title="SPORTS", TNT
-http://170.254.18.106/TNT/index.m3u8
+# EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEk5SnElrQLSI3vYS_7xqKHfRSpEtHIPd72Fjl2CmxJw&s" group-title="SPORTS", TNT
+# http://170.254.18.106/TNT/index.m3u8
 
 # This is also good. lower resoultions
 # http://208.86.19.13:81/16.stream/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS", NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="SPORTS", NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 # https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
 

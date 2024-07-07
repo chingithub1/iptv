@@ -131,7 +131,7 @@ http://41.205.93.154/HBO/index.m3u8
 # https://edge1.laotv.la/live/HBO/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO 2
-http://170.254.18.106/HBO2/index.m3u8
+http://212.102.60.231/HBO_2/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Signature

@@ -312,7 +312,9 @@ https://pull.kktv8.com/livekktv/128600025.flv
 
 
 
-# EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="SPORTS", NFL Network
+http://fangke.blueswords.com:9901/tsfile/live/0005_1.m3u8
+
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
@@ -321,7 +323,7 @@ https://pull.kktv8.com/livekktv/128600025.flv
 
 
 
-# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
 # rtmp://59.124.75.138/sat/cn021
 
 
@@ -335,7 +337,9 @@ https://pull.kktv8.com/livekktv/128600025.flv
 
 # rtmp://58.200.131.2:1935/livetv/cctv5hd
 
-# EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
+http://fxgm.fxjf.work:19901/tsfile/live/0016_1.m3u8
+
 # rtmp://59.124.75.138/sat/cn051
 
 

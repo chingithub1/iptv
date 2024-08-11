@@ -18,8 +18,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 # https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
 # http://89.187.177.137/CNBCHD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://143.244.60.30/ESPN/index.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+# http://143.244.60.30/ESPN/index.m3u8
 
 # http://38.96.178.201:80/live/ESPNHD/index.m3u8
 

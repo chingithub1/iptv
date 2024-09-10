@@ -48,8 +48,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 # EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
 # https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
+# https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 
 # http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
@@ -81,8 +81,8 @@ http://live.cooltv.top/tv/tvb.php?id=2
 # https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
-https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+# EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
+# https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -90,8 +90,8 @@ https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
 https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+# EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
+#:http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
 http://4.26.188.2:8081/udp/239.193.10.101:23901
@@ -103,8 +103,8 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/250px-CBS_Sports_logo.svg.png?20180325235619" group-title=“SPORTS”, CBS SPorts
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/250px-CBS_Sports_logo.svg.png?20180325235619" group-title=“SPORTS”, CBS SPorts
+# https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
 # EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Plus
 # http://170.254.18.106/HBO_PLUS/index.m3u8
@@ -323,8 +323,8 @@ https://pull.kktv8.com/livekktv/128600025.flv
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
-http://fangke.blueswords.com:9901/tsfile/live/0005_1.m3u8
+# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
+#:http://fangke.blueswords.com:9901/tsfile/live/0005_1.m3u8
 
 # rtmp://59.124.75.138/sat/cn021
 
@@ -339,8 +339,8 @@ http://fangke.blueswords.com:9901/tsfile/live/0005_1.m3u8
 
 # rtmp://58.200.131.2:1935/livetv/cctv5hd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
-http://fxgm.fxjf.work:19901/tsfile/live/0016_1.m3u8
+# EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
+# http://fxgm.fxjf.work:19901/tsfile/live/0016_1.m3u8
 
 # rtmp://59.124.75.138/sat/cn051
 

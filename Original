@@ -1,4 +1,4 @@
-no I'm#EXTM3U
+#EXTM3U
 #    https://goo.gl/oFh1R6. (OLD)
 #    https://bit.ly/3odvkOD 
 #    https://tinyurl.com/396pvpw8.  (Amazon Devices)
@@ -18,7 +18,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
 # https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
 # http://89.187.177.137/CNBCHD/index.m3u8?token=test
 
@@ -155,6 +157,10 @@ http://212.102.60.231/HBO_2/index.m3u8
 #EXTINF: -1 group-title="Movies", Movie Channel
 https://pull.kktv8.com/livekktv/128600025.flv
 
+
+
+
+
 # EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
 # https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
@@ -171,8 +177,51 @@ https://pull.kktv8.com/livekktv/128600025.flv
 # http://srv.maxptv.net:8080/du08/du08/20309
 
 
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Live Channels",HBO2 East
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Live Channels",HBO Zone East
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u
 
 
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Live Channels",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Live Channels",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels",Paramount Network East
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels",Showtime East
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels",Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Live Channels",Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Live Channels",Showtime Next East
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Live Channels",Sony Movie Channel
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels",Starz East
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Live Channels",Starz Edge East
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Live Channels",Starz Encore East
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Live Channels",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="TCMPacific.us" tvg-name="TCM West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels",TCM (Turner Classic Movies) West
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 
 
 

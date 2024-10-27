@@ -20,11 +20,17 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
+# TV APP channels (GOOD)
+# https://v8.thetvapp.to/hls/CNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
+
 
 # https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
 # http://89.187.177.137/CNBCHD/index.m3u8?token=test
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+https://v8.thetvapp.to/hls/ESPN/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
+
+
 # http://143.244.60.30/ESPN/index.m3u8
 
 # http://38.96.178.201:80/live/ESPNHD/index.m3u8
@@ -131,7 +137,9 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+https://v8.thetvapp.to/hls/MSNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
+
 # http://41.205.93.154:80/MSNBC/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO
@@ -144,7 +152,9 @@ http://41.205.93.154/HBO/index.m3u8
 http://212.102.60.231/HBO_2/index.m3u8
 
 
-# EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Signature
+#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Signature
+https://v8.thetvapp.to/hls/HBOSignatureEast/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
+
 # http://170.254.18.106/HBO_SIG/index.m3u8
 
 # EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIDy5IoCk3U_6M1m5-JjfCP5HHQuJTXePrHnpx3Pu7w&s" group-title="Movies", 天映频道 电影
@@ -181,7 +191,9 @@ https://pull.kktv8.com/livekktv/128600025.flv
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Live Channels",HBO Zone East
-http://fl2.moveonjoy.com/HBO_ZONE/index.m3u
+https://v8.thetvapp.to/hls/MSNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
+
+# http://fl2.moveonjoy.com/HBO_ZONE/index.m3u
 
 
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Live Channels",NBA TV

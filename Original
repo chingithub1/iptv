@@ -28,14 +28,14 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 # http://89.187.177.137/CNBCHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-https://v8.thetvapp.to/hls/ESPN/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
 
+https://v12.thetvapp.to/hls/ESPN/index.m3u8?token=dFdrMmJBWE9qeGt1MXZ2OHhwaXRzUjB5Wk5saHNvODVFUFRiSnY0Qw==
 
 # http://143.244.60.30/ESPN/index.m3u8
 
 # http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS", ESPN2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN2
 https://v12.thetvapp.to/hls/ESPN2/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEk5SnElrQLSI3vYS_7xqKHfRSpEtHIPd72Fjl2CmxJw&s" group-title="SPORTS", TNT
@@ -190,7 +190,7 @@ https://pull.kktv8.com/livekktv/128600025.flv
 # http://srv.maxptv.net:8080/du08/du08/20309
 
 
-#EXTINF:-1 group-title="Movies", HBO Family East
+#EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Family East
 https://v13.thetvapp.to/hls/HBOFamilyEast/index.m3u8?token=Y05rZ3p0MnVrM0w1OXRoUzNYQTM3dWVVTk1sVTcwcXhNVmtEdVpFTA==
 
 

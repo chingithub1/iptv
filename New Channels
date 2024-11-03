@@ -2,20 +2,5 @@
 
 
 
-#EXTINF: -1,有线新聞
-http://198.204.239.194:27347/livehlsplay?channel_id=30037
-
-#EXTINF: -1, J2
-https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
-
-#EXTINF: -1,Cctv-4
-http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
-
-#EXTINF: -1,cctv-5+
-http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
-
-#EXTINF: -1, cctv-13
-http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
-
-#EXTINF: -1,  鳳凰資訊
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF: -1,HK channels
+http:aktv.top/live.m3u

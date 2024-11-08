@@ -9,8 +9,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 # A new one
 # http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
+# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
 # http://live.cooltv.top/tv/tvb.php?id=0
 # http://livetv.dnsfor.me/channel.10.m3u8
@@ -87,18 +87,18 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 TVB Plus
+# http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+# EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
+# http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合台
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+# EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合台
+# http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 
 
 # EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZwu25tUJ3Z3JNZ0tyT4O-i_4EJt6agQeNovoALjYHKb_rusduWkZ1oQpKtJRtcbx&usqp=CAU" group-title="Hong Kong 香港”,TVB J1 (US)
@@ -111,26 +111,26 @@ http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 # https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+# EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
+# http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港", TVB 黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+# #EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港", TVB 黃金翡翠台
+# http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 
 
 # https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
-http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+# http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 
 # https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 
 # EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
 # https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+# EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
+# http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 
 

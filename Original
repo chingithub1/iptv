@@ -49,7 +49,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 # http://208.86.19.13:81/16.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="SPORTS", NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+# http://212.102.60.231/NBA_TV/index.m3u8
 # https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
 
 
@@ -78,8 +80,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+# EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
+# https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 # EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
 # http://live.cooltv.top/tv/tvb.php?id=2
@@ -180,8 +182,8 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 # EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO HD
 # https://edge1.laotv.la/live/HBO/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO 2
-http://212.102.60.231/HBO_2/index.m3u8
+# EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO 2
+#  http://212.102.60.231/HBO_2/index.m3u8
 
 
 # EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Signature
@@ -231,8 +233,8 @@ http://fl2.moveonjoy.com/HBO_2/index.m3u8
 # https://v12.thetvapp.to/hls/HBOComedyEast/index.m3u8?token=dFdrMmJBWE9qeGt1MXZ2OHhwaXRzUjB5Wk5saHNvODVFUFRiSnY0Qw==
 
 
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+# EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
+# http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8

@@ -80,41 +80,14 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-# EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
+https://c.mjh.nz/abc-nsw.m3u8
+
 # https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-# EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
-# http://live.cooltv.top/tv/tvb.php?id=2
-
-# http://livetv.dnsfor.me/channel.11.m3u8
-
-
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 TVB Plus
-# http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-
-# http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
-
-
-# EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
-# http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-
-
-# EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合台
-# http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-
-
-# EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZwu25tUJ3Z3JNZ0tyT4O-i_4EJt6agQeNovoALjYHKb_rusduWkZ1oQpKtJRtcbx&usqp=CAU" group-title="Hong Kong 香港”,TVB J1 (US)
-# https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 
 
-# https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
-
-# https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-
-
-# EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
-# http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 
 
 # #EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港", TVB 黃金翡翠台
@@ -217,12 +190,17 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 
 
 
-# EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Family East
+#EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+
 # https://v13.thetvapp.to/hls/HBOFamilyEast/index.m3u8?token=Y05rZ3p0MnVrM0w1OXRoUzNYQTM3dWVVTk1sVTcwcXhNVmtEdVpFTA==
 
 
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Movies",HBO2 East
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 group-title="Movies",CINEMAX
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 # EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Movies",HBO Zone East
 # https://v12.thetvapp.to/hls/HBOZoneEast/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
@@ -254,8 +232,8 @@ http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Movies",Showtime Next East
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Movies",Sony Movie Channel
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+# EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Movies",Sony Movie Channel
+# https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Movies",Starz East
 http://fl2.moveonjoy.com/STARZ/index.m3u8
@@ -273,13 +251,61 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 
 
-# EXTINF:-1 group-title="Movies",CINEMAX
+#EXTINF:-1 group-title="BBC" ,UK | BBC One
+http://51.155.140.255:55555/BBC%20ONE%20NWstHD
+
+
+#EXTINF:-1 group-title="BBC" ,UK | BBC Two
+http://51.155.140.255:55555/BBC%20TWO%20HD
+
+
+#EXTINF:-1 group-title="BBC" ,UK | BBC Four
+http://51.155.140.255:55555/BBC%20FOUR%20HD
+
+
+
+
+
 # https://v12.thetvapp.to/hls/CinemaxEast/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
 
 
 
 
 # ********************************************  
+
+
+# EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
+# http://live.cooltv.top/tv/tvb.php?id=2
+
+# http://livetv.dnsfor.me/channel.11.m3u8
+
+
+# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 TVB Plus
+# http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+
+# http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+
+
+# EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
+# http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+
+
+# EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合台
+# http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+
+
+# EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZwu25tUJ3Z3JNZ0tyT4O-i_4EJt6agQeNovoALjYHKb_rusduWkZ1oQpKtJRtcbx&usqp=CAU" group-title="Hong Kong 香港”,TVB J1 (US)
+# https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
+
+
+# https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+
+# https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+
+
+# EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
+# http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 
 
 # http://23.237.10.66:16106

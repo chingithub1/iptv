@@ -266,6 +266,15 @@ http://51.155.140.255:55555/BBC%20FOUR%20HD
 http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
 
 
+#EXTINF: -1 group-title="Korea", KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+
+
+#EXTINF: -1 group-title="Korea", Korean TV
+https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
+
+
 # https://v12.thetvapp.to/hls/CinemaxEast/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
 
 

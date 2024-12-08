@@ -148,31 +148,6 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 #EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
 
-# http://41.205.93.154/HBO/index.m3u8
-
-# EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO HD
-# https://edge1.laotv.la/live/HBO/index.m3u8
-
-# EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO 2
-#  http://212.102.60.231/HBO_2/index.m3u8
-
-
-# EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Signature
-# https://v8.thetvapp.to/hls/HBOSignatureEast/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
-
-# http://170.254.18.106/HBO_SIG/index.m3u8
-
-# EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIDy5IoCk3U_6M1m5-JjfCP5HHQuJTXePrHnpx3Pu7w&s" group-title="Movies", 天映频道 电影
-# http://210.210.155.37/dr9445/h/h14/index.m3u8
-
-
-# EXTINF: -1 group-title="Movies", 澳门莲花 电影
-# https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-
-# EXTINF: -1 group-title="Movies", Movie Channel
-# https://pull.kktv8.com/livekktv/128600025.flv
-
-
 
 
 
@@ -195,17 +170,7 @@ http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movies",CINEMAX
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-# EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Movies",HBO Zone East
-# https://v12.thetvapp.to/hls/HBOZoneEast/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
 
-# http://fl2.moveonjoy.com/HBO_ZONE/index.m3u
-
-# EXTINF:-1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO Comedy HD
-# https://v12.thetvapp.to/hls/HBOComedyEast/index.m3u8?token=dFdrMmJBWE9qeGt1MXZ2OHhwaXRzUjB5Wk5saHNvODVFUFRiSnY0Qw==
-
-
-# EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
-# http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 
 
@@ -254,8 +219,8 @@ http://51.155.140.255:55555/BBC%20TWO%20HD
 #EXTINF:-1 group-title="BBC" ,UK | BBC Four
 http://51.155.140.255:55555/BBC%20FOUR%20HD
 
-#EXTINF: -1 group-title="Korea", Korea SBS
-http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
+#EXTINF: -1 group-title="Korea", KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 
 
 #EXTINF: -1 group-title="Korea", KBS WORLD
@@ -263,8 +228,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 
 
-#EXTINF: -1 group-title="Korea", Korean TV
-https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
+#EXTINF: -1 group-title="Korea", TVN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 
 
 #EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
@@ -276,9 +241,9 @@ http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:21 group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
-#EXTINF:24 group-title="Hong Kong 香港" tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png", 翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-
+# EXTINF:24 group-title="Hong Kong 香港" tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png", 翡翠台
+# http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+# GOOD GOOD GOOD !!!!!
 
 #EXTINF:15 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 千禧經典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
@@ -293,10 +258,10 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 
 
-#EXTINF:36 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now星影台
+#EXTINF:36 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now 星影台
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 
-#EXTINF:37 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now爆谷台
+#EXTINF:37 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now 爆谷台
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 # https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8

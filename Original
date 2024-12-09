@@ -226,6 +226,8 @@ http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 #EXTINF: -1 group-title="Korea", KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
+#EXTINF: -1 group-title="Korea", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
 #EXTINF: -1 group-title="Korea", TVN

@@ -209,15 +209,21 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 
 #EXTINF:-1 group-title="BBC" ,UK | BBC One
-http://51.155.140.255:55555/BBC%20ONE%20NWstHD
+https://xyzdddd.mizhls.ru/lb/premium356/index.m3u8
+
+# http://51.155.140.255:55555/BBC%20ONE%20NWstHD
 
 
 #EXTINF:-1 group-title="BBC" ,UK | BBC Two
-http://51.155.140.255:55555/BBC%20TWO%20HD
+https://xyzdddd.mizhls.ru/lb/premium357/index.m3u8
+
+# http://51.155.140.255:55555/BBC%20TWO%20HD
 
 
 #EXTINF:-1 group-title="BBC" ,UK | BBC Four
-http://51.155.140.255:55555/BBC%20FOUR%20HD
+https://xyzdddd.mizhls.ru/lb/premium359/index.m3u8
+
+# http://51.155.140.255:55555/BBC%20FOUR%20HD
 
 #EXTINF: -1 group-title="Korea", KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
@@ -406,6 +412,8 @@ http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 # EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠台片集 (Malaysia)
 # https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
 
+#EXTINF:0 , Sky ARTs
+https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
 
 
 #EXTINF:0 group-title="SPORTS", Now Sports

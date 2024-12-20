@@ -261,10 +261,10 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 
 
-#EXTINF:36 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now 星影台
+#EXTINF:=1 group-title="Hong Kong 香港", Now 星影台
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 
-#EXTINF:37 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now 爆谷台
+#EXTINF:-1 group-title="Hong Kong 香港", Now 爆谷台
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 # https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
@@ -285,8 +285,8 @@ https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad20
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 TVB Plus
-# http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
@@ -299,72 +299,9 @@ https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad20
 # http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 
 
-# EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZwu25tUJ3Z3JNZ0tyT4O-i_4EJt6agQeNovoALjYHKb_rusduWkZ1oQpKtJRtcbx&usqp=CAU" group-title="Hong Kong 香港”,TVB J1 (US)
-# https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-
-
-
-# https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
-
-# https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-
-
-# http://23.237.10.66:16106
-
-
-# http://2022.stream-link.org/playlist/tvb_jade
-
-
-
-# http://shazui.8866.org:800/hls/80/index.m3u8
-
-# https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-# http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-# http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 
 # EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
 # https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-
-
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png" group-title="China" ,凤凰资讯台 Pheonix Information
-# http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-
-# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港”, 翡翠台 (海外版)
-# http://iptv.tvfix.org/hls/jadenhk.m3u8
-
-
-# http://iptv.tvfix.org/hls/jadenhk2.m3u8
-
-# http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-
-# EXTINF:-1 ,tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港”,翡翠台 (Malaysia)
-# https://list.iptvcat.com/my_list/s/828ce7c0a928291be7cbbacc53e10a05.m3u8
-
-
-# good
-# https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-
-# https://sc2022.stream-link.org/tv2306.php?id=h02
-# http://113.117.74.45:8081/hls/67/index.m3u8
-
-# http://z4.ubtvfans.com/live/390/f2814e81699e53cff473afced6a3d80e/index.m3u8
-
-
-# http://iptv.tvfix.org/hls/jade.m3u8
-
-
-# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-
-
-# http://iptv.tvfix.org/hls/j2.m3u8
-
-
-
-# http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-
-# this is new  01122022
-# http://iptv.tvfix.org/hls/j2.m3u8
 
 
 # EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
@@ -372,11 +309,6 @@ https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad20
 
 
 
-
-# http://iptv.tvfix.org/hls/tvbxh.m3u8
-
-
-# http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 
 # EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB功夫台
@@ -389,23 +321,7 @@ http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 
 
 
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="Hong Kong 香港",rthk31 
-# http://bit.ly/2HSKUXV
 
-
-# http://livetv.dnsfor.me/channel.1.m3u8
-
-# https://cdn.hkdtmb.com/hls/31/index.m3u8
-
-# https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-
-#  https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-
-# EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="Hong Kong 香港",香港開電視
-# http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-# EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="Hong Kong 香港",翡翠台片集 (Malaysia)
-# https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350732527
 
 # EXTINF:0 , Sky ARTs
 # https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8

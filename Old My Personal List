@@ -40,9 +40,9 @@ https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c9
 https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
 
 
-#EXTINF:-1 ,tvb 无线财经
+# EXTINF:-1 ,tvb 无线财经
 
-https://stream1.freetv.fun/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv
+# https://stream1.freetv.fun/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv
 
 
 
@@ -50,12 +50,14 @@ https://stream1.freetv.fun/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e537
 
 https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
 
-#EXTINF:-1,凤凰卫视香港
+# EXTINF:-1,凤凰卫视香港
 
-https://stream1.freetv.fun/169d769e40dfe46931c8376b8f2ff9758a3132888a172aae168d6c9a101fe5ea.ctv
+# https://stream1.freetv.fun/169d769e40dfe46931c8376b8f2ff9758a3132888a172aae168d6c9a101fe5ea.ctv
 
 
+#EXTINF:-1,tvb 无线娱乐新闻
 
+https://stream1.freetv.fun/64ad7d68a726b6741c1053cd1e48ec14956bb1093950788b85b46f3c74b119be.ctv
 
 
 

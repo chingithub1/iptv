@@ -1,13 +1,21 @@
 #EXTM3U
-#    https://goo.gl/oFh1R6. (OLD)
+
 #    https://bit.ly/3odvkOD 
-#    https://tinyurl.com/396pvpw8.  (Amazon Devices)
 
 
-#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港", 翡翠台 (香港)
+#EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港", 翡翠台 
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
 # A new one
 # http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+
+
+#EXTINF:21 group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
+https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.ctv
+
+# good
+# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+
 
 # EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
 # http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -126,7 +134,9 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/143.m3u8
+
 # https://v8.thetvapp.to/hls/MSNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
 
 # http://41.205.93.154:80/MSNBC/index.m3u8
@@ -195,7 +205,9 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 
 #EXTINF:-1 group-title="BBC" ,UK | BBC One
-http://51.155.140.255:55555/BBC%20ONE%20NWstHD
+https://xyzdddd.mizhls.ru/lb/premium356/index.m3u8
+
+# http://51.155.140.255:55555/BBC%20ONE%20NWstHD
 
 
 #EXTINF:-1 group-title="BBC" ,UK | BBC Two
@@ -204,6 +216,10 @@ http://51.155.140.255:55555/BBC%20TWO%20HD
 
 #EXTINF:-1 group-title="BBC" ,UK | BBC Four
 http://51.155.140.255:55555/BBC%20FOUR%20HD
+
+#EXTINF:-1 group-title="BBC" ,UK | Sky Art
+https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
+
 
 #EXTINF: -1 group-title="Korea", KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
@@ -226,8 +242,6 @@ http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 
-#EXTINF:21 group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
 # EXTINF:24 group-title="Hong Kong 香港" tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png", 翡翠台
 # http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
@@ -246,11 +260,11 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 
 
-#EXTINF:=1 group-title="Hong Kong 香港", Now 星影台
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+# EXTINF:=1 group-title="Hong Kong 香港", Now 星影台
+# http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 
-#EXTINF:-1 group-title="Hong Kong 香港", Now 爆谷台
-http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+# EXTINF:-1 group-title="Hong Kong 香港", Now 爆谷台
+# http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 # https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 

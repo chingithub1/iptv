@@ -208,17 +208,6 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 
 
-#EXTINF:-1 group-title="BBC" ,UK | BBC One
-http://51.155.140.255:55555/BBC%20ONE%20NWstHD
-
-
-#EXTINF:-1 group-title="BBC" ,UK | BBC Two
-http://51.155.140.255:55555/BBC%20TWO%20HD
-
-
-#EXTINF:-1 group-title="BBC" ,UK | BBC Four
-http://51.155.140.255:55555/BBC%20FOUR%20HD
-
 
 
 #EXTINF: -1 group-title="Korea", KIX
@@ -247,16 +236,17 @@ http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 # http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 # GOOD GOOD GOOD !!!!!
 
-#EXTINF:15 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 千禧經典台
+#EXTINF:15 group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 
+#EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
+https://stream1.freetv.fun/ming-zhu-1.ctv
 
-
-#EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港", TVB 黃金翡翠台
+#EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="Hong Kong 香港", 黃金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 
 
@@ -284,7 +274,7 @@ https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad20
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="Hong Kong 香港",無線 TVB Plus
+#EXTINF:0 tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70

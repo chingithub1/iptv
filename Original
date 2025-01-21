@@ -246,7 +246,8 @@ http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
-https://stream1.freetv.fun/ming-zhu-7.ctv
+https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
+# https://stream1.freetv.fun/ming-zhu-7.ctv
 
 # https://stream1.freetv.fun/ming-zhu-1.ctv
 

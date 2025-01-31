@@ -9,46 +9,45 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="SPORTS",UK | Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | Sky Sports Main Event
 https://a1xs.vip/2000001
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="SPORTS",UK | Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="UK SPORTS",UK | Sky Sports Premier League
 https://a1xs.vip/2000002
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="SPORTS",UK | Sky Sports Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK SPORTS",UK | Sky Sports Football
 https://a1xs.vip/2000003
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="SPORTS",UK | Sky Sports News
-https://a1xs.vip/2000004
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="SPORTS",UK | Sky Sports F1
-https://a1xs.vip/2000005
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="SPORTS",UK | Sky Sports Cricket
-https://a1xs.vip/2000006
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="SPORTS",UK | Sky Sports Mix
+
+# EXTINF:-1 tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK SPORTS",UK | Sky Sports News
+# https://a1xs.vip/2000004
+# EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="UK SPORTS",UK | Sky Sports F1
+# https://a1xs.vip/2000005
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="UK SPORTS",UK | Sky Sports Mix
 https://a1xs.vip/2000008
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="SPORTS",UK | Sky Sports Golf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="UK SPORTS",UK | Sky Sports Golf
 https://a1xs.vip/2000009
-#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/15/sky-sports-racing-logo-2048.png" group-title="SPORTS",UK | Sky Sports Racing
-https://a1xs.vip/2000010
-#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="SPORTS",UK | Sky Sports Action
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="UK SPORTS",UK | Sky Sports Action
 https://a1xs.vip/2000011
-#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="SPORTS",UK | Sky Sports+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="UK SPORTS",UK | Sky Sports+
 https://a1xs.vip/2000012
-#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="SPORTS",UK | Sky Sports Tennis
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="UK SPORTS",UK | Sky Sports Tennis
 https://a1xs.vip/2000013
-#EXTINF:-1 group-title="SPORTS",UK | Sky Max
-http://one.dream4ktv.biz:2082/play/live.php?mac=00:1A:79:DB:7A:A3&stream=205914&extension=ts&play_token=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="SPORTS",UK | TNT Sports 1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="UK SPORTS",UK | TNT Sports 1
 https://a1xs.vip/2000021
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="SPORTS",UK | TNT Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="UK SPORTS",UK | TNT Sports 2
 https://a1xs.vip/2000022
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="SPORTS",UK | TNT Sports 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="UK SPORTS",UK | TNT Sports 3
 https://a1xs.vip/2000023
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="SPORTS",UK | TNT Sports 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="UK SPORTS",UK | TNT Sports 4
 https://a1xs.vip/2000024
 
-#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" group-title="SPORTS",UK | TNT Sports Ultimate UHD
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" group-title="UK SPORTS",UK | TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="Sports",US | Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
 
 
 

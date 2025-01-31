@@ -318,6 +318,13 @@ http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 # http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | Sky Sports Main Event
+https://a1xs.vip/2000001
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="UK SPORTS",UK | Sky Sports Premier League
+https://a1xs.vip/2000002
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK SPORTS",UK | Sky Sports Football
+https://a1xs.vip/2000003
+
 
 
 

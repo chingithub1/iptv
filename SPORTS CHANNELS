@@ -8,276 +8,51 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://69.164.224.53:80/ESPN/mpegts
 
-# http://168.232.168.242:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="SPORTS",UK | Sky Sports Main Event
+https://a1xs.vip/2000001
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="SPORTS",UK | Sky Sports Premier League
+https://a1xs.vip/2000002
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="SPORTS",UK | Sky Sports Football
+https://a1xs.vip/2000003
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="SPORTS",UK | Sky Sports News
+https://a1xs.vip/2000004
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="SPORTS",UK | Sky Sports F1
+https://a1xs.vip/2000005
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="SPORTS",UK | Sky Sports Cricket
+https://a1xs.vip/2000006
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="SPORTS",UK | Sky Sports Mix
+https://a1xs.vip/2000008
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="SPORTS",UK | Sky Sports Golf
+https://a1xs.vip/2000009
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/15/sky-sports-racing-logo-2048.png" group-title="SPORTS",UK | Sky Sports Racing
+https://a1xs.vip/2000010
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="SPORTS",UK | Sky Sports Action
+https://a1xs.vip/2000011
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="SPORTS",UK | Sky Sports+
+https://a1xs.vip/2000012
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="SPORTS",UK | Sky Sports Tennis
+https://a1xs.vip/2000013
+#EXTINF:-1 group-title="United Kingdom",UK | Sky Max
+http://one.dream4ktv.biz:2082/play/live.php?mac=00:1A:79:DB:7A:A3&stream=205914&extension=ts&play_token=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="SPORTS",UK | TNT Sports 1
+https://a1xs.vip/2000021
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="SPORTS",UK | TNT Sports 2
+https://a1xs.vip/2000022
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="SPORTS",UK | TNT Sports 3
+https://a1xs.vip/2000023
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="SPORTS",UK | TNT Sports 4
+https://a1xs.vip/2000024
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" group-title="SPORTS",UK | TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
 
-# http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 
-# http://190.61.102.67:3150/play/a064/index.m3u8
 
-# http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544?checkedby:iptvcat.com
 
 
-# This hasn't been used yet
-# http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27093?checkedby:iptvcat.com
 
 
-# http://ztvuk.com/9tsQfFaeTJ/hpd9sVIvFM/13827
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN2
-http://69.164.224.53:80/ESPN2/mpegts
-
-# rtmp://59.124.75.150/sat/us021
-
-# EXTINF:-1 group-title="SPORTS",TSN 1
-# http://103.125.191.32:9981/stream/channelid/245777377?profile=cvaceplus
-
-# EXTINF:-1 group-title="SPORTS",TSN 3
-# http://103.125.191.32:9981/stream/channelid/1380132116?profile=cvaceplus
-
-# EXTINF:-1 group-title="SPORTS",TSN 5
-# http://103.125.191.32:9981/stream/channelid/1375597584?profile=cvaceplus
-
-
-# EXTINF:-1 tvg-logo="https://arnson.biz/wp-content/uploads/2012/04/NBA-TV_2004_ID.jpg" group-title="SPORTS", NBA TV
-# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86577
-
-# http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
-
-
-# https://wopep.com/02_nbahd_720p/chunklist.m3u8
-
-
-
-
-
-
-# EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="SPORTS",BeIN Sports PREMIUM 1
-# 1080p
-# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86614
-
-# http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
-# http://red.ipfox.org:8080/1234/12345678/31548
-
-# http://red.ipfox.org:8080/1234/12345678/31529
-
-# 
-
-# http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-
-# http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
-
-
-# http://178.18.245.114:8080/XR_XtraTv136479/974631/1381
-
-
-
-# EXTINF:-1 tvg-logo="https://www11.0zz0.com/2021/07/08/08/916408316.png" group-title="SPORTS",BeIN Sports PREMIUM 2
-# 720p
-# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86612
-
-
-
-
-
-
-
-# EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3
-# 720p
-# http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610
-
-
-
-#
-
-
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="SPORTS",CCTV-5 体育
-# http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
-
-# This one is good
-rtmp://59.124.75.138/sat/cn021
-
-
-# http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
-
-# http://39.135.138.60:18890/TVOD/88888910/224/3221225649/index.m3u8
-# http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
-
-# http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-# http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8
-
-# rtmp://58.200.131.2:1935/livetv/cctv5hd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65JwsVZD/cctv5.jpg" group-title="SPORTS",CCTV-5+
-http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
-
-
-# This one is good
-# rtmp://59.124.75.138/sat/cn051
-
-# http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-
-
-# rtmp://58.200.131.2:1935/livetv/cctv5phd
-
-# EXTINF:-1 group-title="SPORTS",超级体育
-# http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://rb.gy/8cpcyd" group-title="SPORTS",  Now SPORT Prime
-http://livetv.dnsfor.me/channel.12.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title=“SPORTS”, SKY SPORT MAIN EVENTS
-http://85.245.237.73:8082/play/a004
-
-# http://93.152.174.144:4000/play/ssports1/index.m3u8
-
-
-# http://185.53.89.183/hls/main.m3u8?SBN
-
-# This one works too
-# http://93.152.174.144:4000/play/ssports1/index.m3u8
-
-# http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="SPORTS”, Sky Sports Premier League SD
-http://85.245.237.73:8082/play/a008
-
-# http://93.152.174.144:4000/play/skysports5/index.m3u8
-
-# http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1,group-title=“SPORTS”,Sky Sports NFL
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png’ group-title="SPORTS" ,BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-
-# http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-# http://livepulse2.uk:8080/live/88888/99999/222630.ts
-
-# http://212.224.98.206:2200/EX/UK_BT_SPORTS_1_FHD-uk/index.m3u8?token=RED
-
-
-# http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-# http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-# http://livepulse2.uk:8080/live/88888/99999/222631.ts
-
-# http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=“https://media.info/i/lf/300/1565312705/1539.png“ group-title="SPORTS" ,BT SPORT ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
-
-# http://livepulse2.uk:8080/live/88888/99999/222633.ts
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis 1
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS” ,FS1 HD
-http://4.26.188.2:8081/udp/239.193.10.101:23901
-
-# http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
-
-
-
-# 
-
-
-#EXTINF:-1 group-title=“SPORTS” tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg",FS2 HD
-http://4.26.188.2:8081/udp/239.193.10.102:23902
-
-
-# http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1group-title=“SPORTS”,BEIN SPORTS 3 fr
-http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/35340
-
-#EXTINF:-group-title=“SPORTS” ,BEIN SPORT EXTRA N
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2018/02/16/large/20180216205919772233_21.png" group-title="SPORTS", ELTA 體育 1
-rtmp://59.124.75.138/sat/md041
-rtmp://59.124.75.138/sat/md041
-
-#EXTINF:-1 tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/22/large/20161222031102586770_50.png" group-title="SPORTS",纬来体育 1
-rtmp://59.124.75.138/sat/tv721
-
-# rtmp://59.124.75.138:1935/sat/tv721
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORTS",ELEVEN 1 (Taiwan)
-rtmp://59.124.75.138/sat/tv731
-
-# rtmp://59.124.75.150/sat/tv731
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a633.png" group-title="SPORTS",ELEVEN 2 (Taiwan)
-rtmp://59.124.75.150/sat/tv741
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg" group-title="SPORTS",Fox Sport 2 Taiwan
-rtmp://59.124.75.138/sat/md051
-
-
-
-
-# ============================================
-
-# EXTINF:-1 group-title="USA - CANADA SPORTS",USA Network
-# http://89.187.175.143:80/3025/mpegts
-# EXTINF:-1 group-title="USA - CANADA SPORTS",NBC Golf
-# http://89.187.175.143:80/3013/mpegts
 
 
 

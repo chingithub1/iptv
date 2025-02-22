@@ -77,5 +77,9 @@ http://iptv12k.com:35461/654321/123456/21720
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="SPORTS",[TW] NBA
 http://iptv12k.com:35461/654321/123456/1227
 
+#EXTINF:-1  tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" group-title="CA SPORTS", Sportsnet 360 HD
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/2219
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="CA SPORTS", Sportsnet One (HD)  
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47379 
 

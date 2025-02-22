@@ -10,10 +10,10 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Now Sports Prime [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowSports Prime [vip]
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304729
+# EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Now Sports Prime [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowSports Prime [vip]
+# http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304729
 
-# EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowPremier Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowPremier Sports 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304092
 # EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowPremier Sports 2
 # http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304091
@@ -28,8 +28,8 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304099
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304098
 #EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowSports 3
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304097
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowSports 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304096
+# EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowSports 4
+#  http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304096
 
 # EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowSports 5
 # http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304095
@@ -65,16 +65,15 @@ http://iptv12k.com:35461/654321/123456/21684
 http://iptv12k.com:35461/654321/123456/21686
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="SPORTS",NowSports 3 
 http://iptv12k.com:35461/654321/123456/21688
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="SPORTS",NowSports 4
-http://iptv12k.com:35461/654321/123456/21724
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="SPORTS",NowSports 5
-http://iptv12k.com:35461/654321/123456/21722
+# EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="SPORTS",NowSports 4
+# http://iptv12k.com:35461/654321/123456/21724
+# EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="SPORTS",NowSports 5
+# http://iptv12k.com:35461/654321/123456/21722
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/636-dbg-e.png" group-title="SPORTS",NowSports 6 
 http://iptv12k.com:35461/654321/123456/21720
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="SPORTS",NowSports 7
-http://iptv12k.com:35461/654321/123456/21718
-#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="SPORTS",[TW] NBCgolf
-http://iptv12k.com:35461/654321/123456/1228
+# EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="SPORTS",NowSports 7
+# http://iptv12k.com:35461/654321/123456/21718
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="SPORTS",[TW] NBA
 http://iptv12k.com:35461/654321/123456/1227
 

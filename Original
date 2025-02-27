@@ -148,8 +148,8 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-http://cdn1host.online:2999/live/venomj/EmoOmOskzq/143.m3u8
+# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+# http://cdn1host.online:2999/live/venomj/EmoOmOskzq/143.m3u8
 
 # https://v8.thetvapp.to/hls/MSNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
 
@@ -238,7 +238,7 @@ http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 
-#EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV SUPER 18台
+#EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 
 
@@ -253,8 +253,8 @@ http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 
-#EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
-https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
+# EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
+# https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
 # https://stream1.freetv.fun/ming-zhu-7.ctv
 
 # https://stream1.freetv.fun/ming-zhu-1.ctv

@@ -130,7 +130,7 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 # https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 
 
@@ -225,7 +225,7 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 
 #EXTINF: -1 group-title="Korea", KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 
 
 #EXTINF: -1 group-title="Korea", KBS WORLD
@@ -236,7 +236,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 
 #EXTINF: -1 group-title="Korea", TVN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 
 
 #EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
@@ -291,19 +291,21 @@ https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad20
 
 # http://livetv.dnsfor.me/channel.11.m3u8
 
-
 #EXTINF:0 tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
+
+#EXTINF:-1 group-title="Hong Kong 香港",美亞電影台(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 
 # EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
 # http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
 
-# EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合台
-# http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 
 
 

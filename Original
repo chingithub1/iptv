@@ -23,13 +23,13 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 
 
 #EXTINF:21 group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-
-# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-
+https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.ctv
 # https://stream1.freetv.fun/wu-xian-xin-wen-1.ctv
 
-# https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.ctv
+# http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+
+# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+ 
 
 # good
 # http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8

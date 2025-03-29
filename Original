@@ -227,20 +227,6 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 
 
-# EXTINF: -1 group-title="Korea", KIX
-# http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-
-
-# EXTINF: -1 group-title="Korea", KBS WORLD
-# https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
-# EXTINF: -1 group-title="Korea", Arirang
-# http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-
-# EXTINF: -1 group-title="Korea", TVN
-# http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-
 
 #EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
 http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
@@ -418,3 +404,19 @@ https://a1xs.vip/1100001
 https://a1xs.vip/1100002
 #EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="UK SPORTS",Astro Premier League
 https://a1xs.vip/1100030
+
+
+
+# EXTINF: -1 group-title="Korea", KIX
+# http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+
+
+# EXTINF: -1 group-title="Korea", KBS WORLD
+# https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+# EXTINF: -1 group-title="Korea", Arirang
+# http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+
+# EXTINF: -1 group-title="Korea", TVN
+# http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8

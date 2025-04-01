@@ -1,8 +1,6 @@
 #EXTM3U
 # EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-# EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=zh-hant&date=20250103&channel_id=271945"
-# EXTM3U x-tvg-url="https://bit.ly/moj-epg"
-
+#EXTM3U tvg-url="https://epg.pw/xmltv/epg_HK.xml"
 
 #    https://bit.ly/3odvkOD 
 
@@ -27,7 +25,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 
 
 
-#EXTINF:21 group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
+#EXTINF:21 tvg-id="271894" group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
 # https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.ctv
 https://stream1.freetv.fun/wu-xian-xin-wen-1.ctv
 
@@ -240,9 +238,6 @@ http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 
 
-# EXTINF:24 group-title="Hong Kong 香港" tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png", 翡翠台
-# http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-# GOOD GOOD GOOD !!!!!
 
 #EXTINF:15 group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
@@ -251,7 +246,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 #EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
 http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 
-#EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
+#EXTINF: -1 tvg-id="272094" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 # https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
 # https://stream1.freetv.fun/ming-zhu-7.ctv
@@ -285,7 +280,7 @@ https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad20
 
 # http://livetv.dnsfor.me/channel.11.m3u8
 
-#EXTINF:0 tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
+#EXTINF:0 tvg-id="368361" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
 http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70

@@ -10,7 +10,7 @@
 # http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 # http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 
 
 # http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
@@ -63,7 +63,9 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 # http://89.187.177.137/CNBCHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://41.205.93.154/ESPN/index.m3u8
+http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
+
+# http://41.205.93.154/ESPN/index.m3u8
 
 # https://v12.thetvapp.to/hls/ESPN/index.m3u8?token=dFdrMmJBWE9qeGt1MXZ2OHhwaXRzUjB5Wk5saHNvODVFUFRiSnY0Qw==
 
@@ -81,7 +83,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 # http://208.86.19.13:81/16.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 
 # http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
@@ -104,7 +106,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 # https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
 
 
 # https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
@@ -136,7 +138,7 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 # https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
-http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 
 
@@ -232,29 +234,29 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 
 #EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
-http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 
 #EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
-http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 
 
 
 #EXTINF:15 group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
-http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
-http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 
 #EXTINF: -1 tvg-id="272094" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
-http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 # https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
 # https://stream1.freetv.fun/ming-zhu-7.ctv
 
 # https://stream1.freetv.fun/ming-zhu-1.ctv
 
 #EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="Hong Kong 香港", 黃金翡翠台
-http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 
 
 # EXTINF:=1 group-title="Hong Kong 香港", Now 星影台
@@ -281,20 +283,20 @@ https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad20
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:0 tvg-id="368361" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
-http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
 
 #EXTINF:-1 group-title="Hong Kong 香港",美亞電影台(HK)
-http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 
 # EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
 # http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
 
 #EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合
-http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 
 
 
@@ -315,7 +317,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
-http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 # http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 

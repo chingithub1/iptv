@@ -72,6 +72,9 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
 
+
+
+#EXTINF:-1,ESPN NEWS
 # http://41.205.93.154/ESPN/index.m3u8
 
 # https://v12.thetvapp.to/hls/ESPN/index.m3u8?token=dFdrMmJBWE9qeGt1MXZ2OHhwaXRzUjB5Wk5saHNvODVFUFRiSnY0Qw==
@@ -243,10 +246,11 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 
 #EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
-http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+
+http://aktv_stream.m16tv.cfd/stream/aktv1/28ai/AKTV.m3u8
 
 #EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
-http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
 
 
 
@@ -280,8 +284,9 @@ http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
 # http://php.jdshipin.com:8880/smt.php?id=Xinhe
+http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 
-https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
+# https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
 
 # http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 
@@ -300,7 +305,7 @@ https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:0 tvg-id="368361" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 

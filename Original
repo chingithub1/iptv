@@ -279,9 +279,9 @@ http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 # https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
+# http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
-# https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
+https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
 
 # http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 

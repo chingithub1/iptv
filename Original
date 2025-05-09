@@ -267,7 +267,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 
 #EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 
 #EXTINF: -1 tvg-id="272094" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -302,6 +304,21 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 
 # https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://live.fanmingming.cn/tv/亚洲武侠.png" group-title="Hong Kong 香港",亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+
+#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://live.fanmingming.cn/tv/TVB生活台.png" group-title="Hong Kong 香港",TVB生活台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+
+
+
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="Hong Kong 香港",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+
+
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png" group-title="Hong Kong 香港",天映经典
+http://php.jdshipin.com/smt.php?id=Celestial2
 
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVBJ1.png" group-title="Hong Kong 香港",TVB J1
 https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv

@@ -31,13 +31,15 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 
 #EXTINF:21 tvg-id="271894" group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
 # http://php.jdshipin.com:8880/smt.php?id=inews_twn 
 
 # https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.ctv
 # https://stream1.freetv.fun/wu-xian-xin-wen-1.ctv
 
 
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+# http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 # http://aktv-stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 
 # http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -259,7 +261,9 @@ http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
 
 
 #EXTINF:15 group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
@@ -288,7 +292,9 @@ http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
 # http://php.jdshipin.com:8880/smt.php?id=Xinhe
-http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+
+# http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 
 # https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
 
@@ -309,13 +315,19 @@ https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 # http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:0 tvg-id="368361" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+
+# http://php.jdshipin.com/TVOD/iptv.php?id=j2
+
+# http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
 
 #EXTINF:-1 group-title="Hong Kong 香港",美亞電影台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 
 # EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
 # http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
@@ -343,7 +355,9 @@ http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
-http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
+# http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 # http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 

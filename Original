@@ -75,7 +75,7 @@ http://fl5.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
-
+https://a1xs.vip/40000011
 # http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
 
 
@@ -99,7 +99,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 # http://208.86.19.13:81/16.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+https://a1xs.vip/40000031
 
 # http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
@@ -378,7 +378,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
 # http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 
-
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
+https://a1xs.vip/1000001
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="UK Channels",BBC Two FHD
+https://a1xs.vip/1000002
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | Sky Sports Main Event
 https://a1xs.vip/2000001

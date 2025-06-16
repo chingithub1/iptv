@@ -185,8 +185,8 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 # http://41.205.93.154:80/MSNBC/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
+# EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO
+# http://fl2.moveonjoy.com/HBO/index.m3u8
 
 
 
@@ -204,11 +204,11 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 # https://v13.thetvapp.to/hls/HBOFamilyEast/index.m3u8?token=Y05rZ3p0MnVrM0w1OXRoUzNYQTM3dWVVTk1sVTcwcXhNVmtEdVpFTA==
 
 
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Movies",HBO2 East
-http://fl2.moveonjoy.com/HBO_2/index.m3u8
+# EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Movies",HBO2 East
+# http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movies",CINEMAX
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movies",CINEMAX
+# http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 
 
@@ -308,8 +308,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 
-#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://live.fanmingming.cn/tv/TVB生活台.png" group-title="Hong Kong 香港",TVB生活台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+# EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://live.fanmingming.cn/tv/TVB生活台.png" group-title="Hong Kong 香港",TVB生活台
+# http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 
 
 

@@ -214,35 +214,35 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Movies",Paramount Network East
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+# EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Movies",Paramount Network East
+# http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+# 
+# EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime East
+# http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+# EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Movies",Showtime 2 East
+# http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Movies",Showtime 2 East
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+# EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Movies",Showtime Extreme East
+# http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Movies",Showtime Extreme East
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Movies",Showtime Next East
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+# EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Movies",Showtime Next East
+# http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 # EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Movies",Sony Movie Channel
 # https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Movies",Starz East
-http://fl2.moveonjoy.com/STARZ/index.m3u8
+# EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Movies",Starz East
+# http://fl2.moveonjoy.com/STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Movies",Starz Edge East
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+# EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Movies",Starz Edge East
+# http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Movies",Starz Encore East
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+# EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Movies",Starz Encore East
+# http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Movies",Starz Encore Action
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+# EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Movies",Starz Encore Action
+# http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1 tvg-id="TCMPacific.us" tvg-name="TCM West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies",TCM (Turner Classic Movies) West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
@@ -251,12 +251,12 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 
 
-#EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
+# EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
 
-http://aktv_stream.m16tv.cfd/stream/aktv1/28ai/AKTV.m3u8
+# http://aktv_stream.m16tv.cfd/stream/aktv1/28ai/AKTV.m3u8
 
-#EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
-http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
+# EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
+# http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
 
 
 
@@ -280,8 +280,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 # https://stream1.freetv.fun/ming-zhu-1.ctv
 
-#EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="Hong Kong 香港", 黃金翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+# EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="Hong Kong 香港", 黃金翡翠台
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 
 
 # EXTINF:=1 group-title="Hong Kong 香港", Now 星影台
@@ -313,12 +313,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 
 
 
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="Hong Kong 香港",天映频道
-http://php.jdshipin.com/smt.php?id=Celestial
+# EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="Hong Kong 香港",天映频道
+# http://php.jdshipin.com/smt.php?id=Celestial
 
 
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png" group-title="Hong Kong 香港",天映经典
-http://php.jdshipin.com/smt.php?id=Celestial2
+# EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png" group-title="Hong Kong 香港",天映经典
+# http://php.jdshipin.com/smt.php?id=Celestial2
 
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVBJ1.png" group-title="Hong Kong 香港",TVB J1
 https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
@@ -350,8 +350,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 # http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合
-http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+# EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 
 
 
@@ -378,15 +378,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
 # http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",UK | BBC One
-http://92.114.85.72:8000/play/a0mw
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",UK | BBC Two
-http://92.114.85.72:8000/play/a0mr
-# EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",UK | Channel 4
-# http://92.114.85.72:8000/play/a023
 
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",UK | ITV 1
-http://92.114.85.72:8000/play/a0o2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | Sky Sports Main Event
 https://a1xs.vip/2000001

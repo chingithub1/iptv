@@ -178,7 +178,9 @@ http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 
 
-# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/143
+
 # http://cdn1host.online:2999/live/venomj/EmoOmOskzq/143.m3u8
 
 # https://v8.thetvapp.to/hls/MSNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==

@@ -135,8 +135,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
-https://c.mjh.nz/abc-nsw.m3u8
+# EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
+# https://c.mjh.nz/abc-nsw.m3u8
 
 # https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
@@ -160,7 +160,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="24/7 WORLD NEWS",ABC
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="SPORTS",ABC Channel 7
 https://a1xs.vip/300003
 
 # http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv

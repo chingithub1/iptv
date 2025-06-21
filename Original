@@ -148,7 +148,9 @@ https://c.mjh.nz/abc-nsw.m3u8
 
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+https://a1xs.vip/40000032
+
+# http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 # EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
 # https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
@@ -158,7 +160,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
-
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="24/7 WORLD NEWS",ABC
+https://a1xs.vip/300003
 
 # http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 

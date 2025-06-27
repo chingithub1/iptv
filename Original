@@ -98,6 +98,10 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 # This is also good. lower resoultions
 # http://208.86.19.13:81/16.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="SPORTS",truTV FHD
+https://a1xs.vip/300002
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
 https://a1xs.vip/40000031
 
@@ -143,8 +147,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="SPORTS",truTV FHD
-https://a1xs.vip/300002
+
 
 
 

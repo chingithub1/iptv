@@ -101,6 +101,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="SPORTS",truTV FHD
 https://a1xs.vip/300002
 
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="SPORTS",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
 https://a1xs.vip/40000031

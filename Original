@@ -292,7 +292,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 # https://stream1.freetv.fun/ming-zhu-1.ctv
 
-# EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="Hong Kong 香港", 黃金翡翠台
+#EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="Hong Kong 香港", 黃金翡翠台
+http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+
 # http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 
 
@@ -305,16 +307,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 # https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+
 # http://php.jdshipin.com:8880/smt.php?id=Xinhe
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+# http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 
-# http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
-
-# https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
-
-# http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-
-# https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:29 aktv-group="AKTV2" tvg-id="aktv2/CH-0" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="SPORTS",緯來體育台
+http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://live.fanmingming.cn/tv/亚洲武侠.png" group-title="Hong Kong 香港",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
@@ -325,7 +324,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 
 
-# EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="Hong Kong 香港",天映频道
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="Hong Kong 香港",天映频道
+http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 # http://php.jdshipin.com/smt.php?id=Celestial
 
 
@@ -333,7 +333,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 # http://php.jdshipin.com/smt.php?id=Celestial2
 
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVBJ1.png" group-title="Hong Kong 香港",TVB J1
-https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
+http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
 
 # ********************************************  
 
@@ -354,7 +354,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 
 
 #EXTINF:-1 group-title="Hong Kong 香港",美亞電影台(HK)
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+# http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 

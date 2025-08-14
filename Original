@@ -74,8 +74,8 @@ http://fl5.moveonjoy.com/CNBC/index.m3u8
 # http://89.187.177.137/CNBCHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
-# https://a1xs.vip/40000011
+# http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
+https://a1xs.vip/40000011
 # http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
 
 

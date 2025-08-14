@@ -312,8 +312,8 @@ http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 # http://php.jdshipin.com:8880/smt.php?id=Xinhe
 # http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 
-#EXTINF:29 aktv-group="AKTV2" tvg-id="aktv2/CH-0" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="SPORTS",緯來體育台
-http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+# EXTINF:29 aktv-group="AKTV2" tvg-id="aktv2/CH-0" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="SPORTS",緯來體育台
+# http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://live.fanmingming.cn/tv/亚洲武侠.png" group-title="Hong Kong 香港",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
@@ -460,8 +460,8 @@ https://a1xs.vip/4000006
 # https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
 
 
-#EXTINF:0 group-title="UK SPORTS", Now Sports
-https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
+# EXTINF:0 group-title="UK SPORTS", Now Sports
+# https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
 
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.TV.hk" tvg-name="Now Sports PL TV FHD" tvg-logo="https://pixvid.org/images/2025/01/22/NowHKPLTV.png" group-title="UK SPORTS",Now Sports PL TV FHD
 https://a1xs.vip/1100000

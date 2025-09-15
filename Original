@@ -334,8 +334,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 
 
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="Hong Kong 香港",天映频道
-http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+# EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="Hong Kong 香港",天映频道
+# http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 # http://php.jdshipin.com/smt.php?id=Celestial
 
 
@@ -363,8 +363,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
 
-#EXTINF:-1 group-title="Hong Kong 香港",美亞電影台(HK)
-http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+# EXTINF:-1 group-title="Hong Kong 香港",美亞電影台(HK)
+# http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 # http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
@@ -488,14 +488,14 @@ https://a1xs.vip/4000006
 # EXTINF:0 group-title="UK SPORTS", Now Sports
 # https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
 
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.TV.hk" tvg-name="Now Sports PL TV FHD" tvg-logo="https://pixvid.org/images/2025/01/22/NowHKPLTV.png" group-title="UK SPORTS",Now Sports PL TV FHD
-https://a1xs.vip/1100000
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="UK SPORTS",Now Sports PL 1 FHD
-https://a1xs.vip/1100001
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="UK SPORTS",Now Sports PL 2 FHD
-https://a1xs.vip/1100002
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="UK SPORTS",Astro Premier League
-https://a1xs.vip/1100030
+# EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.TV.hk" tvg-name="Now Sports PL TV FHD" tvg-logo="https://pixvid.org/images/2025/01/22/NowHKPLTV.png" group-title="UK SPORTS",Now Sports PL TV FHD
+# https://a1xs.vip/1100000
+# EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="UK SPORTS",Now Sports PL 1 FHD
+# https://a1xs.vip/1100001
+# EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="UK SPORTS",Now Sports PL 2 FHD
+# https://a1xs.vip/1100002
+# EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="UK SPORTS",Astro Premier League
+# https://a1xs.vip/1100030
 
 
 

@@ -63,22 +63,15 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
-
-# http://fl2.moveonjoy.com/CNBC/index.m3u8
-# TV APP channels (GOOD)
-# https://v8.thetvapp.to/hls/CNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
-
-
-# https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
-# http://89.187.177.137/CNBCHD/index.m3u8?token=test
+https://tvpass.org/live/CNBC/sd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 # http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
 https://a1xs.vip/40000011
 # http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
 
-
+#EXTINF:-1 group-title="SPORTS", ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
 
 # EXTINF:-1,ESPN NEWS
 # http://41.205.93.154/ESPN/index.m3u8
@@ -92,27 +85,21 @@ https://a1xs.vip/40000011
 # EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN2
 # https://v12.thetvapp.to/hls/ESPN2/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="SPORTS", TNT
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+# EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="SPORTS", TNT
+# https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 # This is also good. lower resoultions
 # http://208.86.19.13:81/16.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="SPORTS",truTV FHD
-https://a1xs.vip/300002
+# EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="SPORTS",truTV FHD
+# https://a1xs.vip/300002
 
-#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="SPORTS",TBS
-http://fl1.moveonjoy.com/TBS/index.m3u8
+# EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="SPORTS",TBS
+# http://fl1.moveonjoy.com/TBS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
-https://a1xs.vip/40000031
-
-# http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-
-# http://212.102.60.231/NBA_TV/index.m3u8
-# https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
-
+https://tvpass.org/live/NBATV/sd
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -190,8 +177,13 @@ https://a1xs.vip/40000022
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-https://a1xs.vip/300008
+# https://a1xs.vip/300008
+# good
+https://tvpass.org/live/MSNBC/hd
 
+
+#EXTINF:-1 group-title="SPORTS", NBC Sport Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/sd
 
 
 # EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World

@@ -99,7 +99,8 @@ https://tvpass.org/live/espn-deportes/sd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
-https://tvpass.org/live/NBATV/sd
+https://a1xs.vip/40000031
+# https://tvpass.org/live/NBATV/sd
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -177,9 +178,9 @@ https://a1xs.vip/40000022
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-# https://a1xs.vip/300008
+https://a1xs.vip/300008
 # good
-https://tvpass.org/live/MSNBC/hd
+# https://tvpass.org/live/MSNBC/hd
 
 
 #EXTINF:-1 group-title="SPORTS", NBC Sport Bay Area

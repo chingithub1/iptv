@@ -98,9 +98,9 @@ https://tvpass.org/live/espn-deportes/sd
 # http://fl1.moveonjoy.com/TBS/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
-https://a1xs.vip/40000031
-# https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
+# https://a1xs.vip/40000031
+https://tvpass.org/live/NBATV/sd
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -143,7 +143,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
-https://a1xs.vip/40000032
+https://tvpass.org/live/NFLNetwork/sd
+
+# https://a1xs.vip/40000032
 
 # http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 

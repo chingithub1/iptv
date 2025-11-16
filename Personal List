@@ -4,7 +4,7 @@
 
 
 #EXTM3U
-#EXTM3U x-tvg-url="https://hongkong2.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/main/hongkong2.xml"
 
 #    https://bit.ly/3odvkOD 
 #EXTINF:-1 tvg-id="翡翠台.hk" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong 香港", 翡翠台 

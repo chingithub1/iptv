@@ -1,400 +1,54 @@
 #EXTM3U
-# https://goo.gl/tXAoKy. (OLD)
+
 # https://bit.ly/3EN9tTU
 
 
 #EXTM3U
-# EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-# EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=zh-hant&date=20250103&channel_id=271945"
-# EXTM3U x-tvg-url="https://bit.ly/moj-epg"
-
+#EXTM3U x-tvg-url="https://hongkong2.xml"
 
 #    https://bit.ly/3odvkOD 
+#EXTINF:-1 tvg-id="翡翠台.hk" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong 香港", 翡翠台 
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
+#EXTINF:21 tvg-id="無綫新聞台.hk" group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong 香港", 翡翠台 
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF: -1 tvg-id="鳳凰衛視香港台.hk" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-# http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
-# A new one. these are good as of 01/23/2025
-# http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-# http://php.jdshipin.com:8880/smt.php?id=jade_twn
-# http://cdn.132.us.kg/live/fct4k/stream.m3u8
-# http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:5 tvg-id=""myTV SUPER 18台.hk"" group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
+http://bxtv.3a.ink/api.php?id=18
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 
-#EXTINF:21 group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/vi/wiki/%E6%B8%AF%E5%8F%B0%E9%9B%BB%E8%A6%96_32?file=RTHK_TV_32_2013.svg" group-title="Hong Kong 香港",港台電視32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
-# https://stream1.freetv.fun/wu-xian-xin-wen-1.ctv
+#EXTINF:15 tvg-id="千禧經典台.hk" group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
-# https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.ctv
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 
-# good
-# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
+#EXTINF: -1 tvg-id="娛樂新聞台.hk"  tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
-# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+# http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 
-# http://live.cooltv.top/tv/tvb.php?id=0
-# http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF: -1 tvg-id="明珠台.hk" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
+#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://live.fanmingming.cn/tv/亚洲武侠.png" group-title="Hong Kong 香港",亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="24/7 WORLD NEWS",CNN (US) 
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="TVB Plus.hk" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
-# TV APP channels (GOOD)
-# https://v8.thetvapp.to/hls/CNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
-
-
-# https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
-# http://89.187.177.137/CNBCHD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://41.205.93.154/ESPN/index.m3u8
-
-# https://v12.thetvapp.to/hls/ESPN/index.m3u8?token=dFdrMmJBWE9qeGt1MXZ2OHhwaXRzUjB5Wk5saHNvODVFUFRiSnY0Qw==
-
-# http://143.244.60.30/ESPN/index.m3u8
-
-# http://38.96.178.201:80/live/ESPNHD/index.m3u8
-
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN2
-# https://v12.thetvapp.to/hls/ESPN2/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="SPORTS", TNT
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-
-# This is also good. lower resoultions
-# http://208.86.19.13:81/16.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-
-# http://212.102.60.231/NBA_TV/index.m3u8
-# https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="24/7 WORLD NEWS",BBC World News (GB)
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-
-
-
-# EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
-# https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-
-
-
-# https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-
-# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
-# http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
-https://c.mjh.nz/abc-nsw.m3u8
-
-# https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-
-# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
-# https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
-
-
-# http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
-http://4.26.188.2:8081/udp/239.193.10.101:23901
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
-http://4.26.188.2:8081/udp/239.193.10.102:23902
-# This is also goo  11/08/2021
-# http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-
-
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/250px-CBS_Sports_logo.svg.png?20180325235619" group-title=“SPORTS”, CBS SPorts
-# https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-
-
-
-
-# EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-# http://cdn1host.online:2999/live/venomj/EmoOmOskzq/143.m3u8
-
-# https://v8.thetvapp.to/hls/MSNBC/index.m3u8?token=YTY1VmRFRTA4ZllqaTFpOWprME4zQXNIZ2pzbldEcVVrajdoSjhCNQ==
-
-# http://41.205.93.154:80/MSNBC/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://yuvalboim.com/wp-content/uploads/2019/08/71-717908_hbo-logo-png-download-hbo-logo-high-res.png.jpeg" group-title="Movies", HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
-
-
-
-
-# EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
-# https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Movies", HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-# https://v13.thetvapp.to/hls/HBOFamilyEast/index.m3u8?token=Y05rZ3p0MnVrM0w1OXRoUzNYQTM3dWVVTk1sVTcwcXhNVmtEdVpFTA==
-
-
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Movies",HBO2 East
-http://fl2.moveonjoy.com/HBO_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movies",CINEMAX
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Movies",Paramount Network East
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Movies",Showtime 2 East
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Movies",Showtime Extreme East
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Movies",Showtime Next East
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-
-# EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Movies",Sony Movie Channel
-# https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Movies",Starz East
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Movies",Starz Edge East
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Movies",Starz Encore East
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Movies",Starz Encore Action
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-
-#EXTINF:-1 tvg-id="TCMPacific.us" tvg-name="TCM West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies",TCM (Turner Classic Movies) West
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
-
-
-
-
-#EXTINF: -1 group-title="Korea", KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-
-
-#EXTINF: -1 group-title="Korea", KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
-#EXTINF: -1 group-title="Korea", Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-
-#EXTINF: -1 group-title="Korea", TVN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-
-
-#EXTINF:1 group-title="Hong Kong 香港" , 28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-
-#EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-
-
-# EXTINF:24 group-title="Hong Kong 香港" tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png", 翡翠台
-# http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-# GOOD GOOD GOOD !!!!!
-
-#EXTINF:15 group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-
-# EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
-# https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
-# https://stream1.freetv.fun/ming-zhu-7.ctv
-
-# https://stream1.freetv.fun/ming-zhu-1.ctv
-
-#EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="Hong Kong 香港", 黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-
-
-# EXTINF:=1 group-title="Hong Kong 香港", Now 星影台
-# http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-
-# EXTINF:-1 group-title="Hong Kong 香港", Now 爆谷台
-# http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-
-# https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
-https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
-
-# http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-
-# https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-
-# ********************************************  
-
-
-# EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
-# http://live.cooltv.top/tv/tvb.php?id=2
-
-# http://livetv.dnsfor.me/channel.11.m3u8
-
-
-#EXTINF:0 tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-
-# http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
-
-
-# EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
-# http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-
-
-# EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合台
-# http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-
-
-
-# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
-# https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-
-
-# EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
-# http://iptv.tvfix.org/hls/tvbws.m3u8
-
-
-# EXTINF:-1 tvg-name="HOY TV" group-title="Hong Kong 香港",HOY TV
-# http://cdn.132.us.kg/live/hoy/stream.m3u8
-
-# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB功夫台
-# http://iptv.tvfix.org/hls/tvbkf.m3u8
-
-
-
-# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
-# http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",UK | BBC One
-http://92.114.85.72:8000/play/a0mw
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",UK | BBC Two
-http://92.114.85.72:8000/play/a0mr
-# EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",UK | Channel 4
-# http://92.114.85.72:8000/play/a023
-
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",UK | ITV 1
-http://92.114.85.72:8000/play/a0o2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | Sky Sports Main Event
-https://a1xs.vip/2000001
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="UK SPORTS",UK | Sky Sports Premier League
-https://a1xs.vip/2000002
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK SPORTS",UK | Sky Sports Football
-https://a1xs.vip/2000003
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="UK SPORTS",UK | TNT Sports 1
-https://a1xs.vip/2000021
-
-# https://a1xs.vip/2000021
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="UK SPORTS",UK | TNT Sports 2
-https://a1xs.vip/2000022
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="UK SPORTS",UK | TNT Sports 3
-https://a1xs.vip/2000023
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="UK SPORTS",UK | TNT Sports 4
-https://a1xs.vip/2000024
-
-# EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" group-title="UK SPORTS",UK | TNT Sports Ultimate UHD
-# https://a1xs.vip/2000031
-
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="CA Sports",TSN1
-https://a1xs.vip/6000001
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="CA Sports",TSN2
-https://a1xs.vip/6000002
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="CA Sports",TSN3
-https://a1xs.vip/6000003
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="CA Sports",TSN4
-https://a1xs.vip/6000004
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
-https://a1xs.vip/6000005
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="CA Sports",Sportsnet Ontario FHD
-https://a1xs.vip/6000011
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="CA Sports",Sportsnet One FHD
-https://a1xs.vip/6000012
-#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_World.png" group-title="CA Sports",Sportsnet World FHD
-https://a1xs.vip/6000013
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="SPORTS",US | Spectrum Sportsnet FHD
-https://a1xs.vip/4000006
-
-# EXTINF:0 , Sky ARTs
-# https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
-
-
-#EXTINF:0 group-title="UK SPORTS", Now Sports
-https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
-
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.TV.hk" tvg-name="Now Sports PL TV FHD" tvg-logo="https://pixvid.org/images/2025/01/22/NowHKPLTV.png" group-title="UK SPORTS",Now Sports PL TV FHD
-https://a1xs.vip/1100000
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="UK SPORTS",Now Sports PL 1 FHD
-https://a1xs.vip/1100001
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="UK SPORTS",Now Sports PL 2 FHD
-https://a1xs.vip/1100002
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="UK SPORTS",Astro Premier League
-https://a1xs.vip/1100030
 

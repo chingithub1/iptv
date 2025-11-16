@@ -1,6 +1,6 @@
 #EXTM3U
-# EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-#EXTM3U tvg-url="https://epg.pw/xmltv/epg_HK.xml"
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#  tvg-url="https://epg.pw/xmltv/epg_HK.xml"
 
 #    https://bit.ly/3odvkOD 
 
@@ -57,20 +57,20 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
 
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="24/7 WORLD NEWS",CNN (US) 
+#EXTINF:-1 tvg-id="cnn" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="24/7 WORLD NEWS",CNN (US) 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
+#EXTINF:-1 tvg-id="cnbc-usa"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
 https://tvpass.org/live/CNBC/sd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 # http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
 https://a1xs.vip/40000011
 # http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
 
-#EXTINF:-1 group-title="SPORTS", ESPN Deportes
+#EXTINF:-1 tvg-id="espn-deportes" group-title="SPORTS", ESPN Deportes
 https://tvpass.org/live/espn-deportes/sd
 
 # EXTINF:-1,ESPN NEWS
@@ -142,7 +142,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
 https://a1xs.vip/40000032
 
 # http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -158,12 +158,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 # http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
 https://a1xs.vip/40000021
 # http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
 https://a1xs.vip/40000022
 
 # http://4.26.188.2:8081/udp/239.193.10.102:23902
@@ -177,13 +177,13 @@ https://a1xs.vip/40000022
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",TUDN:US
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
 https://a1xs.vip/300008
 # good
 # https://tvpass.org/live/MSNBC/hd
 
 
-#EXTINF:-1 group-title="SPORTS", NBC Sport Bay Area
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" group-title="SPORTS", NBC Sport Bay Area
 https://tvpass.org/live/nbc-sports-bay-area/sd
 
 

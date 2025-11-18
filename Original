@@ -1,11 +1,12 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Unitedkingdom/unitedkingdom1.xml"
 #  tvg-url="https://epg.pw/xmltv/epg_HK.xml"
 
 #    https://bit.ly/3odvkOD 
 
 
-#EXTINF:-1 tvg-id="271945" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong 香港", 翡翠台 
+#EXTINF:-1 tvg-id="368366" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong 香港", 翡翠台 
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 #  good too
@@ -30,7 +31,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 
 
-#EXTINF:21 tvg-id="271894" group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
+#EXTINF:21 tvg-id="368359" group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
 # http://php.jdshipin.com:8880/smt.php?id=inews_twn 
@@ -121,7 +122,7 @@ https://tvpass.org/live/NFLNetwork/sd
 # EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
 # https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
+#EXTINF: -1 tvg-id="368372" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
@@ -185,30 +186,30 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 # http://aktv_stream.m16tv.cfd/stream/aktv1/28ai/AKTV.m3u8
 
-#EXTINF:5 group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
+#EXTINF:-1 tvg-id="368334"  group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
 http://bxtv.3a.ink/api.php?id=18
 
 # http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
+#EXTINF:-1 tvg-id="368550" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/vi/wiki/%E6%B8%AF%E5%8F%B0%E9%9B%BB%E8%A6%96_32?file=RTHK_TV_32_2013.svg" group-title="Hong Kong 香港",港台電視32
+#EXTINF:-1 tvg-id="368551" tvg-logo="https://logos.fandom.com/vi/wiki/%E6%B8%AF%E5%8F%B0%E9%9B%BB%E8%A6%96_32?file=RTHK_TV_32_2013.svg" group-title="Hong Kong 香港",港台電視32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
-#EXTINF:15 group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
+#EXTINF:15 tvg-id="368325" group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
+#EXTINF: -1 tvg-id="368323" tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 
-#EXTINF: -1 tvg-id="272094" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
+#EXTINF: -1 tvg-id="368369" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
@@ -301,7 +302,7 @@ http://bxtv.3a.ink/api.php?id=meiya
 # EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
 # http://iptv.tvfix.org/hls/tvbws.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="UK SPORTS",Sky Sports Action FHD
+#EXTINF:-1 tvg-id="Sky Sports Action HD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="UK SPORTS",Sky Sports Action FHD
 https://a1xs.vip/2000011
 
 # EXTINF:-1 tvg-name="HOY TV" group-title="Hong Kong 香港",HOY TV
@@ -312,20 +313,20 @@ https://a1xs.vip/2000011
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
+#EXTINF:-1 tvg-id="410274" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 # http://bxtv.3a.ink/api.php?id=viutv
 
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
+#EXTINF:-1 tvg-id="BBC One London.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
 https://a1xs.vip/1000001
 # EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="UK Channels",BBC Two FHD
 # https://a1xs.vip/1000002
 
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/4964f8fc-9ecf-55b1-be63-be6e1beda0cd.png" group-title="UK SPORTS",UK | Sky Sports Main Event
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD.uk" tvg-logo="https://tv.assets.pressassociation.io/4964f8fc-9ecf-55b1-be63-be6e1beda0cd.png" group-title="UK SPORTS",UK | Sky Sports Main Event
 https://a1xs.vip/2000001
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="UK SPORTS",UK | Sky Sports Premier League
+#EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="UK SPORTS",UK | Sky Sports Premier League
 https://a1xs.vip/2000002
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="UK SPORTS",UK | Sky Sports Football
+#EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="UK SPORTS",UK | Sky Sports Football
 https://a1xs.vip/2000003
 
 

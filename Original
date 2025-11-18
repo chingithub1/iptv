@@ -45,15 +45,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 # http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
  
 
-# good
-# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
-
-# EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="Hong Kong 香港",無線互動新聞台
-# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-
-# http://live.cooltv.top/tv/tvb.php?id=0
-# http://livetv.dnsfor.me/channel.10.m3u8
 
 
 
@@ -73,36 +65,13 @@ https://a1xs.vip/40000011
 #EXTINF:-1 tvg-id="espn-deportes" group-title="SPORTS", ESPN Deportes
 https://tvpass.org/live/espn-deportes/sd
 
-# EXTINF:-1,ESPN NEWS
-# http://41.205.93.154/ESPN/index.m3u8
-
-# https://v12.thetvapp.to/hls/ESPN/index.m3u8?token=dFdrMmJBWE9qeGt1MXZ2OHhwaXRzUjB5Wk5saHNvODVFUFRiSnY0Qw==
-
-# http://143.244.60.30/ESPN/index.m3u8
-
-# http://38.96.178.201:80/live/ESPNHD/index.m3u8
-
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN2
-# https://v12.thetvapp.to/hls/ESPN2/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
-
-# EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="SPORTS", TNT
-# https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-
-# This is also good. lower resoultions
-# http://208.86.19.13:81/16.stream/index.m3u8
-
-# EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://pixvid.org/images/2025/02/05/trutv.png" group-title="SPORTS",truTV FHD
-# https://a1xs.vip/300002
-
-# EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="SPORTS",TBS
-# http://fl1.moveonjoy.com/TBS/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
 # https://a1xs.vip/40000031
 https://tvpass.org/live/NBATV/sd
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 
@@ -349,8 +318,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
 https://a1xs.vip/1000001
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="UK Channels",BBC Two FHD
-https://a1xs.vip/1000002
+# EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="UK Channels",BBC Two FHD
+# https://a1xs.vip/1000002
 
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/4964f8fc-9ecf-55b1-be63-be6e1beda0cd.png" group-title="UK SPORTS",UK | Sky Sports Main Event
 https://a1xs.vip/2000001
@@ -394,10 +363,10 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47440
 
 # https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="CA Sports",TSN2
-https://a1xs.vip/6000002
+# https://a1xs.vip/6000002
 
 # also good
-# http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47442
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47442
 
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="CA Sports",TSN3
@@ -408,8 +377,8 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/10389
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
 # https://a1xs.vip/6000004
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
-https://a1xs.vip/6000005
+# EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
+# https://a1xs.vip/6000005
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="CA Sports",Sportsnet Ontario FHD
 https://a1xs.vip/6000011
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="CA Sports",Sportsnet One FHD

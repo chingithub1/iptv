@@ -1,0 +1,37 @@
+<tv date="20251122080003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_HK.xml">
+</channel>
+<channel id="368323">
+<display-name lang="HK">娛樂新聞台</display-name>
+<icon src=""/>
+</channel>
+<channel id="368325">
+<display-name lang="HK">千禧經典台</display-name>
+<icon src=""/>
+</channel>
+<channel id="368361">
+<display-name lang="HK">TVB Plus</display-name>
+<icon src=""/>
+</channel>
+<channel id="368363">
+<display-name lang="HK">無線衛星新聞台</display-name>
+<icon src=""/>
+</channel>
+<channel id="368369">
+<display-name lang="HK">明珠台</display-name>
+<icon src=""/>
+</channel>
+<channel id="368372">
+<display-name lang="HK">鳳凰衛視香港台</display-name>
+<icon src=""/>
+</channel>
+<channel id="460810">
+<display-name lang="HK">TVB 互動新聞台</display-name>
+<icon src=""/>
+</channel>
+<channel id="460917">
+<display-name lang="HK">TVB 翡翠台</display-name>
+<icon src=""/>
+</channel>
+<channel id="460923">
+<display-name lang="HK">TVB Pearl</display-name>
+<icon src=""/>

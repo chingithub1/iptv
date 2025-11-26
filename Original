@@ -150,9 +150,9 @@ https://a1xs.vip/40000022
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-https://a1xs.vip/300008
+# https://a1xs.vip/300008
 # good
-# https://tvpass.org/live/MSNBC/hd
+https://tvpass.org/live/MSNBC/hd
 
 
 #EXTINF:-1 tvg-id="nbc-sports-bay-area" group-title="SPORTS", NBC Sport Bay Area
@@ -163,13 +163,29 @@ https://tvpass.org/live/nbc-sports-bay-area/sd
 # https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
-
+#EXTINF:-1 group-title="SPORTS", Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
 
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Movies", HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
+https://tvpass.org/live/HBOFamilyEast/sd
 
+# http://212.102.60.231/HBO_FAMILY/index.m3u8
 
+#EXTINF:-1 group-title="Movies", HBO Signature (East)
+https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1 group-title="Movies", HBO (East)
+https://tvpass.org/live/HBOEast/sd
+
+#EXTINF:-1 group-title="Movies", HBO 2 (East)
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1 group-title="Movies", HBO Zone (East)
+https://tvpass.org/live/HBOZoneEast/sd
+
+#EXTINF:-1 group-title="Movies", HBO Comedy (East)
+https://tvpass.org/live/HBOComedyEast/sd
 
 
 # EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Movies",Starz Encore Action

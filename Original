@@ -80,7 +80,7 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 # good
 https://tvpass.org/live/MSNBC/hd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="24/7 WORLD NEWS",BBC World News (GB)
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="24/7 WORLD NEWS",BBC World News (GB)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
@@ -318,7 +318,7 @@ http://bxtv.3a.ink/api.php?id=meiya
 # EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
 # http://iptv.tvfix.org/hls/tvbws.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports Action HD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="UK SPORTS",Sky Sports Action FHD
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="UK SPORTS",Sky Sports Action FHD
 https://a1xs.vip/2000011
 
 # EXTINF:-1 tvg-name="HOY TV" group-title="Hong Kong 香港",HOY TV
@@ -339,18 +339,18 @@ https://a1xs.vip/1000001
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 # https://a1xs.vip/1000002
 
-#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/330px-BBC_Four_HD_Logo.svg.png" group-title="UK Channels",BBC Four FHD
+#EXTINF:-1 tvg-id=="BBC.Four.HD.uk" tvg-name="BBC Four FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/330px-BBC_Four_HD_Logo.svg.png" group-title="UK Channels",BBC Four FHD
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports Main Event HD.uk" tvg-logo="https://tv.assets.pressassociation.io/4964f8fc-9ecf-55b1-be63-be6e1beda0cd.png" group-title="UK SPORTS",UK | Sky Sports Main Event
 https://a1xs.vip/2000001
-#EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="UK SPORTS",UK | Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="UK SPORTS",UK | Sky Sports Premier League
 https://a1xs.vip/2000002
-#EXTINF:-1 tvg-id="Sky Sports Football HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="UK SPORTS",UK | Sky Sports Football
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="UK SPORTS",UK | Sky Sports Football
 https://a1xs.vip/2000003
 
 
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="UK SPORTS",UK | TNT Sports 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="UK SPORTS",UK | TNT Sports 1
 https://a1xs.vip/2000021
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846762.ts
@@ -359,18 +359,18 @@ https://a1xs.vip/2000021
 
 # https://a1xs.vip/2000021
 
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="UK SPORTS",UK | TNT Sports 2
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="UK SPORTS",UK | TNT Sports 2
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846763.ts
 https://a1xs.vip/2000022
 
 
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="UK SPORTS",UK | TNT Sports 3
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="UK SPORTS",UK | TNT Sports 3
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846764.ts
 
 https://a1xs.vip/2000023
 
 
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="UK SPORTS",UK | TNT Sports 4
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="UK SPORTS",UK | TNT Sports 4
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846765.ts
 
 https://a1xs.vip/2000024

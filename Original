@@ -134,19 +134,28 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 # http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
-https://a1xs.vip/40000021
+# https://tvpass.org/live/FoxSports1/sd
+
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+# https://a1xs.vip/40000021
 # http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
-https://a1xs.vip/40000022
+https://tvpass.org/live/FoxSports2/sd
+
+# https://a1xs.vip/40000022
 
 # http://4.26.188.2:8081/udp/239.193.10.102:23902
 # This is also goo  11/08/2021
 # http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
 
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/250px-CBS_Sports_logo.svg.png?20180325235619" group-title=“SPORTS”, CBS SPorts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/250px-CBS_Sports_logo.svg.png?20180325235619" group-title=“SPORTS”, CBS SPorts
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 # https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",TUDN:US
@@ -355,9 +364,6 @@ https://a1xs.vip/2000021
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846762.ts
 
-# https://a1xs.vip/2000021
-
-# https://a1xs.vip/2000021
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="UK SPORTS",UK | TNT Sports 2
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846763.ts
@@ -387,25 +393,35 @@ https://tvpass.org/live/tsn1/sd
 # https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="CA Sports",TSN2
 # https://a1xs.vip/6000002
+https://tvpass.org/live/tsn2/sd
 
 # also good
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47442
+# http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47442
 
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="CA Sports",TSN3
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/10389
+https://tvpass.org/live/tsn3/sd
+
+# http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/10389
 # https://a1xs.vip/6000003
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="CA Sports",TSN4
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
+https://tvpass.org/live/tsn4/sd
+# http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
 # https://a1xs.vip/6000004
 
-# EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
+https://tvpass.org/live/tsn5/sd
+
 # https://a1xs.vip/6000005
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="CA Sports",Sportsnet Ontario FHD
 https://a1xs.vip/6000011
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="CA Sports",Sportsnet One FHD
-https://a1xs.vip/6000012
+https://tvpass.org/live/sportsnet-one/sd
+
+# https://a1xs.vip/6000012
+
+
 #EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_World.png" group-title="CA Sports",Sportsnet World FHD
 https://a1xs.vip/6000013
 # also good

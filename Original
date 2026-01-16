@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Unitedkingdom/unitedkingdom1.xml"
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
+# EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+# EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Unitedkingdom/unitedkingdom1.xml"
+# EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"
 
 #    https://bit.ly/3odvkOD 
 
@@ -336,27 +337,27 @@ http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="UK SPORTS",Sky Sports Action FHD
 https://a1xs.vip/2000011
 
-#EXTINF:-1 group-title="UK SPORTS",Sky Sports Golf FHD
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="UK SPORTS",Sky Sports Golf FHD
 https://7pal.short.gy/ssportsgf
 
-#EXTINF:-1 group-title="UK SPORTS",Hub Premier 1 FHD
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="UK SPORTS",Hub Premier 1 FHD
 https://7pal.short.gy/HPremier1
 
 
-#EXTINF:-1 group-title="UK SPORTS",Premier Sports 1 FHD
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="UK SPORTS",Premier Sports 1 FHD
 https://7pal.short.gy/prsport1
 
-#EXTINF:-1 group-title="UK SPORTS",Premier Sports 2 FHD
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="UK SPORTS",Premier Sports 2 FHD
 https://7pal.short.gy/prsport2
 
-#EXTINF:-1 group-title="UK SPORTS", Now Sports Premier League 2 FHD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="UK SPORTS", Now Sports Premier League 2 FHD
 https://7pal.short.gy/nowhkp2
 
-#EXTINF:-1 group-title="UK SPORTS", Now Sports Premier League 3 FHD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="UK SPORTS", Now Sports Premier League 3 FHD
 https://7pal.short.gy/nowhkp3
 
 
-#EXTINF:-1 group-title="SPORTS",Tennis Network
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS",Tennis Network
 https://7pal.short.gy/tennisc
 
 # EXTINF:-1 tvg-name="HOY TV" group-title="Hong Kong 香港",HOY TV
@@ -486,7 +487,7 @@ https://a1xs.vip/6000013
 # also good
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/75675
 
-#EXTINF:-1 group-title="CA Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="CA Sports",Sportsnet 360
 https://7pal.short.gy/sptsnet360
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="SPORTS",US | Spectrum Sportsnet FHD

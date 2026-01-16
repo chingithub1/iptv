@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
+# EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 # EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 # EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Unitedkingdom/unitedkingdom1.xml"
 # EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"

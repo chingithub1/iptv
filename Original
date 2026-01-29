@@ -82,9 +82,11 @@ https://tvpass.org/live/NBATV/sd
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+http://nocable.cc:8080/5AGbfz/324331/21376
+
 # https://a1xs.vip/300008
 # good
-https://tvpass.org/live/MSNBC/hd
+# https://tvpass.org/live/MSNBC/hd
 
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="24/7 WORLD NEWS",BBC World News (GB)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -122,11 +124,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
-
+http://nocable.cc:8080/5AGbfz/324331/47346
 
 # https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-https://7pal.short.gy/nflnw
+# https://7pal.short.gy/nflnw
 
 # https://tvpass.org/live/NFLNetwork/sd
 
@@ -186,6 +188,15 @@ https://tvpass.org/live/nbc-sports-bay-area/sd
 
 #EXTINF:-1 group-title="SPORTS", Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/sd
+
+#EXTINF:-1 tvg-name="UK MOVIES: SKY CINEMA DRAMA[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK MOVIES: SKY CINEMA DRAMA[1920x1080].png" group-title="Movies",UK MOVIES: SKY CINEMA DRAMA[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/35251
+
+#EXTINF:-1 tvg-name="UK-Sky Cinema Premier[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK-Sky Cinema Premier[1920x1080].png" group-title="Movies",UK-Sky Cinema Premier[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/35256
+
+#EXTINF:-1 tvg-name="US Cinemax (East)[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/US Cinemax (East)[1920x1080].png" group-title="Movies",US Cinemax (East)[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/13380
 
 #EXTINF:-1 group-title="Movies",MGM+ East
 https://fl1.moveonjoy.com/EPIX/index.m3u8

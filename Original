@@ -361,15 +361,19 @@ https://a1xs.vip/2000011
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="UK SPORTS",Sky Sports Golf FHD
 https://7pal.short.gy/ssportsgf
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="UK SPORTS",Hub Premier 1 FHD
-https://7pal.short.gy/HPremier1
+# EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="UK SPORTS",Hub Premier 1 FHD
+# https://7pal.short.gy/HPremier1
 
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="UK SPORTS",Premier Sports 1 FHD
-https://7pal.short.gy/prsport1
+https://a1xs.vip/8000021
+
+# https://7pal.short.gy/prsport1
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="UK SPORTS",Premier Sports 2 FHD
-https://7pal.short.gy/prsport2
+https://a1xs.vip/8000021
+
+# https://7pal.short.gy/prsport2
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="UK SPORTS", Now Sports Premier League 2 FHD
 https://7pal.short.gy/nowhkp2
@@ -403,7 +407,9 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://tv.assets.pressassociation.io/4964f8fc-9ecf-55b1-be63-be6e1beda0cd.png" group-title="UK SPORTS",UK | Sky Sports Main Event
-https://a1xs.vip/2000001
+https://7pal.short.gy/SkSpMainE
+
+# https://a1xs.vip/2000001
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="UK SPORTS",UK | Sky Sports Premier League
 # https://7pal.short.gy/ssportspl
 
@@ -417,34 +423,34 @@ https://a1xs.vip/2000003
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="UK SPORTS",UK | TNT Sports 1
-# https://7pal.short.gy/tntspts1
+https://7pal.short.gy/tntspts1
 
-https://a1xs.vip/2000021
+# https://a1xs.vip/2000021
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846762.ts
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="UK SPORTS",UK | TNT Sports 2
-# https://7pal.short.gy/tntspts2
+https://7pal.short.gy/tntspts2
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846763.ts
-https://a1xs.vip/2000022
+# https://a1xs.vip/2000022
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="UK SPORTS",UK | TNT Sports 3
-# https://7pal.short.gy/tntspts3
+https://7pal.short.gy/tntspts3
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846764.ts
 
-https://a1xs.vip/2000023
+# https://a1xs.vip/2000023
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="UK SPORTS",UK | TNT Sports 4
-# https://7pal.short.gy/tntspts4
+https://7pal.short.gy/tntspts4
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846765.ts
 
-https://a1xs.vip/2000024
+# https://a1xs.vip/2000024
 
 # EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" group-title="UK SPORTS",UK | TNT Sports Ultimate UHD
 # https://a1xs.vip/2000031

@@ -82,7 +82,9 @@ https://tvpass.org/live/NBATV/sd
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-http://nocable.cc:8080/5AGbfz/324331/21376
+https://a1xs.vip/300008
+
+# http://nocable.cc:8080/5AGbfz/324331/21376
 
 # https://a1xs.vip/300008
 # good
@@ -276,7 +278,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 # http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 
-#EXTINF: -1 tvg-id="明珠台.hk" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
+#EXTINF: -1 tvg-id="明珠台.hk" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="Hong Kong 香港", Pearl 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 
 # good
@@ -421,6 +423,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
 https://a1xs.vip/1000001
+
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="UK Channels",BBC Two FHD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 # https://a1xs.vip/1000002

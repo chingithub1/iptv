@@ -395,15 +395,15 @@ https://a1xs.vip/8000021
 # https://7pal.short.gy/prsport1
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="SPORTS",Premier Sports 2 FHD
-https://a1xs.vip/8000021
+https://a1xs.vip/8000022
 
 # https://7pal.short.gy/prsport2
 
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="SPORTS", Now Sports Premier League 2 FHD
-https://7pal.short.gy/nowhkp2
+# EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="SPORTS", Now Sports Premier League 2 FHD
+# https://7pal.short.gy/nowhkp2
 
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="SPORTS", Now Sports Premier League 3 FHD
-https://7pal.short.gy/nowhkp3
+# EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="SPORTS", Now Sports Premier League 3 FHD
+# https://7pal.short.gy/nowhkp3
 
 
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS",Tennis Network

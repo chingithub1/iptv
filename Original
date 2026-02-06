@@ -75,7 +75,7 @@ https://tvpass.org/live/espn-deportes/sd
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN2
 https://7pal.short.gy/espn2
 
-#EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="SPORTS", NBA TV
 
 # https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 https://tvpass.org/live/NBATV/sd
@@ -130,7 +130,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
-http://nocable.cc:8080/5AGbfz/324331/47346
+# http://nocable.cc:8080/5AGbfz/324331/47346
 
 # https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
@@ -371,6 +371,9 @@ http://bxtv.3a.ink/api.php?id=meiya
 # EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合
 # http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="256" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="China 央视", CCTV1 央视综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="240" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="China 央视", CCTV4 国际新聞
 http://iptv.4666888.xyz/iptv2A.php?id=10
 
@@ -382,7 +385,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=11
 http://183.151.27.135:4022/udp/233.50.200.108:5140
 # http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax",CCTV 5plus 央视体育
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="China 央视",CCTV 5plus 央视体育
 http://69.30.246.194/live/cctv5p.m3u8
 
 # EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
@@ -468,22 +471,28 @@ https://a1xs.vip/2000003
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="SPORTS",UK | TNT Sports 1
-https://7pal.short.gy/tntspts1
+# https://7pal.short.gy/tntspts1
 
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147028
 # https://a1xs.vip/2000021
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846762.ts
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="SPORTS",UK | TNT Sports 2
-https://7pal.short.gy/tntspts2
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147029
+
+# https://7pal.short.gy/tntspts2
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846763.ts
 # https://a1xs.vip/2000022
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="SPORTS",UK | TNT Sports 3
-https://7pal.short.gy/tntspts3
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147030
+
+
+# https://7pal.short.gy/tntspts3
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846764.ts
 
@@ -491,7 +500,9 @@ https://7pal.short.gy/tntspts3
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="SPORTS",UK | TNT Sports 4
-https://7pal.short.gy/tntspts4
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147031
+
+# https://7pal.short.gy/tntspts4
 
 # http://ky-iptv.com:80/MsLady2024/2024MsLady/1846765.ts
 

@@ -70,15 +70,18 @@ https://7pal.short.gy/espnus
 # http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="espn-deportes" group-title="SPORTS", ESPN Deportes
-https://tvpass.org/live/espn-deportes/sd
+
+http://supersonictv.live:8080/006779/439866/22222
+# https://tvpass.org/live/espn-deportes/sd
 
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN2
 https://7pal.short.gy/espn2
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="SPORTS", NBA TV
+http://supersonictv.live:8080/006779/439866/40409
 
 # https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-https://tvpass.org/live/NBATV/sd
+# https://tvpass.org/live/NBATV/sd
 
 #EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -151,16 +154,22 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+# Also good
+# http://supersonictv.live:8080/006779/439866/40398
+
+# https://a1xs.vip/40000021
 # https://tvpass.org/live/FoxSports1/sd
 
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-# https://a1xs.vip/40000021
-# http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
-https://tvpass.org/live/FoxSports2/sd
 
+http://supersonictv.live:8080/006779/439866/40399
+
+# also good
+# https://tvpass.org/live/FoxSports2/sd
 # https://a1xs.vip/40000022
 
 # http://4.26.188.2:8081/udp/239.193.10.102:23902
@@ -170,7 +179,7 @@ https://tvpass.org/live/FoxSports2/sd
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/250px-CBS_Sports_logo.svg.png?20180325235619" group-title=“SPORTS”, CBS SPorts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/250px-CBS_Sports_logo.svg.png?20180325235619" group-title="SPORTS", CBS SPorts
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 # https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
@@ -395,8 +404,10 @@ http://69.30.246.194/live/cctv5p.m3u8
 # EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
 # http://iptv.tvfix.org/hls/tvbws.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="SPORTS",Sky Sports Action FHD
-https://a1xs.vip/2000011
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="SPORTS",Sky Sports Action/NFL
+https://7pal.short.gy/ssportsat
+
+# https://a1xs.vip/2000011
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="SPORTS",Sky Sports Golf FHD
 https://7pal.short.gy/ssportsgf
@@ -412,7 +423,7 @@ http://lunar.pm:8080/Mrdon/4782314540/110289
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="SPORTS",Premier Sports 1 FHD
 https://a1xs.vip/8000021
-
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/5107.m3u8
 # https://7pal.short.gy/prsport1
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="SPORTS",Premier Sports 2 FHD
@@ -429,6 +440,13 @@ https://a1xs.vip/8000022
 
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS",Tennis Network
 https://7pal.short.gy/tennisc
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SPORTS",FR | CANAL+ PREMIER LEAGUE HD
+http://185.160.192.64:80/mangin15/85784/116520
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SPORTS",FR | CANAL+ FOOT HD
+http://185.160.192.64:80/mangin15/85784/181485
 
 # EXTINF:-1 tvg-name="HOY TV" group-title="Hong Kong 香港",HOY TV
 # http://cdn.132.us.kg/live/hoy/stream.m3u8

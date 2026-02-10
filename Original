@@ -109,17 +109,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
-# http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-name="CA CBC NEWS NETWORK (E)[960x540]" tvg-logo="https://live.fanmingming.cn/tv/CA CBC NEWS NETWORK (E)[960x540].png" group-title="24/7 WORLD NEWS",CA CBC NEWS NETWORK
+http://nocable.cc:8080/5AGbfz/324331/57304
 
-
-# https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-
-# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
-# http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
+# https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/330px-CNA_new_logo.svg.png
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idf16zN4Pw/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1766799971272" group-title="24/7 WORLD NEWS" ,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
@@ -386,6 +380,10 @@ http://bxtv.3a.ink/api.php?id=meiya
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="256" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="China 央视", CCTV1 央视综合
 http://74.91.26.218:82/live/cctv1hd.m3u8
+
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="235" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="China 央视", CCTV2
+http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="240" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="China 央视", CCTV4 国际新聞
 http://69.30.245.50/live/cctv4.m3u8

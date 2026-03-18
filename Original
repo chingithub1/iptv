@@ -145,10 +145,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://supersonictv.live:8080/006779/439866/40398
+
+# https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 # Also good
-# http://supersonictv.live:8080/006779/439866/40398
+# 
 
 # https://a1xs.vip/40000021
 # https://tvpass.org/live/FoxSports1/sd
@@ -489,40 +491,47 @@ https://a1xs.vip/2000003
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="SPORTS",UK | TNT Sports 1
-https://7pal.short.gy/tntspts1
+https://a1xs.vip/2000021
+
+# https://7pal.short.gy/tntspts1
 
 # http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147028
-# https://a1xs.vip/2000021
+# 
 
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="SPORTS",UK | TNT Sports 2
+https://a1xs.vip/2000022
 
 # http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147029
 
-https://7pal.short.gy/tntspts2
+# https://7pal.short.gy/tntspts2
 
-# https://a1xs.vip/2000022
+# 
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="SPORTS",UK | TNT Sports 3
+https://a1xs.vip/2000023
+
 # http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147030
 
-https://7pal.short.gy/tntspts3
+# https://7pal.short.gy/tntspts3
 
-# https://a1xs.vip/2000023
+
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="SPORTS",UK | TNT Sports 4
+https://a1xs.vip/2000024
+
 # http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147031
 
-https://7pal.short.gy/tntspts4
+# https://7pal.short.gy/tntspts4
 
 
-# https://a1xs.vip/2000024
+# 
 
-# EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" group-title="SPORTS",UK | TNT Sports Ultimate UHD
-# https://a1xs.vip/2000031
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" group-title="SPORTS",UK | TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1

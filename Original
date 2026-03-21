@@ -365,8 +365,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 # http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
 
-#EXTINF:-1 tvg-id="美亞電影台.hk" group-title="Hong Kong 香港",美亞電影台(HK)
-http://bxtv.3a.ink/api.php?id=meiya
+# EXTINF:-1 tvg-id="美亞電影台.hk" group-title="Hong Kong 香港",美亞電影台(HK)
+# http://bxtv.3a.ink/api.php?id=meiya
 
 # http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 # http://php.jdshipin.com/TVOD/iptv.php?id=meiya

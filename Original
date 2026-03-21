@@ -262,8 +262,8 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 # http://aktv_stream.m16tv.cfd/stream/aktv1/28ai/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="368334"  group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
-http://bxtv.3a.ink/api.php?id=18
+# EXTINF:-1 tvg-id="368334"  group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
+# http://bxtv.3a.ink/api.php?id=18
 
 # http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
 
@@ -431,7 +431,7 @@ http://lunar.pm:8080/Mrdon/4782314540/110289
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="SPORTS",Premier Sports 1 FHD
 https://a1xs.vip/8000021
-http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/5107.m3u8
+
 # https://7pal.short.gy/prsport1
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="SPORTS",Premier Sports 2 FHD
@@ -602,8 +602,8 @@ https://a1xs.vip/6000013
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="SPORTS",CA Sportsnet 360
 https://7pal.short.gy/sptsnet360
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="SPORTS",US | Spectrum Sportsnet FHD
-https://a1xs.vip/4000006
+# EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="SPORTS",US | Spectrum Sportsnet FHD
+# https://a1xs.vip/4000006
 
 # EXTINF:0 group-title="UK Channels", Sky ARTs
 # https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2210.ts

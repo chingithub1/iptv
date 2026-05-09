@@ -67,7 +67,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://tvpass.org/live/CNBC/sd
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-https://a1xs.vip/40000011
+https://tvpass.org/live/ESPN/sd
+
+
+# https://a1xs.vip/40000011
 
 # https://7pal.short.gy/espnus
 
@@ -78,11 +81,13 @@ https://a1xs.vip/40000011
 
 #EXTINF:-1 tvg-id="espn-deportes" group-title="SPORTS", ESPN Deportes
 
-http://supersonictv.live:8080/006779/439866/22222
-# https://tvpass.org/live/espn-deportes/sd
+# http://supersonictv.live:8080/006779/439866/22222
+https://tvpass.org/live/espn-deportes/sd
 
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN2
-https://7pal.short.gy/espn2
+https://tvpass.org/live/ESPN2/sd
+
+# https://7pal.short.gy/espn2
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="SPORTS", NBA TV
 https://tvpass.org/live/NBATV/sd

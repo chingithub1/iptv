@@ -85,10 +85,12 @@ http://supersonictv.live:8080/006779/439866/22222
 https://7pal.short.gy/espn2
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="SPORTS", NBA TV
-http://supersonictv.live:8080/006779/439866/40409
+https://tvpass.org/live/NBATV/sd
+
+# http://supersonictv.live:8080/006779/439866/40409
 
 # https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-# https://tvpass.org/live/NBATV/sd
+# 
 
 #EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -139,13 +141,15 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 
 
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+
 # http://nocable.cc:8080/5AGbfz/324331/47346
 
 # https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-https://7pal.short.gy/nflnw
+# https://7pal.short.gy/nflnw
 
-# https://tvpass.org/live/NFLNetwork/sd
+# 
 
 # https://a1xs.vip/40000032
 
@@ -565,44 +569,53 @@ https://a1xs.vip/2000031
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
-https://7pal.short.gy/tsn1ca
 
-# https://tvpass.org/live/tsn1/sd
+https://tvpass.org/live/tsn1/sd
 
+# https://7pal.short.gy/tsn1ca
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47440
 
 # https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="SPORTS",CA TSN2
-https://7pal.short.gy/tsn2ca
+https://tvpass.org/live/tsn2/sd
+
+# https://7pal.short.gy/tsn2ca
 
 # https://a1xs.vip/6000002
-# https://tvpass.org/live/tsn2/sd
+# 
 
 # also good
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47442
 
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="SPORTS",CA TSN3
-https://7pal.short.gy/tsn3ca
+https://tvpass.org/live/tsn3/sd
 
-# https://tvpass.org/live/tsn3/sd
+# https://7pal.short.gy/tsn3ca
+
+# 
 
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/10389
 # https://a1xs.vip/6000003
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="SPORTS",CA TSN4
-https://7pal.short.gy/tsn4ca
+https://tvpass.org/live/tsn4/sd
 
-# https://tvpass.org/live/tsn4/sd
+# https://7pal.short.gy/tsn4ca
+
+# 
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
 # https://a1xs.vip/6000004
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="SPORTS",CA TSN5
-https://7pal.short.gy/tsn5ca
+https://tvpass.org/live/tsn5/sd
 
-# https://tvpass.org/live/tsn5/sd
+# https://7pal.short.gy/tsn5ca
 
+# 
 # https://a1xs.vip/6000005
+
+
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="SPORTS", CA Sportsnet Ontario FHD
 https://7pal.short.gy/sptsneton
 
@@ -611,9 +624,11 @@ https://7pal.short.gy/sptsneton
 
 
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="SPORTS", CA Sportsnet One FHD
-https://7pal.short.gy/sptsnet1
+https://tvpass.org/live/sportsnet-one/sd
 
-# https://tvpass.org/live/sportsnet-one/sd
+# https://7pal.short.gy/sptsnet1
+
+# 
 
 # https://a1xs.vip/6000012
 

@@ -100,6 +100,11 @@ https://tvpass.org/live/NBATV/sd
 #EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US" group-title="24/7 WORLD NEWS",Bloomberg Originals (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+
+
 #EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
 https://tvpass.org/live/MSNBC/hd
 
@@ -505,9 +510,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 https://a1xs.vip/1000001
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="UK Channels",BBC Two FHD
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
-
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+# https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 # https://a1xs.vip/1000002
 
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/330px-BBC_Four_HD_Logo.svg.png" group-title="UK Channels",BBC Four FHD
@@ -579,7 +584,8 @@ https://a1xs.vip/2000031
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
 
-https://tvpass.org/live/tsn1/sd
+https://tvpass.org/live/tsn1/hd
+
 
 # https://7pal.short.gy/tsn1ca
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47440

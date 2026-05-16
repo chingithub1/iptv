@@ -533,9 +533,11 @@ https://a1xs.vip/2000002
 
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="SPORTS",UK | Sky Sports Football
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30822.ts
+
 # https://7pal.short.gy/ssportsfb
 
-https://a1xs.vip/2000003
+# https://a1xs.vip/2000003
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="SPORTS",UK | TNT Sports 1
@@ -583,8 +585,8 @@ https://a1xs.vip/2000031
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
-
-https://tvpass.org/live/tsn1/hd
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts
+# https://tvpass.org/live/tsn1/hd
 
 
 # https://7pal.short.gy/tsn1ca
@@ -664,5 +666,6 @@ https://7pal.short.gy/sptsnet360
 
 # https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
 
-
+#EXTINF:-1 tvg-chno="131" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2412.ts
 

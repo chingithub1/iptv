@@ -177,7 +177,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
-https://tvpass.org/live/FoxSports1/sd
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
+
+
+# https://tvpass.org/live/FoxSports1/sd
 
 # http://supersonictv.live:8080/006779/439866/40398
 
@@ -192,7 +195,9 @@ https://tvpass.org/live/FoxSports1/sd
 
 
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
-https://tvpass.org/live/FoxSports2/sd
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts
+
+# https://tvpass.org/live/FoxSports2/sd
 
 
 # http://supersonictv.live:8080/006779/439866/40399

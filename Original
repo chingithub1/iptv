@@ -519,14 +519,17 @@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/
 
 
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS",Tennis Network
-https://7pal.short.gy/tennisc
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SPORTS",FR | CANAL+ PREMIER LEAGUE HD
-http://185.160.192.64:80/mangin15/85784/116520
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SPORTS",FR | CANAL+ FOOT HD
-http://185.160.192.64:80/mangin15/85784/181485
+
+# EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SPORTS",FR | CANAL+ PREMIER LEAGUE HD
+# http://185.160.192.64:80/mangin15/85784/116520
+
+#
+# EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SPORTS",FR | CANAL+ FOOT HD
+# http://185.160.192.64:80/mangin15/85784/181485
 
 # EXTINF:-1 tvg-name="HOY TV" group-title="Hong Kong 香港",HOY TV
 # http://cdn.132.us.kg/live/hoy/stream.m3u8

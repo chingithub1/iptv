@@ -224,8 +224,11 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 
 
 
-#EXTINF:-1 tvg-id="nbc-sports-bay-area" group-title="SPORTS", NBC Sport Bay Area
-https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="SPORTS",NBC Sports Bay Area
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2436.ts
+
+# EXTINF:-1 tvg-id="nbc-sports-bay-area" group-title="SPORTS", NBC Sport Bay Area
+# https://tvpass.org/live/nbc-sports-bay-area/sd
 
 
 # EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
@@ -237,14 +240,25 @@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/
 
 # https://tvpass.org/live/spectrum-sportsnet/sd
 
-#EXTINF:-1 tvg-name="UK MOVIES: SKY CINEMA DRAMA[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK MOVIES: SKY CINEMA DRAMA[1920x1080].png" group-title="Movies",UK MOVIES: SKY CINEMA DRAMA[1920x1080]
-http://nocable.cc:8080/5AGbfz/324331/35251
+# EXTINF:-1 tvg-name="UK MOVIES: SKY CINEMA DRAMA[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK MOVIES: SKY CINEMA DRAMA[1920x1080].png" group-title="Movies",UK MOVIES: SKY CINEMA DRAMA[1920x1080]
+# http://nocable.cc:8080/5AGbfz/324331/35251
 
-#EXTINF:-1 tvg-name="UK-Sky Cinema Premier[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK-Sky Cinema Premier[1920x1080].png" group-title="Movies",UK-Sky Cinema Premier[1920x1080]
-http://nocable.cc:8080/5AGbfz/324331/35256
+# EXTINF:-1 tvg-name="UK-Sky Cinema Premier[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK-Sky Cinema Premier[1920x1080].png" group-title="Movies",UK-Sky Cinema Premier[1920x1080]
+# http://nocable.cc:8080/5AGbfz/324331/35256
 
 #EXTINF:-1 tvg-name="US Cinemax (East)[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/US Cinemax (East)[1920x1080].png" group-title="Movies",US Cinemax (East)[1920x1080]
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="Movies",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Movies",Showtime Extreme
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648984.ts
+
+
+
+
+
 
 # http://nocable.cc:8080/5AGbfz/324331/13380
 
@@ -274,14 +288,21 @@ https://tvpass.org/live/HBOFamilyEast/sd
 #EXTINF:-1 group-title="Movies", HBO Signature (East)
 https://tvpass.org/live/HBOSignatureEast/sd
 
-#EXTINF:-1 group-title="Movies", HBO (East)
-https://tvpass.org/live/HBOEast/sd
+#EXTINF:-1 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies", HBO (East)
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+# https://tvpass.org/live/HBOEast/sd
 
 #EXTINF:-1 group-title="Movies", HBO 2 (East)
 https://tvpass.org/live/HBO2East/sd
 
-#EXTINF:-1 group-title="Movies", HBO Zone (East)
-https://tvpass.org/live/HBOZoneEast/sd
+#EXTINF:-1  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movies",HBO Zone
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648982.ts
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Movies",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Movies", HBO Comedy (East)
 https://tvpass.org/live/HBOComedyEast/sd
@@ -431,8 +452,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 http://74.91.26.218:82/live/cctv1hd.m3u8
 
 
-#EXTINF:-1 tvg-name="CCTV2" tvg-id="235" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="China 央视", CCTV2
-http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
+# EXTINF:-1 tvg-name="CCTV2" tvg-id="235" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="China 央视", CCTV2
+# http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="240" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="China 央视", CCTV4 国际新聞
 http://69.30.245.50/live/cctv4.m3u8
@@ -449,8 +470,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 # http://183.151.27.135:4022/udp/233.50.200.108:5140
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="China 央视",CCTV 5plus 央视体育
-http://69.30.246.194/live/cctv5p.m3u8
+# EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="China 央视",CCTV 5plus 央视体育
+# http://69.30.246.194/live/cctv5p.m3u8
 
 # EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
 # https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8

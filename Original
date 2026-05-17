@@ -233,7 +233,9 @@ https://tvpass.org/live/nbc-sports-bay-area/sd
 
 
 #EXTINF:-1 group-title="SPORTS", Spectrum Sportsnet Lakers
-https://tvpass.org/live/spectrum-sportsnet/sd
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74684.ts
+
+# https://tvpass.org/live/spectrum-sportsnet/sd
 
 #EXTINF:-1 tvg-name="UK MOVIES: SKY CINEMA DRAMA[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK MOVIES: SKY CINEMA DRAMA[1920x1080].png" group-title="Movies",UK MOVIES: SKY CINEMA DRAMA[1920x1080]
 http://nocable.cc:8080/5AGbfz/324331/35251
@@ -475,12 +477,16 @@ http://lunar.pm:8080/Mrdon/4782314540/110288
 http://lunar.pm:8080/Mrdon/4782314540/110289
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="SPORTS",Premier Sports 1 FHD
-https://a1xs.vip/8000021
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89089.ts
+
+# https://a1xs.vip/8000021
 
 # https://7pal.short.gy/prsport1
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="SPORTS",Premier Sports 2 FHD
-https://a1xs.vip/8000022
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89090.ts
+
+# https://a1xs.vip/8000022
 
 # https://7pal.short.gy/prsport2
 
@@ -648,7 +654,9 @@ https://7pal.short.gy/sptsneton
 
 
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="SPORTS", CA Sportsnet One FHD
-https://tvpass.org/live/sportsnet-one/sd
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3071.ts
+
+# https://tvpass.org/live/sportsnet-one/sd
 
 # https://7pal.short.gy/sptsnet1
 
@@ -663,7 +671,12 @@ https://a1xs.vip/6000013
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/75675
 
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="SPORTS",CA Sportsnet 360
-https://7pal.short.gy/sptsnet360
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3073.ts
+
+# https://7pal.short.gy/sptsnet360
+
+#EXTINF:-1 tvg-chno="137" tvg-id="Sportsnet.East.ca2" group-title="SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" ,Sportsnet East
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3072.ts
 
 # EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="SPORTS",US | Spectrum Sportsnet FHD
 # https://a1xs.vip/4000006

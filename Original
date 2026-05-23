@@ -176,7 +176,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="2026 WORLD CUP" ,FS1 HD
 
 
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
@@ -196,7 +196,7 @@ https://tvpass.org/live/FoxSports1/hd
 
 
 
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="2026 WORLD CUP" ,FS2 HD
 
 
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts
@@ -634,7 +634,7 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="2026 WORLD CUP",CA TSN1
 
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts
 https://tvpass.org/live/tsn1/hd
@@ -644,7 +644,7 @@ https://tvpass.org/live/tsn1/hd
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47440
 
 # https://a1xs.vip/6000001
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="SPORTS",CA TSN2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="2026 WORLD CUP",CA TSN2
 https://tvpass.org/live/tsn2/sd
 
 # https://7pal.short.gy/tsn2ca
@@ -656,7 +656,7 @@ https://tvpass.org/live/tsn2/sd
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47442
 
 
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="SPORTS",CA TSN3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="2026 WORLD CUP",CA TSN3
 https://tvpass.org/live/tsn3/sd
 
 # https://7pal.short.gy/tsn3ca
@@ -666,7 +666,7 @@ https://tvpass.org/live/tsn3/sd
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/10389
 # https://a1xs.vip/6000003
 
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="SPORTS",CA TSN4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="2026 WORLD CUP",CA TSN4
 https://tvpass.org/live/tsn4/sd
 
 # https://7pal.short.gy/tsn4ca
@@ -675,7 +675,7 @@ https://tvpass.org/live/tsn4/sd
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
 # https://a1xs.vip/6000004
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="SPORTS",CA TSN5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="2026 WORLD CUP",CA TSN5
 https://tvpass.org/live/tsn5/sd
 
 # https://7pal.short.gy/tsn5ca
@@ -727,3 +727,8 @@ https://a1xs.vip/6000013
 # EXTINF:-1 tvg-chno="131" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2412.ts
 
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" group-title="2026 WORLD CUP",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English"group-title="2026 WORLD CUP" ,FIFA+ (720p)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8

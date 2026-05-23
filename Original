@@ -177,10 +177,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
 
 
-# https://tvpass.org/live/FoxSports1/sd
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
+
+
+https://tvpass.org/live/FoxSports1/hd
 
 # http://supersonictv.live:8080/006779/439866/40398
 
@@ -195,9 +197,11 @@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/
 
 
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts
 
-# https://tvpass.org/live/FoxSports2/sd
+
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts
+
+https://tvpass.org/live/FoxSports2/hd
 
 
 # http://supersonictv.live:8080/006779/439866/40399
@@ -225,10 +229,12 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="SPORTS",NBC Sports Bay Area
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2436.ts
+https://tvpass.org/live/nbc-sports-bay-area/hd
+
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2436.ts
 
 # EXTINF:-1 tvg-id="nbc-sports-bay-area" group-title="SPORTS", NBC Sport Bay Area
-# https://tvpass.org/live/nbc-sports-bay-area/sd
+# 
 
 
 # EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
@@ -236,9 +242,11 @@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/
 
 
 #EXTINF:-1 group-title="SPORTS", Spectrum Sportsnet Lakers
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74684.ts
 
-# https://tvpass.org/live/spectrum-sportsnet/sd
+
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74684.ts
+
+https://tvpass.org/live/spectrum-sportsnet/hd
 
 # EXTINF:-1 tvg-name="UK MOVIES: SKY CINEMA DRAMA[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK MOVIES: SKY CINEMA DRAMA[1920x1080].png" group-title="Movies",UK MOVIES: SKY CINEMA DRAMA[1920x1080]
 # http://nocable.cc:8080/5AGbfz/324331/35251
@@ -296,8 +304,8 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="Movies", HBO 2 (East)
 https://tvpass.org/live/HBO2East/sd
 
-#EXTINF:-1  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movies",HBO Zone
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648982.ts
+# EXTINF:-1  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movies",HBO Zone
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648982.ts
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Movies",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
@@ -497,15 +505,15 @@ http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTS",Hub Premier  EPL 02
 http://lunar.pm:8080/Mrdon/4782314540/110289
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="SPORTS",Premier Sports 1 FHD
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89089.ts
+# EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="SPORTS",Premier Sports 1 FHD
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89089.ts
 
 # https://a1xs.vip/8000021
 
 # https://7pal.short.gy/prsport1
 
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="SPORTS",Premier Sports 2 FHD
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89090.ts
+# EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="SPORTS",Premier Sports 2 FHD
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89090.ts
 
 # https://a1xs.vip/8000022
 
@@ -575,11 +583,11 @@ https://a1xs.vip/2000002
 
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="SPORTS",UK | Sky Sports Football
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30822.ts
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30822.ts
 
 # https://7pal.short.gy/ssportsfb
 
-# https://a1xs.vip/2000003
+https://a1xs.vip/2000003
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="SPORTS",UK | TNT Sports 1
@@ -627,8 +635,9 @@ https://a1xs.vip/2000031
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts
-# https://tvpass.org/live/tsn1/hd
+
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts
+https://tvpass.org/live/tsn1/hd
 
 
 # https://7pal.short.gy/tsn1ca
@@ -683,9 +692,9 @@ https://7pal.short.gy/sptsneton
 
 
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="SPORTS", CA Sportsnet One FHD
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3071.ts
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3071.ts
 
-# https://tvpass.org/live/sportsnet-one/sd
+https://tvpass.org/live/sportsnet-one/hd
 
 # https://7pal.short.gy/sptsnet1
 
@@ -699,13 +708,13 @@ https://a1xs.vip/6000013
 # also good
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/75675
 
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="SPORTS",CA Sportsnet 360
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3073.ts
+# EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="SPORTS",CA Sportsnet 360
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3073.ts
 
 # https://7pal.short.gy/sptsnet360
 
-#EXTINF:-1 tvg-chno="137" tvg-id="Sportsnet.East.ca2" group-title="SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" ,Sportsnet East
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3072.ts
+# EXTINF:-1 tvg-chno="137" tvg-id="Sportsnet.East.ca2" group-title="SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" ,Sportsnet East
+@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3072.ts
 
 # EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="SPORTS",US | Spectrum Sportsnet FHD
 # https://a1xs.vip/4000006
@@ -715,6 +724,6 @@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/
 
 # https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
 
-#EXTINF:-1 tvg-chno="131" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2412.ts
+# EXTINF:-1 tvg-chno="131" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2412.ts
 

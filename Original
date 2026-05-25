@@ -64,7 +64,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 #EXTINF:-1 tvg-id="cnbc-usa"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-https://tvpass.org/live/CNBC/sd
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
+
+
+# https://tvpass.org/live/CNBC/sd
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 https://tvpass.org/live/ESPN/sd
@@ -153,7 +156,9 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 
 
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
-https://tvpass.org/live/NFLNetwork/sd
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+
+# https://tvpass.org/live/NFLNetwork/sd
 
 # http://nocable.cc:8080/5AGbfz/324331/47346
 
@@ -249,12 +254,17 @@ https://tvpass.org/live/nbc-sports-bay-area/hd
 # https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS", Spectrum Sportsnet Lakers
+
+#EXTINF:-1 tvg-chno="132" tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum SportsNet Lakers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png" group-title="SPORTS",Spectrum SportsNet Lakers
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/873.ts
+
+
+# EXTINF:-1 group-title="SPORTS", Spectrum Sportsnet Lakers
 
 
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/74684.ts
 
-https://tvpass.org/live/spectrum-sportsnet/hd
+# https://tvpass.org/live/spectrum-sportsnet/hd
 
 # EXTINF:-1 tvg-name="UK MOVIES: SKY CINEMA DRAMA[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK MOVIES: SKY CINEMA DRAMA[1920x1080].png" group-title="Movies",UK MOVIES: SKY CINEMA DRAMA[1920x1080]
 # http://nocable.cc:8080/5AGbfz/324331/35251
@@ -501,36 +511,31 @@ http://74.91.26.218:82/live/cctv5hd.m3u8
 # EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
 # http://iptv.tvfix.org/hls/tvbws.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",Sky Sports Action/NFL
-https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-chno="119" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="SPORTS",Premier Sports 1
+http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/376
+
+#EXTINF:-1 tvg-chno="120" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="SPORTS",Premier Sports 2
+http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89090.ts
+
+
+# EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",Sky Sports Action/NFL
+# https://7pal.short.gy/ssportsat
 
 # https://a1xs.vip/2000011
 
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="SPORTS",Sky Sports Golf FHD
-https://7pal.short.gy/ssportsgf
+# EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="SPORTS",Sky Sports Golf FHD
+# https://7pal.short.gy/ssportsgf
 
 # EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="SPORTS",Hub Premier 1 FHD
 # https://7pal.short.gy/HPremier1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTS",Hub Premier  EPL 01
-http://lunar.pm:8080/Mrdon/4782314540/110288
+# EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTS",Hub Premier  EPL 01
+# http://lunar.pm:8080/Mrdon/4782314540/110288
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTS",Hub Premier  EPL 02
-http://lunar.pm:8080/Mrdon/4782314540/110289
+# EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="SPORTS",Hub Premier  EPL 02
+# http://lunar.pm:8080/Mrdon/4782314540/110289
 
-# EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="SPORTS",Premier Sports 1 FHD
-# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89089.ts
 
-# https://a1xs.vip/8000021
-
-# https://7pal.short.gy/prsport1
-
-# EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="SPORTS",Premier Sports 2 FHD
-# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89090.ts
-
-# https://a1xs.vip/8000022
-
-# https://7pal.short.gy/prsport2
 
 # EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="SPORTS", Now Sports Premier League 2 FHD
 # https://7pal.short.gy/nowhkp2
@@ -594,17 +599,20 @@ http://nocable.cc:8080/5AGbfz/324331/35243
 
 # https://a1xs.vip/2000001
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="SPORTS",UK | Sky Sports Premier League
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2165.ts
+
 # https://7pal.short.gy/ssportspl
 
-https://a1xs.vip/2000002
+# https://a1xs.vip/2000002
 
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="SPORTS",UK | Sky Sports Football
-# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30822.ts
+
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2166.ts
 
 # https://7pal.short.gy/ssportsfb
-
-https://a1xs.vip/2000003
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30822.ts
+# https://a1xs.vip/2000003
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="SPORTS",UK | TNT Sports 1
@@ -756,7 +764,9 @@ https://a1xs.vip/6000013
 
 # https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
 
-# EXTINF:-1 tvg-chno="131" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
+#EXTINF:-1 tvg-chno="131" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1217.ts
+
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2412.ts
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" group-title="2026 WORLD CUP",FIFA+ United States (720p)

@@ -129,6 +129,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CA CBC NEWS NETWORK (E)[960x540]" tvg-logo="https://live.fanmingming.cn/tv/CA CBC NEWS NETWORK (E)[960x540].png" group-title="24/7 WORLD NEWS",CA CBC NEWS NETWORK
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+
 http://nocable.cc:8080/5AGbfz/324331/57304
 
 # https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/330px-CNA_new_logo.svg.png

@@ -177,12 +177,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="2026 WORLD CUP" ,FS1 HD
-
+https://tvpass.org/live/FoxSports1/hd
 
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
 
-
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
 https://tvpass.org/live/FoxSports1/hd
+
+
 
 # http://supersonictv.live:8080/006779/439866/40398
 
@@ -197,10 +199,11 @@ https://tvpass.org/live/FoxSports1/hd
 
 
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="2026 WORLD CUP" ,FS2 HD
-
+https://tvpass.org/live/FoxSports2/hd
 
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts
 
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
 https://tvpass.org/live/FoxSports2/hd
 
 
@@ -478,6 +481,11 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 # http://183.151.27.135:4022/udp/233.50.200.108:5140
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="2026 WORLD CUP", CCTV5 央视体育
+# http://183.151.27.135:4022/udp/233.50.200.108:5140
+http://74.91.26.218:82/live/cctv5hd.m3u8
+
+
 # EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="China 央视",CCTV 5plus 央视体育
 # http://69.30.246.194/live/cctv5p.m3u8
 
@@ -550,6 +558,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 tvg-id="410274" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 # http://bxtv.3a.ink/api.php?id=viutv
+
+
+#EXTINF:-1 tvg-id="410274" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="2026 WORLD CUP",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY TV.png" group-title="Hong Kong 香港",HOY TV
 http://r.jdshipin.com/sFw4S
@@ -635,19 +647,24 @@ https://a1xs.vip/2000031
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="2026 WORLD CUP",CA TSN1
-
-# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts
 https://tvpass.org/live/tsn1/hd
 
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
+https://tvpass.org/live/tsn1/hd
 
 # https://7pal.short.gy/tsn1ca
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47440
 
 # https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="2026 WORLD CUP",CA TSN2
-https://tvpass.org/live/tsn2/sd
+https://tvpass.org/live/tsn2/hd
 
 # https://7pal.short.gy/tsn2ca
+
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="SPORTS",CA TSN2
+https://tvpass.org/live/tsn2/hd
 
 # https://a1xs.vip/6000002
 # 
@@ -657,9 +674,12 @@ https://tvpass.org/live/tsn2/sd
 
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="2026 WORLD CUP",CA TSN3
-https://tvpass.org/live/tsn3/sd
+https://tvpass.org/live/tsn3/hd
 
 # https://7pal.short.gy/tsn3ca
+
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="SPORTS",CA TSN3
+https://tvpass.org/live/tsn3/hd
 
 # 
 
@@ -667,20 +687,27 @@ https://tvpass.org/live/tsn3/sd
 # https://a1xs.vip/6000003
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="2026 WORLD CUP",CA TSN4
-https://tvpass.org/live/tsn4/sd
+https://tvpass.org/live/tsn4/hd
 
 # https://7pal.short.gy/tsn4ca
 
-# 
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="SPORTS",CA TSN4
+https://tvpass.org/live/tsn4/hd
+
+
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
 # https://a1xs.vip/6000004
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="2026 WORLD CUP",CA TSN5
-https://tvpass.org/live/tsn5/sd
+https://tvpass.org/live/tsn5/hd
 
 # https://7pal.short.gy/tsn5ca
 
-# 
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="SPORTS",CA TSN5
+https://tvpass.org/live/tsn5/hd
+
+
 # https://a1xs.vip/6000005
 
 

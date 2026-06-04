@@ -64,10 +64,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 #EXTINF:-1 tvg-id="cnbc-usa"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
+# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
 
 
-# https://tvpass.org/live/CNBC/sd
+https://tvpass.org/live/CNBC/hd
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 https://tvpass.org/live/ESPN/sd
@@ -495,17 +495,17 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 # http://iptv.4666888.xyz/iptv2A.php?id=11
 
 
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="China 央视", CCTV5 央视体育
+# EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="China 央视", CCTV5 央视体育
 # http://183.151.27.135:4022/udp/233.50.200.108:5140
-http://74.91.26.218:82/live/cctv5hd.m3u8
+# http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="2026 WORLD CUP", CCTV5 央视体育
+# EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="2026 WORLD CUP", CCTV5 央视体育
 # http://183.151.27.135:4022/udp/233.50.200.108:5140
-http://74.91.26.218:82/live/cctv5hd.m3u8
+# http://74.91.26.218:82/live/cctv5hd.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="China 央视",CCTV 5plus 央视体育
-http://74.91.26.218:82/live/cctv5p.m3u8
+# EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="China 央视",CCTV 5plus 央视体育
+# http://74.91.26.218:82/live/cctv5p.m3u8
 
 # http://69.30.246.194/live/cctv5p.m3u8
 
@@ -665,7 +665,8 @@ https://a1xs.vip/2000031
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="2026 WORLD CUP",CA TSN1
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
+https://tvpass.org/live/tsn1/hd
+# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
 
 
 
@@ -681,7 +682,8 @@ https://tvpass.org/live/tsn1/hd
 
 # https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="2026 WORLD CUP",CA TSN2
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
+# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
+https://tvpass.org/live/tsn2/hd
 
 # https://7pal.short.gy/tsn2ca
 

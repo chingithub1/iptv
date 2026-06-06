@@ -665,8 +665,8 @@ https://a1xs.vip/2000031
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="2026 WORLD CUP",CA TSN1
-https://tvpass.org/live/tsn1/hd
-# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
+# https://tvpass.org/live/tsn1/hd
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
 
 
 
@@ -675,20 +675,26 @@ https://tvpass.org/live/tsn1/hd
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3146.ts
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
-https://tvpass.org/live/tsn1/hd
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
+
+# https://tvpass.org/live/tsn1/hd
 
 # https://7pal.short.gy/tsn1ca
 # http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47440
 
 # https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="2026 WORLD CUP",CA TSN2
-# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
-https://tvpass.org/live/tsn2/hd
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
+
+# https://tvpass.org/live/tsn2/hd
 
 # https://7pal.short.gy/tsn2ca
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="SPORTS",CA TSN2
-https://tvpass.org/live/tsn2/hd
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
+
+
+# https://tvpass.org/live/tsn2/hd
 
 # https://a1xs.vip/6000002
 # 

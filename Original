@@ -64,10 +64,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 #EXTINF:-1 tvg-id="cnbc-usa"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
-# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
 
 
-https://tvpass.org/live/CNBC/hd
+# https://tvpass.org/live/CNBC/hd
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 https://tvpass.org/live/ESPN/sd

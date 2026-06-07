@@ -812,3 +812,13 @@ http://74.91.26.218:82/live/cctv16hd.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS", &Flix HD
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS", Star Sports Select 2
+http://103.204.43.87:8080/live/1/1/243.m3u8
+
+#EXTINF:-1 group-title="SPORTS", Sports First TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8

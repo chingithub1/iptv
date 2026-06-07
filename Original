@@ -70,7 +70,9 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
 # https://tvpass.org/live/CNBC/hd
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-https://tvpass.org/live/ESPN/sd
+https://tvsen5.aynaott.com/espn/index.m3u8?e=1780794391&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a89faaf9848da48064a6bbcaaf8da320
+
+# https://tvpass.org/live/ESPN/sd
 
 
 # https://a1xs.vip/40000011
@@ -109,7 +111,9 @@ https://bloomberg.com/media-manifest/streams/qt.m3u8
 
 
 #EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-https://tvpass.org/live/MSNBC/hd
+https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1780794393&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ea889971dea6faa5d796434a326d345e
+
+# https://tvpass.org/live/MSNBC/hd
 
 # https://a1xs.vip/300008
 
@@ -129,7 +133,9 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 # https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
-https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+
+# https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CA CBC NEWS NETWORK (E)[960x540]" tvg-logo="https://live.fanmingming.cn/tv/CA CBC NEWS NETWORK (E)[960x540].png" group-title="24/7 WORLD NEWS",CA CBC NEWS NETWORK
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
@@ -704,12 +710,16 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
 
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="2026 WORLD CUP",CA TSN3
-https://tvpass.org/live/tsn3/hd
+https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1780794391&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d96451eefffcff60f35c558d7964c8e4
+
+# https://tvpass.org/live/tsn3/hd
 
 # https://7pal.short.gy/tsn3ca
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="SPORTS",CA TSN3
-https://tvpass.org/live/tsn3/hd
+https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1780794391&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d96451eefffcff60f35c558d7964c8e4
+
+# https://tvpass.org/live/tsn3/hd
 
 # 
 

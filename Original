@@ -190,8 +190,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 # http://cdn6.163189.xyz/163189/fhhk
 
-#EXTINF:-1 tvg-chno="66" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="2026 WORLD CUP",Fox Sports 1
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+# EXTINF:-1 tvg-chno="66" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="2026 WORLD CUP",Fox Sports 1
+# https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 
 # http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
 
@@ -218,15 +218,17 @@ https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u
 # https://a1xs.vip/40000021
 # 
 
-#EXTINF:-1 tvg-chno="67" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="2026 WORLD CUP",Fox Sports 2
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
+# EXTINF:-1 tvg-chno="67" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="2026 WORLD CUP",Fox Sports 2
+# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
 
 
 
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts
 
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
-https://tvpass.org/live/FoxSports2/hd
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
+
+# https://tvpass.org/live/FoxSports2/hd
 
 
 # http://supersonictv.live:8080/006779/439866/40399

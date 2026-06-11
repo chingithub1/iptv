@@ -191,7 +191,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 # http://cdn6.163189.xyz/163189/fhhk
 
 #EXTINF:-1 tvg-chno="66" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="2026 WORLD CUP",Fox Sports 1
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+
+# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
 
 
 
@@ -200,7 +202,9 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
 
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
-https://tvpass.org/live/FoxSports1/hd
+
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+# https://tvpass.org/live/FoxSports1/hd
 
 
 
@@ -503,11 +507,15 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 # http://iptv.4666888.xyz/iptv2A.php?id=11
 
 
-# EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="China 央视", CCTV5 央视体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="China 央视", CCTV5 央视体育
 # http://183.151.27.135:4022/udp/233.50.200.108:5140
 # http://74.91.26.218:82/live/cctv5hd.m3u8
+http://45.192.97.170:8880/play/283.m3u8
 
-# EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="2026 WORLD CUP", CCTV5 央视体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="2026 WORLD CUP", CCTV5 央视体育
+
+http://45.192.97.170:8880/play/283.m3u8
+
 # http://183.151.27.135:4022/udp/233.50.200.108:5140
 # http://74.91.26.218:82/live/cctv5hd.m3u8
 

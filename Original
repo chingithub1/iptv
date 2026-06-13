@@ -890,3 +890,10 @@ https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 # EXTINF:0 group-title="SPORTS",beIN Sports US
 # http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31048/index.m3u8
 
+
+#EXTINF:-1 tvg-id="613683" tvg-logo="https://canvas-lb.tubitv.com/opts/50bQ3M9R_pEUzg==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjlAAQ==" group-title="SPORTS™,FOX Sports on Tubi
+https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" group-title="Taiwan",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8

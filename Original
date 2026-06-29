@@ -897,3 +897,23 @@ https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0
 
 #EXTINF:-1 tvg-id="TVBSAsia.tw@SD" group-title="Taiwan",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+#EXTINF:-1 group-title="Taiwan",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 group-title="Taiwan",东森超视34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+
+#EXTINF:-1 group-title="Taiwan",东森美洲卫视
+https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
+
+#EXTINF:-1 group-title="Taiwan",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+#EXTINF:-1 group-title="Taiwan",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+
+
+
+
+

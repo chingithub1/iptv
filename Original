@@ -97,7 +97,9 @@ https://tvpass.org/live/ESPN2/sd
 # https://7pal.short.gy/espn2
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="SPORTS", NBA TV
-https://tvpass.org/live/NBATV/sd
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+
+# https://tvpass.org/live/NBATV/sd
 
 # http://supersonictv.live:8080/006779/439866/40409
 
@@ -112,8 +114,10 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 
 
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
-https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1780794393&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ea889971dea6faa5d796434a326d345e
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MS NOW
+http://40.160.24.53/MSNBC/index.m3u8
+
+# https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1780794393&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ea889971dea6faa5d796434a326d345e
 
 # https://tvpass.org/live/MSNBC/hd
 
@@ -156,8 +160,10 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 # https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-id="Skynews.uk" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
-# https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+# https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+# https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 # https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 
@@ -202,8 +208,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
 
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
-
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+# https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 # https://tvpass.org/live/FoxSports1/hd
 
 
@@ -289,18 +295,35 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/873.ts
 # EXTINF:-1 tvg-name="UK-Sky Cinema Premier[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/UK-Sky Cinema Premier[1920x1080].png" group-title="Movies",UK-Sky Cinema Premier[1920x1080]
 # http://nocable.cc:8080/5AGbfz/324331/35256
 
+#EXTINF:-1 tvg-id="MovieSphere.us@CA" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere by Lionsgate
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="US Cinemax (East)[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/US Cinemax (East)[1920x1080].png" group-title="Movies",US Cinemax (East)[1920x1080]
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="Movies",Showtime
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlus.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png" group-title="Movies",MGM+ (1080p)
+https://gpuserver3.tier1streams.com/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Movies",Showtime Extreme
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648984.ts
+#EXTINF:-1 tvg-id="MGMPlusDriveIn.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png" group-title="Movies",MGM+ Drive-In (720p)
+https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8
 
+# EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="Movies",Showtime
+# http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
+#EXTINF:-1 tvg-id="Showtime2.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="Movies",Showtime 2 (1080p)
+http://40.160.24.55/SHOWTIME_2/index.m3u8
 
+# EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Movies",Showtime Extreme
+# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/648984.ts
 
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Movies",Showtime Next (720p)
+http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.us@West" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime West (720p)
+http://40.160.24.55/SHOWTIME_WEST/index.m3u8
 
 
 # http://nocable.cc:8080/5AGbfz/324331/13380
@@ -372,7 +395,8 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 
 #EXTINF:-1 tvg-id="368550" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+# http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 
 #EXTINF:-1 tvg-id="368551" tvg-logo="https://logos.fandom.com/vi/wiki/%E6%B8%AF%E5%8F%B0%E9%9B%BB%E8%A6%96_32?file=RTHK_TV_32_2013.svg" group-title="Hong Kong 香港",港台電視32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
@@ -887,9 +911,18 @@ https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 
 
-# EXTINF:0 group-title="SPORTS",beIN Sports US
-# http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31048/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="Music",AXS TV (1080p)
+https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="UK Channels",BBC Earth (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+# EXTINF:0 group-title="SPORTS",beIN Sports US
+
+
+# http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31048/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us@SD" tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="SPORTS",Fox Soccer Plus (720p)
+https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="613683" tvg-logo="https://canvas-lb.tubitv.com/opts/50bQ3M9R_pEUzg==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjlAAQ==" group-title="SPORTS™,FOX Sports on Tubi
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
@@ -914,6 +947,15 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 
 
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="ASIA",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
+
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="ASIA",Arirang TV HD (720p)
+http://45.162.64.114/ARIRANG/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SmithsonianChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel (1080p)
+http://40.160.24.55/SMITHSONIAN/index.m3u8
 
 

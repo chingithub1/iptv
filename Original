@@ -89,7 +89,7 @@ https://tvsen5.aynaott.com/espn/index.m3u8?e=1780794391&u=78be6644-0a65-48ec-81a
 #EXTINF:-1 tvg-id="espn-deportes" group-title="SPORTS", ESPN Deportes
 
 # http://supersonictv.live:8080/006779/439866/22222
-https://tvpass.org/live/espn-deportes/sd
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN2
 https://tvpass.org/live/ESPN2/sd

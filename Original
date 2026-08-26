@@ -394,8 +394,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 
-#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://live.fanmingming.cn/tv/澳门体育.png" group-title="Hong Kong 香港",澳门体育
-http://cdn6.163189.xyz/163189/amty
+# EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://live.fanmingming.cn/tv/澳门体育.png" group-title="Hong Kong 香港",澳门体育
+# http://cdn6.163189.xyz/163189/amty
 
 # EXTINF:-1 tvg-name="NOW NEWS" tvg-logo="https://live.fanmingming.cn/tv/NOWNEWS.png" group-title="Hong Kong 香港",NOW NEWS
 # http://cdn.163189.xyz/163189/now
@@ -579,8 +579,8 @@ http://r.jdshipin.com/sFw4S
 # https://7pal.short.gy/SkSpMainE
 
 # https://a1xs.vip/2000001
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="SPORTS",UK | Sky Sports Premier League
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2165.ts
+# EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="SPORTS",UK | Sky Sports Premier League
+# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2165.ts
 
 # https://7pal.short.gy/ssportspl
 
@@ -761,8 +761,8 @@ https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN
 # http://69.30.246.194/live/cctv16.m3u8
 http://74.91.26.218:82/live/cctv16hd.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+# EXTINF:-1 tvg-name="" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music Concerts
+# https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
 
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="SPORTS",CBS Sports Golazo Network (720p)
@@ -780,8 +780,8 @@ https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master
 
 
 
-#EXTINF:-1 tvg-id="AXSTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="Music",AXS TV (1080p)
-https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
+# EXTINF:-1 tvg-id="AXSTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="Music",AXS TV (1080p)
+# https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="UK Channels",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -790,8 +790,8 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 
 # http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31048/index.m3u8
-#EXTINF:-1 tvg-id="FoxSoccerPlus.us@SD" tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="SPORTS",Fox Soccer Plus (720p)
-https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
+# EXTINF:-1 tvg-id="FoxSoccerPlus.us@SD" tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="SPORTS",Fox Soccer Plus (720p)
+# https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="613683" tvg-logo="https://canvas-lb.tubitv.com/opts/50bQ3M9R_pEUzg==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjlAAQ==" group-title="SPORTS™,FOX Sports on Tubi
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
@@ -815,12 +815,12 @@ https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="ASIA",NHK World-Japan (1080p)
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+# EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="ASIA",NHK World-Japan (1080p)
+# https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="ASIA",Arirang TV HD (720p)
-http://45.162.64.114/ARIRANG/index.m3u8
+# EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="ASIA",Arirang TV HD (720p)
+# http://45.162.64.114/ARIRANG/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SmithsonianChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel (1080p)

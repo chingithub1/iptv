@@ -831,3 +831,43 @@ http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778410.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="SPORTS" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-2-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778409.ts
+
+
+
+
+#EXTINF:-1 tvg-id="0" group-title="Sports" tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-SPORTS.png",AU - FOX SPORTS 501
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=259842
+
+#EXTINF:-1 tvg-id="0" group-title="Sports" tvg-logo="http://103.176.90.118/picons-dino/logos/skysport1.png",NZ - SKY SPORT 1 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=689432
+
+#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports NZ 1 FHD" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="Sports",Sky Sports NZ 1 FHD
+http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="SkySports2" tvg-name="Sky Sports NZ 2 FHD" tvg-logo="https://8upload.com/image/67dcf3f712c8a/sky-sport-2-nz.png?raw=1" group-title="Sports",Sky Sports NZ 2 FHD
+http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="SkySports3" tvg-name="Sky Sports NZ 3 FHD" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="Sports",Sky Sports NZ 3 FHD
+http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="foxcricket.in" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" group-title="Sports",Fox Sports 501 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/wkHBCNs.png" group-title="Sports",SporTV  FHD
+http://vydns.com:80/live/5Y6fnH/g8F1hQ/27510330.ts
+
+#EXTINF:-1 tvg-id="0" group-title="Sports" tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-SPORTS-503.png",AU - FOX SPORTS 503
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=259844
+
+#EXTINF:-1 tvg-id="0" group-title="Sports" tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-SPORTS.png",AU - FOX SPORTS 504
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=259845
+
+#EXTINF:-1 tvg-id="0" group-title="Sports" tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-SPORTS-507.png",AU - FOX SPORTS 505
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=617191
+
+#EXTINF:-1 tvg-id="0" group-title="Sports" tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-SPORTS-507.png",AU - FOX SPORTS 506
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=617192
+
+#EXTINF:-1 tvg-id="0" group-title="Sports" tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-SPORTS-507.png",AU - FOX SPORTS 507
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=259846

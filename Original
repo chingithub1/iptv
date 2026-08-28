@@ -32,7 +32,10 @@ http://r.jdshipin.com/thuYX
 
 
 #EXTINF:21 tvg-id="無綫新聞台.hk" group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
-https://cdn6.cc.cd/163189/wxxw
+http://r.jdshipin.com/CkuBd
+
+# good
+# https://cdn6.cc.cd/163189/wxxw
 
 # http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
@@ -45,7 +48,7 @@ https://cdn6.cc.cd/163189/wxxw
 
 
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="24/7 WORLD NEWS",CNN (US) 
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+https://jmp2.uk/stvp-ATBD800001VA
 
 # https://rb.gy/esnpvn
 
@@ -495,6 +498,9 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 
 # http://69.30.246.194/live/cctv5p.m3u8
 
+#EXTINF:-1  tvg-name="风云足球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png"  group-title="China 央视",风云足球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+
 # EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
 # https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
@@ -826,12 +832,21 @@ https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 
 
-# EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="ASIA",NHK World-Japan (1080p)
+#EXTINF:-1  tvg-name="中视新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中视新闻.png"  group-title="Taiwan",中视新闻
+http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+
+
+#EXTINF:-1  tvg-name="华视新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视新闻.png"  group-title="Taiwan",华视新闻
+https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="ASIA",NHK World-Japan (1080p)
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
 # https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 
-# EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="ASIA",Arirang TV HD (720p)
-# http://45.162.64.114/ARIRANG/index.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="ASIA",Arirang TV HD (720p)
+http://45.162.64.114/ARIRANG/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SmithsonianChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel (1080p)

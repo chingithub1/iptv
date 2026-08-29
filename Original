@@ -156,9 +156,10 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 # https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-id="Skynews.uk" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
+https://xemzi.short.gy/1000018
 
-https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
-# https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+
+
 # https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 # https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
@@ -842,7 +843,9 @@ http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="ASIA",NHK World-Japan (1080p)
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+# https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 # https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 

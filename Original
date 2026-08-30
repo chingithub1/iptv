@@ -60,16 +60,21 @@ https://jmp2.uk/stvp-ATBD800001VA
 #EXTINF:-1 tvg-id="cnbc-usa"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 
+
+# # good
+# http://stream.bottledesk.net/6500/index.m3u8
 # http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
 
 
-# https://tvpass.org/live/CNBC/hd
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
-http://stream.bottledesk.net/6500/index.m3u8
 
-# good
-# https://tvsen5.aynaott.com/espn/index.m3u8?e=1780794391&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a89faaf9848da48064a6bbcaaf8da320
+
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
+
+
+
 
 
 
@@ -127,7 +132,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9998400
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="24/7 WORLD NEWS",BBC World News (GB)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="International News" tvg-id="dwnews" tvg-logo="https://img.favpng.com/8/20/21/logo-deutsche-welle-dw-tv-dw-espa-ol-png-favpng-HaURNeixYqyctM1CSnmKA1kWk.jpg",DW News
+#EXTINF:-1 group-title="24/7 WORLD NEWS" tvg-id="dwnews" tvg-logo="https://img.favpng.com/8/20/21/logo-deutsche-welle-dw-tv-dw-espa-ol-png-favpng-HaURNeixYqyctM1CSnmKA1kWk.jpg",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 
 
@@ -902,3 +907,13 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=617192
 
 #EXTINF:-1 tvg-id="0" group-title="Sports" tvg-logo="http://103.176.90.118/picons-dino/logos/FOX-SPORTS-507.png",AU - FOX SPORTS 507
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=259846
+
+
+
+#EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Sports",﻿Premiere 1 FHD
+http://64.31.23.207:80/96795792/50165825/3460209.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Sports",Premiere 2 FHD
+http://64.31.23.207:80/96795792/50165825/3460212.m3u8
+
+

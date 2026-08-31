@@ -661,8 +661,8 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2166.ts
 
 
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
-http://40.160.24.55/TSN_1/index.m3u8
+# EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="SPORTS",CA TSN1
+# http://40.160.24.55/TSN_1/index.m3u8
 
 # http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
 
@@ -673,8 +673,8 @@ http://40.160.24.55/TSN_1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="SPORTS",CA TSN2
-http://40.160.24.55/TSN_2/index.m3u8
+# EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="SPORTS",CA TSN2
+# http://40.160.24.55/TSN_2/index.m3u8
 
 # http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
 
@@ -697,8 +697,8 @@ http://40.160.24.55/TSN_2/index.m3u8
 
 # https://7pal.short.gy/tsn3ca
 
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="SPORTS",CA TSN3
-http://40.160.24.55/TSN_3/index.m3u8
+# EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="SPORTS",CA TSN3
+# http://40.160.24.55/TSN_3/index.m3u8
 
 https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1780794391&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d96451eefffcff60f35c558d7964c8e4
 
@@ -711,7 +711,7 @@ https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1780794391&u=78be6644-0a65-48ec-81a
 
 
 
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="SPORTS",CA TSN4
+#  #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="SPORTS",CA TSN4
 http://40.160.24.55/TSN_4/index.m3u8
 
 # https://tvpass.org/live/tsn4/hd
@@ -721,8 +721,8 @@ http://40.160.24.55/TSN_4/index.m3u8
 # https://a1xs.vip/6000004
 
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="SPORTS",CA TSN5
-http://40.160.24.55/TSN_5/index.m3u8
+# EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="SPORTS",CA TSN5
+# http://40.160.24.55/TSN_5/index.m3u8
 
 # https://tvpass.org/live/tsn5/hd
 
@@ -779,9 +779,9 @@ http://40.160.24.55/TSN_5/index.m3u8
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="" cuid="1892" tvg-id="" tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORTS",CCTV16
+# EXTINF:-1 tvg-chno="" cuid="1892" tvg-id="" tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORTS",CCTV16
 # http://69.30.246.194/live/cctv16.m3u8
-http://74.91.26.218:82/live/cctv16hd.m3u8
+# http://74.91.26.218:82/live/cctv16hd.m3u8
 
 # EXTINF:-1 tvg-name="" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music Concerts
 # https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
@@ -847,16 +847,16 @@ http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 #EXTINF:-1  tvg-name="华视新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视新闻.png"  group-title="Taiwan",华视新闻
 https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="ASIA",NHK World-Japan (1080p)
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+# EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="ASIA",NHK World-Japan (1080p)
+# https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 # https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 # https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="ASIA",Arirang TV HD (720p)
-http://45.162.64.114/ARIRANG/index.m3u8
+# EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="ASIA",Arirang TV HD (720p)
+# http://45.162.64.114/ARIRANG/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SmithsonianChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel (1080p)

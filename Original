@@ -84,7 +84,8 @@ http://stream.bottledesk.net/6500/index.m3u8
 # http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="espn-deportes" group-title="SPORTS", ESPN Deportes
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3ODkwOTAyMDk4NTk6Y2RubGl2ZXR2LnR2OmZjYTQwY2I4NTZlZDRmYjEuMDEwZmZmODJmMzdhNmZiZjhjMmZmYzU1MjJlZTE5NWM0OGRhMjllODI4Y2RjZjc3YThiZjNkMTM0NzJkZTA3Ng
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3ODkxNzY2MjA4NzE6Y2RubGl2ZXR2LnR2OjU4MTk4NDgxNjFiMGZkNGQuOThkOWZiY2UyNzE4OTQxMWEyNzljZjc0NzEyYzI5MzhkOWZkZDdiMTk4YjU5ZmU0ZjA2Mjk2NGUxZjU0NjMwNw
+
 
 # http://168.228.44.241:9998/play/a0dz/index.m3u8
 
@@ -549,7 +550,9 @@ http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="SPORTS",UK | Sky Sports Football
 
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2166.ts
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3ODkxNzY2MzIzNDI6Y2RubGl2ZXR2LnR2OjBiYTU2MmY4MjMyYmNlNDcuMGY0OWM5YjI3NmU5Nzc4NDVmNDE1ZmRiNzdiZmEwNmUxY2UxMzExZDE5OGRiMzk5YWFkMmRlNjMzMDZjZWUzNQ
+
+#  http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2166.ts
 
 # https://7pal.short.gy/ssportsfb
 # http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/30822.ts
@@ -557,7 +560,7 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2166.ts
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="SPORTS",UK | TNT Sports 1
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODkwOTAyMTAyNzQ6Y2RubGl2ZXR2LnR2Ojk0YmExNWUyMGRiYTI2NTkuYzAxNGZlMDAyYjdkZjgwODBlNTZmYTEwNmZlYTdlZGVkZTdjYzk0YTdkMzVkMjgxOGVlZTgxODhiMGJhMTdjOQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODkxNzY2MjIzMTE6Y2RubGl2ZXR2LnR2OmU0ZWYyZThlYzY3MmY4Y2YuNzIxMzc3MzIyYTEzNTk1N2Q3MWJhODk0YzA4ZjZjYmM2YmFlMGQ5ODMxMzg2ZjJjM2RhMjBmNWI0NDQ3MGVkZA
 
 
 
@@ -584,7 +587,8 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="SPORTS",UK | TNT Sports 3
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3ODkwOTAyMzAwNDA6Y2RubGl2ZXR2LnR2OjE5ZGVjMjdkMDIyMzFlMDUuNGM1ZjM5YTViMjkyNDgzZDM1OTc3ZmE3ZTAzM2UyZGNjOGFjMDUzZDU5NzM2NzhmMzE5OTRmOTQ5ZWFmZDNlYw
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3ODkxNzY2MjMxMzQ6Y2RubGl2ZXR2LnR2OmEzNTEwZTgzM2M3MzcyMjEuNzFiMDUxMDE2MWExYWM0NWVjMDE2NjhjNTkyYWVmNDRmZjRlNWIzY2ZkNDNlYTdkNDBkZjFlZDZlZTUwMGM5ZQ
+
 
 # https://a1xs.vip/2000023
 
@@ -596,7 +600,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="SPORTS",UK | TNT Sports 4
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRlOjE3ODkwOTAyMjU4Mzc6Y2RubGl2ZXR2LnR2OjdhYmQ3M2QxNWY3NjBiOTkuN2IwZTczZWE3MTM1OWY5MDc3YTQ5ZDNhOGRjMzNlOTExNWJmZTkxNjBlYmEzODgzYmM5M2YzM2YzNWQ5M2I5Zg
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRlOjE3ODkxNzY2MzUwMDI6Y2RubGl2ZXR2LnR2OmU5ZGMyODcyYWQyZWRjZjguZDYxYTZjMmUzYTI5YTAxMzk2NjVlM2JhMWI1MDYyNzRlMWQ3YzU4ODJhYjEzNzIxYWRlOTdmNzFlM2EzYzBhYg
 
 
 # https://a1xs.vip/2000024

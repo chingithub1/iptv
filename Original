@@ -202,7 +202,9 @@ https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 # https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="鳳凰衛視香港台.hk" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+# http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 # http://cdn6.163189.xyz/163189/fhhk
 

@@ -61,6 +61,9 @@ https://jmp2.uk/stvp-ATBD800001VA
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 
 
+# This is good
+# http://41.205.93.154/CNBC/index.m3u8
+
 # # good
 # http://stream.bottledesk.net/6500/index.m3u8
 # http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
@@ -190,15 +193,10 @@ http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 
 
-# https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="SPORTS",NFL Channel
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 
-# https://7pal.short.gy/nflnw
 
-# 
-
-# https://a1xs.vip/40000032
-
-# http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 # EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
 # https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
@@ -276,6 +274,10 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere UK (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="37" tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+
 #EXTINF:-1 tvg-name="US Cinemax (East)[1920x1080]" tvg-logo="https://live.fanmingming.cn/tv/US Cinemax (East)[1920x1080].png" group-title="Movies",US Cinemax (East)[1920x1080]
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
@@ -289,9 +291,14 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movies",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
+#EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+
 #EXTINF:-1 tvg-id="TCMPacific.us" tvg-name="TCM West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies",TCM (Turner Classic Movies) West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 
+#EXTINF:-1 tvg-id="561c5b0dada51f8004c4d855" tvg-name="Classic Movies Channel" tvg-logo="https://i.imgur.com/pQJxov2.png" group-title="Movies",Classic Movies Channel
+https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 
 
 
@@ -731,10 +738,6 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=
 
 # https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
 
-# EXTINF:-1 tvg-chno="131" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
-# http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1217.ts
-
-# http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2412.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SPORTS",Bein Sports Xtra 
@@ -876,4 +879,14 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=259846
 # EXTINF:-1 tvg-id="Premiere 2 SD" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Sports",Premiere 2 FHD
 # http://64.31.23.207:80/96795792/50165825/3460212.m3u8
 
+
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN PC (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Deportes (720p)
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="40" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="TV",CNBC
+http://41.205.93.154/CNBC/index.m3u8
 
